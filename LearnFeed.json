@@ -2,6 +2,735 @@
   "version": 1,
   "items": [
     {
+      "id": "42ab11a2-c426-4663-9a17-e0584aabea50",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Emotional abuse is the maltreatment most tied to depression",
+      "body": "A multilevel meta-analysis drawing on 217 depression risk studies and 157 severity studies compared forms of child maltreatment. Emotional abuse showed the strongest association with depression and sexual abuse the weakest. In studies that measured all three abuse types, the order was emotional > physical > sexual abuse for both risk and severity.",
+      "takeaway": "When taking a trauma history, ask about emotional abuse, not just physical or sexual.",
+      "tags": [
+        "child maltreatment",
+        "emotional abuse",
+        "depression"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La violence psychologique est la plus liée à la dépression",
+        "body": "Une méta-analyse multiniveau portant sur 217 études du risque de dépression et 157 études de sa sévérité a comparé les formes de maltraitance durant l'enfance. La violence psychologique était la plus fortement associée à la dépression, et la violence sexuelle, le moins. Dans les études mesurant les trois types de violence, l'ordre était psychologique > physique > sexuelle, pour le risque comme pour la sévérité.",
+        "takeaway": "Dans l'histoire de traumatismes, questionnez la violence psychologique, pas seulement physique ou sexuelle.",
+        "tags": [
+          "maltraitance",
+          "violence psychologique",
+          "dépression"
+        ]
+      },
+      "source": {
+        "pmid": "41940550",
+        "title": "Associations between five forms of child maltreatment and depression: a multilevel meta-analytic comparison.",
+        "journal": "Psychological medicine",
+        "year": "2026",
+        "doi": "10.1017/S003329172610381X",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41940550/"
+      }
+    },
+    {
+      "id": "76dcdd6f-48cb-4fb5-be1a-efcd708b03a4",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 3,
+      "title": "Ultra-rare autism variants are linked to ID, ADHD, epilepsy",
+      "body": "Autism genetics spans rare de novo variants with large effects and many common variants with small effects, and their influences appear largely additive. Ultra-rare variants tend to be associated with co-occurring intellectual disability, ADHD, epilepsy and psychiatric conditions. The yield of clinical genetic testing varies with sex and co-occurring conditions.",
+      "takeaway": "Autism with ID, ADHD or epilepsy is more often linked to ultra-rare variants.",
+      "tags": [
+        "autism",
+        "genetics",
+        "adhd",
+        "epilepsy"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Variants ultra-rares de l'autisme : associés à DI, TDAH, épilepsie",
+        "body": "La génétique de l'autisme va des variants rares de novo à effet important aux nombreux variants fréquents à petit effet, dont les influences semblent largement additives. Les variants ultra-rares tendent à être associés à une déficience intellectuelle, à un TDAH, à une épilepsie et à des troubles psychiatriques concomitants. Le rendement des tests génétiques cliniques varie selon le sexe et les troubles concomitants.",
+        "takeaway": "L'autisme avec DI, TDAH ou épilepsie est plus souvent lié à des variants ultra-rares.",
+        "tags": [
+          "autisme",
+          "génétique",
+          "tdah",
+          "épilepsie"
+        ]
+      },
+      "source": {
+        "pmid": "42854861",
+        "title": "The genetic orchestra of autism and its intersections with epilepsy, intellectual disability, and ADHD.",
+        "journal": "Biological psychiatry",
+        "year": "2026",
+        "doi": "10.1016/j.biopsych.2026.10.003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854861/"
+      }
+    },
+    {
+      "id": "d3d8f1f4-0219-44de-b24c-8e766c27c5ff",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "New street-drug adulterants are reaching pregnant patients",
+      "body": "Perinatal substance exposure is changing faster than outcome data can follow. New exposures include adulterants in the drug supply such as fentanyl, xylazine, nitazenes and medetomidine, products sold as herbal or natural supplements such as kratom and tianeptine, and prescription drugs like ketamine used in new ways. Pregnancy effects for many are unknown.",
+      "takeaway": "Ask pregnant patients specifically about supplements like kratom, not just street drugs.",
+      "tags": [
+        "pregnancy",
+        "substance use",
+        "xylazine",
+        "kratom"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "De nouveaux adultérants de drogues touchent les femmes enceintes",
+        "body": "L'exposition périnatale aux substances évolue plus vite que les données sur ses conséquences. Les nouvelles expositions incluent des adultérants de l'approvisionnement en drogues comme le fentanyl, la xylazine, les nitazènes et la médétomidine, des produits vendus comme suppléments naturels comme le kratom et la tianeptine, et des médicaments comme la kétamine utilisés autrement. Leurs effets sur la grossesse sont souvent inconnus.",
+        "takeaway": "Questionnez les femmes enceintes sur les suppléments comme le kratom, pas seulement les drogues.",
+        "tags": [
+          "grossesse",
+          "consommation de substances",
+          "xylazine",
+          "kratom"
+        ]
+      },
+      "source": {
+        "pmid": "41166713",
+        "title": "Emerging Substances and Perinatal Health: A Narrative Review.",
+        "journal": "Obstetrics and gynecology",
+        "year": "2026",
+        "doi": "10.1097/AOG.0000000000006110",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41166713/"
+      }
+    },
+    {
+      "id": "cc579092-3e1f-4b8a-9a24-ac1e2ae9b381",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Most civilians no longer had PTSD after trauma-focused care",
+      "body": "A meta-analysis of 34 randomized trials (3208 adults) estimated how many patients no longer met PTSD criteria after psychotherapy. Across trauma-focused treatments, 65% to 86% of non-military samples lost the diagnosis. Military and veteran samples did less well with cognitive processing therapy and prolonged exposure, at 44% to 50%.",
+      "takeaway": "After trauma-focused therapy most civilians no longer meet PTSD criteria; veterans less.",
+      "tags": [
+        "ptsd",
+        "psychotherapy",
+        "veterans"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Thérapie axée sur le trauma : la plupart des civils n'ont plus de TSPT",
+        "body": "Une méta-analyse de 34 essais randomisés (3208 adultes) a estimé la proportion de patients ne répondant plus aux critères du TSPT après une psychothérapie. Avec les traitements axés sur le trauma, 65 % à 86 % des échantillons non militaires perdaient le diagnostic. Les militaires et vétérans répondaient moins bien à la thérapie de traitement cognitif et à l'exposition prolongée : 44 % à 50 %.",
+        "takeaway": "Après une thérapie axée sur le trauma, la plupart des civils n'ont plus de TSPT; les vétérans, moins.",
+        "tags": [
+          "tspt",
+          "psychothérapie",
+          "vétérans"
+        ]
+      },
+      "source": {
+        "pmid": "40397424",
+        "title": "Loss of PTSD Diagnosis in Response to Evidence-Based Treatments: A Systematic Review and Meta-Analysis.",
+        "journal": "JAMA psychiatry",
+        "year": "2025",
+        "doi": "10.1001/jamapsychiatry.2025.0695",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40397424/"
+      }
+    },
+    {
+      "id": "48fc69e7-fa29-4c02-8fe5-4a418c06c970",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Trauma-focused CBT works best for PTSD in children",
+      "body": "A network meta-analysis of 70 randomized trials (5528 children and adolescents) found that trauma-focused CBT, EMDR, multidisciplinary and non-trauma-focused treatments all reduced pediatric PTSD more than passive controls. Trauma-focused CBT had the largest reductions, and with parent involvement it beat non-trauma-focused interventions. Benefits held up to 24 months.",
+      "takeaway": "For pediatric PTSD, trauma-focused CBT with a parent involved has the best support.",
+      "tags": [
+        "ptsd",
+        "children",
+        "tf-cbt",
+        "network meta-analysis"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La TCC axée sur le trauma est la plus efficace contre le TSPT infantile",
+        "body": "Une méta-analyse en réseau de 70 essais randomisés (5528 enfants et adolescents) a montré que la TCC axée sur le trauma, l'EMDR, les traitements multidisciplinaires et les interventions non axées sur le trauma réduisaient tous davantage le TSPT pédiatrique que les témoins passifs. La TCC axée sur le trauma réduisait le plus les symptômes et, avec un parent impliqué, surpassait les interventions non axées sur le trauma. Les effets persistaient jusqu'à 24 mois.",
+        "takeaway": "Pour le TSPT de l'enfant, la TCC axée sur le trauma avec un parent est la mieux appuyée.",
+        "tags": [
+          "tspt",
+          "enfants",
+          "tcc axée sur le trauma",
+          "méta-analyse en réseau"
+        ]
+      },
+      "source": {
+        "pmid": "39630422",
+        "title": "Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.",
+        "journal": "JAMA psychiatry",
+        "year": "2025",
+        "doi": "10.1001/jamapsychiatry.2024.3908",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39630422/"
+      }
+    },
+    {
+      "id": "bb769324-7f5f-438f-b800-f6ad62733149",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "ADHD medication was linked to less suicidal behaviour, crime",
+      "body": "In a Swedish register study of 148,581 people with newly diagnosed ADHD, emulating target trials, starting medication was associated with lower rates of first suicidal behaviour, substance misuse, transport accidents and criminality over 2 years, but not accidental injuries. For recurrent events, rates of all five outcomes were lower.",
+      "takeaway": "Treating ADHD may reduce suicidal behaviour, substance misuse, crashes and crime.",
+      "tags": [
+        "adhd",
+        "stimulants",
+        "suicide",
+        "substance misuse"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Médication du TDAH : moins de comportements suicidaires et de crimes",
+        "body": "Dans une étude des registres suédois portant sur 148 581 personnes ayant reçu un nouveau diagnostic de TDAH, avec émulation d'essais cibles, l'amorce d'une médication était associée à moins de premiers comportements suicidaires, de mésusage de substances, d'accidents de la route et de criminalité sur 2 ans, mais pas de blessures accidentelles. Pour les événements récurrents, les taux des cinq issues étaient plus bas.",
+        "takeaway": "Traiter le TDAH pourrait réduire comportements suicidaires, mésusage, accidents de la route et crimes.",
+        "tags": [
+          "tdah",
+          "psychostimulants",
+          "suicide",
+          "mésusage de substances"
+        ]
+      },
+      "source": {
+        "pmid": "40803836",
+        "title": "ADHD drug treatment and risk of suicidal behaviours, substance misuse, accidental injuries, transport accidents, and criminality: emulation of target trials.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2025",
+        "doi": "10.1136/bmj-2024-083658",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40803836/"
+      }
+    },
+    {
+      "id": "32e37eed-64e2-47c3-97b2-c480a9e7de7c",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Atomoxetine and viloxazine raise BP as much as stimulants",
+      "body": "A network meta-analysis of 102 short-term trials in over 22,000 children and adults found that amphetamines, atomoxetine, lisdexamfetamine, methylphenidate and viloxazine raised blood pressure and pulse. Stimulants did not raise them more than atomoxetine or viloxazine. Guanfacine lowered blood pressure and pulse. Long-term data are lacking.",
+      "takeaway": "Check blood pressure and pulse on any ADHD medication, not only stimulants.",
+      "tags": [
+        "adhd",
+        "blood pressure",
+        "atomoxetine",
+        "guanfacine"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "L'atomoxétine et la viloxazine haussent la tension comme les stimulants",
+        "body": "Une méta-analyse en réseau de 102 essais de courte durée portant sur plus de 22 000 enfants et adultes a montré que les amphétamines, l'atomoxétine, la lisdexamfétamine, le méthylphénidate et la viloxazine augmentaient la pression artérielle et le pouls. Les psychostimulants ne les augmentaient pas plus que l'atomoxétine ou la viloxazine. La guanfacine les diminuait. Les données à long terme manquent.",
+        "takeaway": "Surveillez pression artérielle et pouls avec tout médicament du TDAH, pas seulement les stimulants.",
+        "tags": [
+          "tdah",
+          "pression artérielle",
+          "atomoxétine",
+          "guanfacine"
+        ]
+      },
+      "source": {
+        "pmid": "40203844",
+        "title": "Comparative cardiovascular safety of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis.",
+        "journal": "The lancet. Psychiatry",
+        "year": "2025",
+        "doi": "10.1016/S2215-0366(25)00062-8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40203844/"
+      }
+    },
+    {
+      "id": "bcbd0c43-3676-4183-89d3-b2b1bf085295",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 3,
+      "title": "Oral zuranolone probably helps postnatal depression",
+      "body": "A Cochrane review of six placebo-controlled trials (674 women) found moderate-certainty evidence that oral zuranolone probably improves response and remission in postnatal depression, with more maternal adverse events, mainly somnolence. Intravenous neurosteroids such as brexanolone may make little or no difference. No trial compared them with an active treatment.",
+      "takeaway": "Neurosteroids for postnatal depression have only been tested against placebo.",
+      "tags": [
+        "postpartum depression",
+        "zuranolone",
+        "brexanolone",
+        "cochrane"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La zuranolone orale aide probablement la dépression postnatale",
+        "body": "Une revue Cochrane de six essais contrôlés par placebo (674 femmes) a trouvé des données de certitude modérée selon lesquelles la zuranolone orale améliore probablement la réponse et la rémission de la dépression postnatale, avec plus d'effets indésirables maternels, surtout de la somnolence. Les neurostéroïdes intraveineux comme la brexanolone font peut-être peu ou pas de différence. Aucun essai ne les compare à un traitement actif.",
+        "takeaway": "Les neurostéroïdes contre la dépression postnatale n'ont été comparés qu'au placebo.",
+        "tags": [
+          "dépression du post-partum",
+          "zuranolone",
+          "brexanolone",
+          "cochrane"
+        ]
+      },
+      "source": {
+        "pmid": "40562419",
+        "title": "Brexanolone, zuranolone and related neurosteroid GABAA receptor positive allosteric modulators for postnatal depression.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2025",
+        "doi": "10.1002/14651858.CD014624.pub2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40562419/"
+      }
+    },
+    {
+      "id": "a884545f-64ab-4019-a6d3-813a14bc876c",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 3,
+      "title": "First neonatal dosing data for dolutegravir from birth",
+      "body": "Dolutegravir was not recommended for neonates because dosing and safety data were missing. In a randomized phase 1/2 trial of 41 term neonates born to mothers on dolutegravir, both a dispersible tablet and a new oral film reached target drug levels. No adverse events were related to dolutegravir, and all 39 infants who completed follow-up were HIV negative.",
+      "takeaway": "Dolutegravir now has dosing evidence for the first 4 weeks of life.",
+      "tags": [
+        "hiv",
+        "dolutegravir",
+        "neonates",
+        "pharmacokinetics"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "Premières données de posologie du dolutégravir dès la naissance",
+        "body": "Le dolutégravir n'était pas recommandé chez le nouveau-né faute de données de posologie et d'innocuité. Dans un essai randomisé de phase 1/2 chez 41 nouveau-nés à terme de mères sous dolutégravir, un comprimé dispersible et un nouveau film oral atteignaient les concentrations cibles. Aucun effet indésirable n'était lié au dolutégravir, et les 39 nourrissons ayant terminé le suivi étaient séronégatifs pour le VIH.",
+        "takeaway": "Le dolutégravir dispose maintenant de données de posologie pour les 4 premières semaines de vie.",
+        "tags": [
+          "vih",
+          "dolutégravir",
+          "nouveau-nés",
+          "pharmacocinétique"
+        ]
+      },
+      "source": {
+        "pmid": "41075812",
+        "title": "Safety and pharmacokinetics of dolutegravir dispersible tablets and oral films in term neonates exposed to HIV in South Africa (PETITE-DTG study): an open-label, randomised, phase 1/2 trial.",
+        "journal": "The lancet. HIV",
+        "year": "2025",
+        "doi": "10.1016/S2352-3018(25)00239-5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41075812/"
+      }
+    },
+    {
+      "id": "7c851803-a42e-44f2-b56c-3735ff202436",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Gastroenterology",
+      "difficulty": 3,
+      "title": "Raising arterial pressure helps terlipressin reverse HRS-AKI",
+      "body": "In a post hoc analysis of 487 patients from two phase 3 trials, terlipressin raised mean arterial pressure by about 6 mm Hg over placebo from day 1. Each 5 mm Hg rise was associated with a 17% higher hazard of reversing hepatorenal syndrome-acute kidney injury, and higher pressure mediated about a third of reversal in either group.",
+      "takeaway": "In HRS-AKI, mean arterial pressure is a key target of terlipressin therapy.",
+      "tags": [
+        "hepatorenal syndrome",
+        "terlipressin",
+        "cirrhosis",
+        "aki"
+      ],
+      "fr": {
+        "specialty": "Gastroentérologie",
+        "title": "La hausse de pression aide la terlipressine à résoudre le SHR-IRA",
+        "body": "Dans une analyse post hoc de 487 patients de deux essais de phase 3, la terlipressine augmentait la pression artérielle moyenne d'environ 6 mm Hg par rapport au placebo dès le jour 1. Chaque hausse de 5 mm Hg était associée à un risque instantané 17 % plus élevé de réversion du syndrome hépatorénal avec insuffisance rénale aiguë, et la pression expliquait environ le tiers des réversions dans les deux groupes.",
+        "takeaway": "Dans le SHR-IRA, la pression artérielle moyenne est une cible clé de la terlipressine.",
+        "tags": [
+          "syndrome hépatorénal",
+          "terlipressine",
+          "cirrhose",
+          "ira"
+        ]
+      },
+      "source": {
+        "pmid": "40053863",
+        "title": "The relationship between mean arterial pressure and terlipressin in hepatorenal syndrome-acute kidney injury reversal: A post hoc analysis.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "year": "2026",
+        "doi": "10.1097/HEP.0000000000001295",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40053863/"
+      }
+    },
+    {
+      "id": "d4c754ef-ab9c-455b-a391-3c471d06bc8a",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Nephrology",
+      "difficulty": 3,
+      "title": "Blood count changes are common in the first transplant year",
+      "body": "Cytopenias and cytoses are common in the first year after kidney transplantation, and many are benign effects of immunosuppression, infection prophylaxis or residual kidney disease. Some need prompt action: drug-induced marrow suppression, cytomegalovirus reactivation, antibiotic-triggered eosinophilia, posttransplant erythrocytosis and thrombotic microangiopathy.",
+      "takeaway": "After kidney transplant, sort benign count changes from CMV, TMA and marrow toxicity.",
+      "tags": [
+        "kidney transplant",
+        "cytopenia",
+        "cmv",
+        "thrombotic microangiopathy"
+      ],
+      "fr": {
+        "specialty": "Néphrologie",
+        "title": "Formules sanguines anormales fréquentes la 1re année de greffe",
+        "body": "Les cytopénies et les cytoses sont fréquentes la première année après une greffe rénale, et beaucoup sont des effets bénins de l'immunosuppression, de la prophylaxie anti-infectieuse ou d'une maladie rénale résiduelle. Certaines exigent d'agir vite : myélosuppression médicamenteuse, réactivation du cytomégalovirus, éosinophilie induite par un antibiotique, érythrocytose post-greffe et microangiopathie thrombotique.",
+        "takeaway": "Après une greffe rénale, distinguez les anomalies bénignes du CMV, de la MAT et de la toxicité médullaire.",
+        "tags": [
+          "greffe rénale",
+          "cytopénie",
+          "cmv",
+          "microangiopathie thrombotique"
+        ]
+      },
+      "source": {
+        "pmid": "41143760",
+        "title": "Hematologic Considerations in Kidney Transplantation: Core Curriculum 2025.",
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "year": "2025",
+        "doi": "10.1053/j.ajkd.2025.07.010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41143760/"
+      }
+    },
+    {
+      "id": "f5a4a63f-1bb5-4b8d-87e9-5b921782ca9e",
+      "kind": "fact",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Hematology & Oncology",
+      "difficulty": 3,
+      "title": "Ovarian reserve predicted chemo benefit in HR+ breast cancer",
+      "body": "In RxPONDER, women with HR-positive, HER2-negative, node-positive breast cancer and a recurrence score of 25 or less benefited from added chemotherapy mainly if premenopausal. Among 1556 women under 55, those with normal ovarian reserve (AMH at or above 10 pg/mL) had better invasive disease-free survival with chemotherapy; those with low AMH did not benefit.",
+      "takeaway": "In premenopausal HR+ breast cancer, AMH predicted chemotherapy benefit better than age.",
+      "tags": [
+        "breast cancer",
+        "amh",
+        "chemotherapy",
+        "ovarian reserve"
+      ],
+      "fr": {
+        "specialty": "Hématologie et oncologie",
+        "title": "La réserve ovarienne prédit le bénéfice de la chimio, cancer RH+",
+        "body": "Dans RxPONDER, chez les femmes atteintes d'un cancer du sein RH positif, HER2 négatif avec atteinte ganglionnaire et un score de récidive de 25 ou moins, l'ajout de la chimiothérapie profitait surtout aux préménopausées. Parmi 1556 femmes de moins de 55 ans, celles ayant une réserve ovarienne normale (AMH d'au moins 10 pg/mL) avaient une meilleure survie sans maladie invasive avec la chimiothérapie; celles ayant une AMH basse, non.",
+        "takeaway": "Au cancer du sein RH+ préménopausique, l'AMH prédisait mieux le bénéfice de la chimiothérapie que l'âge.",
+        "tags": [
+          "cancer du sein",
+          "amh",
+          "chimiothérapie",
+          "réserve ovarienne"
+        ]
+      },
+      "source": {
+        "pmid": "42613139",
+        "title": "Ovarian reserve as a measure of adjuvant chemotherapy benefit in hormone receptor positive (HR-positive), HER2-negative, node-positive breast cancer in SWOG S1007 (RxPONDER).",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2026",
+        "doi": "10.1016/j.annonc.2026.05.697",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42613139/"
+      }
+    },
+    {
+      "id": "c674462f-3d4d-41d2-8b0d-e4c8a1b99100",
+      "kind": "case",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Gastroenterology",
+      "difficulty": 2,
+      "clues": [
+        "An 8-year-old child is brought in for increasing aggressiveness and learning difficulties at school.",
+        "Later, slurred speech and drooling while eating and drinking develop, followed by weight loss and jaundice.",
+        "Examination shows a tremor of the limbs, difficulty walking and dysarthria, with hepatosplenomegaly.",
+        "Transaminases are mildly raised, serum ceruloplasmin is markedly low and 24-hour urinary copper is elevated.",
+        "Slit-lamp examination shows Kayser-Fleischer rings, and MRI shows T2 hyperintensity in the caudate and lentiform nuclei."
+      ],
+      "answer": "Wilson disease",
+      "accepted_answers": [
+        "wilson disease",
+        "wilson's disease",
+        "wilsons disease",
+        "hepatolenticular degeneration",
+        "wd"
+      ],
+      "explanation": "Behavioural change and learning problems, then dysarthria, drooling, tremor and gait difficulty, point to a basal ganglia disorder, and jaundice with hepatosplenomegaly adds liver disease. Combined liver and neuropsychiatric disease in a child suggests a copper disorder. Low ceruloplasmin, high urinary copper, Kayser-Fleischer rings and basal ganglia changes on MRI confirm Wilson disease.",
+      "teaching_point": "Psychiatric or behavioural symptoms can precede liver signs in Wilson disease, even in young children.",
+      "fr": {
+        "specialty": "Gastroentérologie",
+        "clues": [
+          "Un enfant de 8 ans consulte pour une agressivité croissante et des difficultés d'apprentissage à l'école.",
+          "Puis s'installent une parole pâteuse et du bavage en mangeant et en buvant, suivis d'une perte de poids et d'un ictère.",
+          "L'examen montre un tremblement des membres, des difficultés à la marche et une dysarthrie, avec hépatosplénomégalie.",
+          "Les transaminases sont légèrement élevées, la céruloplasmine sérique est très basse et le cuivre urinaire de 24 h est élevé.",
+          "L'examen à la lampe à fente montre des anneaux de Kayser-Fleischer et l'IRM un hypersignal T2 des noyaux caudés et lenticulaires."
+        ],
+        "answer": "Maladie de Wilson",
+        "accepted_answers": [
+          "maladie de wilson",
+          "wilson",
+          "dégénérescence hépatolenticulaire"
+        ],
+        "explanation": "Les troubles du comportement et de l'apprentissage, puis la dysarthrie, le bavage, le tremblement et les troubles de la marche orientent vers une atteinte des noyaux gris centraux, et l'ictère avec hépatosplénomégalie ajoute une atteinte hépatique. Une atteinte hépatique et neuropsychiatrique chez un enfant évoque un trouble du cuivre. La céruloplasmine basse, le cuivre urinaire élevé, les anneaux de Kayser-Fleischer et les anomalies des noyaux gris centraux à l'IRM confirment la maladie de Wilson.",
+        "teaching_point": "Dans la maladie de Wilson, les symptômes psychiatriques ou comportementaux peuvent précéder l'atteinte hépatique, même chez l'enfant."
+      },
+      "source": {
+        "pmid": "42343441",
+        "title": "Pediatric Wilson disease with early psychiatric manifestations: a case report.",
+        "journal": "Journal of medical case reports",
+        "year": "2026",
+        "doi": "10.1186/s13256-026-06220-7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42343441/"
+      }
+    },
+    {
+      "id": "80357d02-24a6-4cdb-a344-7f44d14f2198",
+      "kind": "flashcard",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "front": "Name the main trauma-focused psychotherapies recommended first line for PTSD in adults.",
+      "back": "Cognitive processing therapy; prolonged exposure; trauma-focused cognitive behavioural therapy (including cognitive therapy for PTSD); eye movement desensitization and reprocessing (EMDR). All work on the traumatic memory, and in trials most non-military patients no longer met PTSD criteria afterwards.",
+      "tags": [
+        "ptsd",
+        "psychotherapy",
+        "emdr"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "front": "Nommez les principales psychothérapies axées sur le trauma recommandées en première intention pour le TSPT chez l'adulte.",
+        "back": "La thérapie de traitement cognitif; l'exposition prolongée; la thérapie cognitivo-comportementale axée sur le trauma (dont la thérapie cognitive du TSPT); la désensibilisation et le retraitement par les mouvements oculaires (EMDR). Toutes travaillent le souvenir traumatique, et dans les essais, la plupart des patients non militaires ne répondaient plus aux critères du TSPT ensuite.",
+        "tags": [
+          "tspt",
+          "psychothérapie",
+          "emdr"
+        ]
+      },
+      "source": {
+        "pmid": "40397424",
+        "title": "Loss of PTSD Diagnosis in Response to Evidence-Based Treatments: A Systematic Review and Meta-Analysis.",
+        "journal": "JAMA psychiatry",
+        "year": "2025",
+        "doi": "10.1001/jamapsychiatry.2025.0695",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40397424/"
+      }
+    },
+    {
+      "id": "48fd60ed-4a3d-4098-a07d-0fa5a5275005",
+      "kind": "flashcard",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "front": "How do brexanolone and zuranolone work, and how does that differ from standard antidepressants?",
+      "back": "They are neurosteroids that act as positive allosteric modulators of GABA-A receptors, enhancing inhibitory signalling. This differs from standard antidepressants such as SSRIs, which act on monoamines. Brexanolone is given intravenously; zuranolone is oral.",
+      "tags": [
+        "postpartum depression",
+        "neurosteroids",
+        "gaba-a",
+        "mechanism"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "front": "Comment agissent la brexanolone et la zuranolone, et en quoi diffèrent-elles des antidépresseurs habituels?",
+        "back": "Ce sont des neurostéroïdes qui agissent comme modulateurs allostériques positifs des récepteurs GABA-A, renforçant la transmission inhibitrice. Les antidépresseurs habituels comme les ISRS agissent plutôt sur les monoamines. La brexanolone se donne par voie intraveineuse; la zuranolone, par voie orale.",
+        "tags": [
+          "dépression du post-partum",
+          "neurostéroïdes",
+          "gaba-a",
+          "mécanisme"
+        ]
+      },
+      "source": {
+        "pmid": "40562419",
+        "title": "Brexanolone, zuranolone and related neurosteroid GABAA receptor positive allosteric modulators for postnatal depression.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2025",
+        "doi": "10.1002/14651858.CD014624.pub2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40562419/"
+      }
+    },
+    {
+      "id": "7b164f56-0706-40c2-aee1-498b0946958a",
+      "kind": "flashcard",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Pulmonology",
+      "difficulty": 2,
+      "front": "How does chronic lung disease predispose to acute kidney injury?",
+      "back": "Hypoxemia and hypercapnia reduce kidney perfusion and cause endothelial dysfunction and sodium-water imbalance; systemic inflammation and neurohormonal activation add to the injury. Pulmonary hypertension with right heart failure can also congest the kidneys. Risk peaks during exacerbations and with pre-existing kidney dysfunction; mechanical ventilation can worsen it.",
+      "tags": [
+        "chronic lung disease",
+        "acute kidney injury",
+        "hypoxemia",
+        "hypercapnia"
+      ],
+      "fr": {
+        "specialty": "Pneumologie",
+        "front": "Comment une maladie pulmonaire chronique prédispose-t-elle à l'insuffisance rénale aiguë?",
+        "back": "L'hypoxémie et l'hypercapnie réduisent la perfusion rénale et entraînent une dysfonction endothéliale et un déséquilibre hydrosodé; l'inflammation systémique et l'activation neurohormonale aggravent l'atteinte. L'hypertension pulmonaire avec insuffisance cardiaque droite peut aussi causer une congestion rénale. Le risque culmine lors des exacerbations et en cas de dysfonction rénale préexistante; la ventilation mécanique peut l'aggraver.",
+        "tags": [
+          "maladie pulmonaire chronique",
+          "insuffisance rénale aiguë",
+          "hypoxémie",
+          "hypercapnie"
+        ]
+      },
+      "source": {
+        "pmid": "40302012",
+        "title": "Chronic lung diseases and kidney disease: pathophysiology and management.",
+        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+        "year": "2025",
+        "doi": "10.1093/ndt/gfaf077",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40302012/"
+      }
+    },
+    {
+      "id": "9f6df284-a15e-437c-ab40-49a2cad703ae",
+      "kind": "flashcard",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Nephrology",
+      "difficulty": 3,
+      "front": "Give five blood count problems after kidney transplant that need prompt action rather than reassurance.",
+      "back": "Examples: drug-induced marrow suppression; cytomegalovirus reactivation; antibiotic-triggered eosinophilia; posttransplant erythrocytosis; thrombotic microangiopathy. Many other cytopenias and cytoses in the first year are benign effects of immunosuppression, prophylaxis or residual kidney disease.",
+      "tags": [
+        "kidney transplant",
+        "cytopenia",
+        "erythrocytosis",
+        "cmv"
+      ],
+      "fr": {
+        "specialty": "Néphrologie",
+        "front": "Donnez cinq anomalies de la formule sanguine après une greffe rénale qui exigent d'agir plutôt que de rassurer.",
+        "back": "Exemples : la myélosuppression médicamenteuse; la réactivation du cytomégalovirus; l'éosinophilie induite par un antibiotique; l'érythrocytose post-greffe; la microangiopathie thrombotique. Beaucoup d'autres cytopénies et cytoses de la première année sont des effets bénins de l'immunosuppression, de la prophylaxie ou d'une maladie rénale résiduelle.",
+        "tags": [
+          "greffe rénale",
+          "cytopénie",
+          "érythrocytose",
+          "cmv"
+        ]
+      },
+      "source": {
+        "pmid": "41143760",
+        "title": "Hematologic Considerations in Kidney Transplantation: Core Curriculum 2025.",
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "year": "2025",
+        "doi": "10.1053/j.ajkd.2025.07.010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41143760/"
+      }
+    },
+    {
+      "id": "cfd66c07-155d-4101-a592-dccef674b9ba",
+      "kind": "mcq",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "stem": "A 10-year-old has nightmares, avoidance and hypervigilance for 3 months after a serious car crash, and meets criteria for PTSD. Which psychological treatment has the strongest evidence?",
+      "options": [
+        "Supportive counselling without trauma focus",
+        "Trauma-focused cognitive behavioural therapy",
+        "Non-directive play therapy",
+        "Relaxation training alone",
+        "Psychological debriefing"
+      ],
+      "explanation": "A network meta-analysis of 70 trials found trauma-focused CBT gave the largest reductions in pediatric PTSD against both passive and active controls, and with parent involvement it beat non-trauma-focused interventions. Supportive counselling is a non-trauma-focused option: it helped more than passive control, but less than trauma-focused CBT.",
+      "teaching_point": "Trauma-focused CBT, ideally with a parent involved, is first-line for PTSD in children.",
+      "answer_index": 1,
+      "fr": {
+        "specialty": "Psychiatrie",
+        "stem": "Un enfant de 10 ans a des cauchemars, de l'évitement et de l'hypervigilance depuis 3 mois après un grave accident de voiture, et répond aux critères du TSPT. Quel traitement psychologique est le mieux appuyé?",
+        "options": [
+          "Counseling de soutien non axé sur le trauma",
+          "Thérapie cognitivo-comportementale axée sur le trauma",
+          "Thérapie par le jeu non directive",
+          "Entraînement à la relaxation seul",
+          "Débriefing psychologique"
+        ],
+        "explanation": "Une méta-analyse en réseau de 70 essais a montré que la TCC axée sur le trauma réduisait le plus le TSPT pédiatrique, contre les témoins passifs comme actifs, et qu'avec un parent impliqué elle surpassait les interventions non axées sur le trauma. Le counseling de soutien est une option non axée sur le trauma : il aidait plus qu'un témoin passif, mais moins que la TCC axée sur le trauma.",
+        "teaching_point": "La TCC axée sur le trauma, idéalement avec un parent, est le traitement de première intention du TSPT chez l'enfant."
+      },
+      "source": {
+        "pmid": "39630422",
+        "title": "Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.",
+        "journal": "JAMA psychiatry",
+        "year": "2025",
+        "doi": "10.1001/jamapsychiatry.2024.3908",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39630422/"
+      }
+    },
+    {
+      "id": "ab8a89e1-c694-4a9e-9b2c-dc8f3b85778d",
+      "kind": "mcq",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "stem": "A 12-year-old with ADHD and borderline high blood pressure needs medication. Which ADHD drug is associated with a decrease in blood pressure and pulse rather than an increase?",
+      "options": [
+        "Methylphenidate",
+        "Atomoxetine",
+        "Lisdexamfetamine",
+        "Guanfacine",
+        "Viloxazine"
+      ],
+      "explanation": "In a network meta-analysis of 102 trials, guanfacine, an alpha-2A agonist, lowered systolic and diastolic blood pressure and pulse in children and adults. Atomoxetine is a tempting distractor because it is a non-stimulant, but it raised blood pressure and gave the largest pulse increase in children.",
+      "teaching_point": "Guanfacine lowers blood pressure and pulse; stimulants and atomoxetine raise them.",
+      "answer_index": 3,
+      "fr": {
+        "specialty": "Psychiatrie",
+        "stem": "Un enfant de 12 ans ayant un TDAH et une pression artérielle limite élevée a besoin d'un médicament. Quel médicament du TDAH est associé à une baisse plutôt qu'à une hausse de la pression artérielle et du pouls?",
+        "options": [
+          "Méthylphénidate",
+          "Atomoxétine",
+          "Lisdexamfétamine",
+          "Guanfacine",
+          "Viloxazine"
+        ],
+        "explanation": "Dans une méta-analyse en réseau de 102 essais, la guanfacine, un agoniste alpha-2A, diminuait la pression systolique et diastolique et le pouls chez l'enfant comme chez l'adulte. L'atomoxétine est un distracteur tentant puisqu'elle n'est pas un psychostimulant, mais elle augmentait la pression artérielle et causait la plus forte hausse du pouls chez l'enfant.",
+        "teaching_point": "La guanfacine abaisse la pression artérielle et le pouls; les psychostimulants et l'atomoxétine les augmentent."
+      },
+      "source": {
+        "pmid": "40203844",
+        "title": "Comparative cardiovascular safety of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis.",
+        "journal": "The lancet. Psychiatry",
+        "year": "2025",
+        "doi": "10.1016/S2215-0366(25)00062-8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40203844/"
+      }
+    },
+    {
+      "id": "753f085e-bc40-4830-8faa-57526061185f",
+      "kind": "mcq",
+      "created": "2026-10-10T13:25:39+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "stem": "In a multilevel meta-analysis comparing forms of child maltreatment, which form showed the strongest association with later depression?",
+      "options": [
+        "Sexual abuse",
+        "Physical abuse",
+        "Emotional abuse",
+        "Physical neglect",
+        "Emotional neglect"
+      ],
+      "explanation": "Across every layer of analysis, emotional abuse showed the strongest association with depression risk and severity, and sexual abuse the weakest. Physical abuse is the strongest distractor: in studies measuring all three abuse types it ranked second, behind emotional abuse.",
+      "teaching_point": "Emotional abuse is the form of child maltreatment most strongly linked to depression.",
+      "answer_index": 2,
+      "fr": {
+        "specialty": "Psychiatrie",
+        "stem": "Dans une méta-analyse multiniveau comparant les formes de maltraitance durant l'enfance, quelle forme était la plus fortement associée à une dépression ultérieure?",
+        "options": [
+          "Violence sexuelle",
+          "Violence physique",
+          "Violence psychologique",
+          "Négligence physique",
+          "Négligence affective"
+        ],
+        "explanation": "À tous les niveaux d'analyse, la violence psychologique était la plus fortement associée au risque et à la sévérité de la dépression, et la violence sexuelle, le moins. La violence physique est le meilleur distracteur : dans les études mesurant les trois types de violence, elle arrivait deuxième, derrière la violence psychologique.",
+        "teaching_point": "La violence psychologique est la forme de maltraitance la plus liée à la dépression."
+      },
+      "source": {
+        "pmid": "41940550",
+        "title": "Associations between five forms of child maltreatment and depression: a multilevel meta-analytic comparison.",
+        "journal": "Psychological medicine",
+        "year": "2026",
+        "doi": "10.1017/S003329172610381X",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41940550/"
+      }
+    },
+    {
       "id": "3a2badb9-a032-491d-b8f4-25e0e19680f0",
       "kind": "fact",
       "created": "2026-10-10T12:37:49+00:00",
@@ -1579,5 +2308,5 @@
       }
     }
   ],
-  "updated": "2026-10-10T13:02:32+00:00"
+  "updated": "2026-10-10T13:27:28+00:00"
 }
