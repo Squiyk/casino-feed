@@ -2,6 +2,414 @@
   "version": 1,
   "items": [
     {
+      "id": "a82f643b-1a56-4ddb-8221-bc3b197d2a9e",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Few heart guidelines say how to manage depression",
+      "body": "Depression is more common in people with cardiovascular disease and is linked to worse quality of life, poorer outcomes and higher mortality. Yet in a review of 65 cardiovascular guidelines, 71% named depression as a risk factor but only 23% gave both screening and treatment advice, and just 3% covered drug-disease interactions of antidepressant treatment.",
+      "takeaway": "Screen cardiac patients for depression; most cardiology guidelines won't remind you.",
+      "tags": [
+        "depression",
+        "cardiovascular disease",
+        "guidelines",
+        "screening"
+      ],
+      "source": {
+        "pmid": "40878995",
+        "title": "Depression and cardiovascular disease: mind the gap in the guidelines.",
+        "journal": "European heart journal",
+        "year": "2025",
+        "doi": "10.1093/eurheartj/ehaf479",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40878995/"
+      }
+    },
+    {
+      "id": "9e106bb7-1592-452d-b4b3-ad12aca87bbf",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Coaching, not mindfulness, eases burnout in physicians",
+      "body": "A meta-analysis of 99 randomized trials of individual-level burnout interventions found professional coaching probably reduces depersonalization and emotional exhaustion in physicians. Mindfulness programs showed no clear benefit in physicians, but may reduce burnout in nurses and midwives. Effective programs usually lasted more than 4 weeks.",
+      "takeaway": "For physician burnout, sustained professional coaching has the best trial evidence.",
+      "tags": [
+        "burnout",
+        "coaching",
+        "mindfulness",
+        "physicians"
+      ],
+      "source": {
+        "pmid": "41248499",
+        "title": "Efficacy of Individual-Level Interventions to Mitigate the Risk for Burnout Among Health Care Professionals : A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+        "journal": "Annals of internal medicine",
+        "year": "2026",
+        "doi": "10.7326/ANNALS-25-00469",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41248499/"
+      }
+    },
+    {
+      "id": "5151a6ae-6dc2-43bf-93fb-5418bf053537",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "CBT and IPT both treat perinatal depression",
+      "body": "A meta-analysis of 44 randomized trials found that cognitive behavioral therapy and interpersonal therapy probably reduce depressive symptoms in pregnancy and up to a year postpartum compared with usual care, and behavioral activation may help too. The average gains were modest, under 2 points on the 30-point Edinburgh Postnatal Depression Scale.",
+      "takeaway": "Perinatal depression: CBT, IPT or behavioral activation are evidence-based options.",
+      "tags": [
+        "perinatal depression",
+        "cbt",
+        "interpersonal therapy",
+        "postpartum"
+      ],
+      "source": {
+        "pmid": "41183344",
+        "title": "Effectiveness of Psychological Therapies for Depression During the Perinatal Period : A Systematic Review and Meta-analysis.",
+        "journal": "Annals of internal medicine",
+        "year": "2025",
+        "doi": "10.7326/ANNALS-24-03520",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41183344/"
+      }
+    },
+    {
+      "id": "63c1ef7b-cfa4-4ab9-b6b9-0dde188b3ba2",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "title": "Parental support curbed postpartum burnout in trainees",
+      "body": "In a randomized trial of 156 pregnant residents and fellows, a support package (smart bassinet, wearable breast pump, virtual perinatal support and faculty mentorship) limited the rise in burnout through 24 weeks postpartum. Burnout scores rose much less than with usual support, mainly through less interpersonal disengagement; emotional exhaustion did not differ.",
+      "takeaway": "Concrete workplace support for childbearing trainees measurably reduces burnout.",
+      "tags": [
+        "burnout",
+        "residents",
+        "postpartum",
+        "workplace support"
+      ],
+      "source": {
+        "pmid": "42126852",
+        "title": "Pragmatic Parental Support to Mitigate Burnout Among Pregnant and Postpartum Trainees: A Randomized Clinical Trial.",
+        "journal": "JAMA",
+        "year": "2026",
+        "doi": "10.1001/jama.2026.5663",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126852/"
+      }
+    },
+    {
+      "id": "70b8843a-9c9b-412f-b873-46ad32181b57",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Online CBT beat health promotion only in adjustment disorder",
+      "body": "In a trial of 300 adults with adjustment disorder or exhaustion disorder, 12 weeks of therapist-supported online CBT was not superior overall to an active general health promotion program; both produced large improvements in perceived stress that lasted a year. CBT did outperform the control in the adjustment disorder subgroup, but not in exhaustion disorder.",
+      "takeaway": "Stress-related disorders improve with support; CBT adds most in adjustment disorder.",
+      "tags": [
+        "adjustment disorder",
+        "exhaustion disorder",
+        "cbt",
+        "stress"
+      ],
+      "source": {
+        "pmid": "40334656",
+        "title": "Internet-Delivered Treatment for Stress-Related Disorders: A Randomized Controlled Superiority Trial of Cognitive Behavioral Therapy versus General Health Promotion.",
+        "journal": "Psychotherapy and psychosomatics",
+        "year": "2025",
+        "doi": "10.1159/000546221",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40334656/"
+      }
+    },
+    {
+      "id": "a1e58f07-dab4-4af5-a83b-b09c6aa552b4",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 3,
+      "title": "A psilocybin session cut depression scores in resistant MDD",
+      "body": "In a 60-person NHS feasibility trial in treatment-resistant depression, a single psilocybin session with psychological support lowered MADRS scores by about 10 points more than placebo at week 3, and the difference persisted at week 6. Non-serious adverse events were more frequent with psilocybin. The trial was small and designed to plan a larger confirmatory study.",
+      "takeaway": "Psilocybin for resistant depression is promising but not yet confirmed.",
+      "tags": [
+        "psilocybin",
+        "treatment-resistant depression",
+        "madrs",
+        "psychedelics"
+      ],
+      "source": {
+        "pmid": "42562964",
+        "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.",
+        "journal": "Nature medicine",
+        "year": "2026",
+        "doi": "10.1038/s41591-026-04541-0",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562964/"
+      }
+    },
+    {
+      "id": "06b25775-4e3b-44ad-b98f-f109b67a1b4b",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 3,
+      "title": "Control arms improve less in psilocybin depression trials",
+      "body": "A meta-analysis of 17 trials found control groups in psilocybin trials improved far less than control groups in SSRI or esketamine trials, while active-treatment improvement was similar across the three. Because psilocybin's effects are hard to blind, patients may guess their allocation, which could make psilocybin look more effective than it is compared with SSRIs and esketamine.",
+      "takeaway": "A big drug-control gap can reflect a weak control response, not just a strong drug.",
+      "tags": [
+        "psilocybin",
+        "placebo",
+        "blinding",
+        "trial design"
+      ],
+      "source": {
+        "pmid": "40736734",
+        "title": "Control Group Outcomes in Trials of Psilocybin, SSRIs, or Esketamine for Depression: A Meta-Analysis.",
+        "journal": "JAMA network open",
+        "year": "2025",
+        "doi": "10.1001/jamanetworkopen.2025.24119",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40736734/"
+      }
+    },
+    {
+      "id": "b9bf5276-c31c-461a-b079-13e9cbd8bd68",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 3,
+      "title": "Psilocybin effects were larger with self-rating, prior use",
+      "body": "A BMJ meta-analysis of randomized trials found a moderate benefit of psilocybin over comparators for depression (Hedges' g 0.66). Effects were larger in secondary depression, with self-report scales, and in participants who had used psychedelics before. The authors call for research into how expectancy shapes these results.",
+      "takeaway": "Psilocybin benefit was larger on self-report scales and with past psychedelic use.",
+      "tags": [
+        "psilocybin",
+        "meta-analysis",
+        "expectancy",
+        "depression"
+      ],
+      "source": {
+        "pmid": "38692686",
+        "title": "Efficacy of psilocybin for treating symptoms of depression: systematic review and meta-analysis.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2024",
+        "doi": "10.1136/bmj-2023-078084",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38692686/"
+      }
+    },
+    {
+      "id": "db32979a-a147-42de-a87d-aed4bafc520d",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "About 3 in 10 past-year cannabis users have a use disorder",
+      "body": "Among people who used cannabis in the past year, about 3 in 10 meet criteria for cannabis use disorder, and about half of those have moderate or severe disease. Evidence that THC-predominant cannabis helps depression, anxiety, PTSD or ADHD is lacking, while it can worsen mania in bipolar disorder and psychotic symptoms in psychotic disorders.",
+      "takeaway": "Discuss cannabis with psychiatric patients; for some it is a modifiable risk.",
+      "tags": [
+        "cannabis",
+        "substance use",
+        "bipolar disorder",
+        "psychosis"
+      ],
+      "source": {
+        "pmid": "41801216",
+        "title": "Cannabis and Mental Health: A Review.",
+        "journal": "JAMA internal medicine",
+        "year": "2026",
+        "doi": "10.1001/jamainternmed.2025.8215",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801216/"
+      }
+    },
+    {
+      "id": "790b32fc-138f-4868-a746-3668100659a6",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "High-THC use in youth is tied to 2 to 11-fold psychosis risk",
+      "body": "Regular use of high-THC products by adolescents and young adults is associated with a roughly 2-fold to 11-fold increase in psychosis risk, plus higher risk of cannabis use disorder and of self-harm in those with mood disorders. Cannabis should be avoided by young people, pregnant people and those with bipolar or psychotic disorders.",
+      "takeaway": "Advise young people to avoid high-THC cannabis; it is linked to psychosis.",
+      "tags": [
+        "cannabis",
+        "psychosis",
+        "adolescents",
+        "thc"
+      ],
+      "source": {
+        "pmid": "41801216",
+        "title": "Cannabis and Mental Health: A Review.",
+        "journal": "JAMA internal medicine",
+        "year": "2026",
+        "doi": "10.1001/jamainternmed.2025.8215",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801216/"
+      }
+    },
+    {
+      "id": "c139573e-e713-4c3a-a851-5f7246b45c6b",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Cardiology",
+      "difficulty": 3,
+      "title": "In-hospital SGLT2 inhibitors likely cut early HF events",
+      "body": "In DAPA ACT HF-TIMI 68, starting dapagliflozin during a heart failure admission did not significantly reduce cardiovascular death or worsening heart failure at 2 months. But a meta-analysis of all in-hospital SGLT2 inhibitor trials showed lower early risk of cardiovascular death or worsening HF and of all-cause death.",
+      "takeaway": "One neutral trial doesn't overturn pooled evidence for in-hospital SGLT2i starts.",
+      "tags": [
+        "heart failure",
+        "sglt2 inhibitors",
+        "dapagliflozin",
+        "hospitalization"
+      ],
+      "source": {
+        "pmid": "40884036",
+        "title": "Dapagliflozin in Patients Hospitalized for Heart Failure: Primary Results of the DAPA ACT HF-TIMI 68 Randomized Clinical Trial and Meta-Analysis of Sodium-Glucose Cotransporter-2 Inhibitors in Patients Hospitalized for Heart Failure.",
+        "journal": "Circulation",
+        "year": "2025",
+        "doi": "10.1161/CIRCULATIONAHA.125.076575",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40884036/"
+      }
+    },
+    {
+      "id": "f701b828-e562-44bf-b52a-c3f66b6951eb",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "title": "One HPV vaccine dose protects as well as two",
+      "body": "In a randomized trial of over 20,000 girls aged 12 to 16, one dose of either the bivalent or nonavalent HPV vaccine was noninferior to two doses for preventing persistent HPV16 or HPV18 infection over about 5 years. Vaccine effectiveness was at least 97% in every group, and no safety concerns arose. Single-dose schedules could widen global coverage.",
+      "takeaway": "A single HPV vaccine dose prevents HPV16/18 infection as well as two.",
+      "tags": [
+        "hpv",
+        "vaccination",
+        "cervical cancer",
+        "prevention"
+      ],
+      "source": {
+        "pmid": "41337735",
+        "title": "Noninferiority of One HPV Vaccine Dose to Two Doses.",
+        "journal": "The New England journal of medicine",
+        "year": "2025",
+        "doi": "10.1056/NEJMoa2506765",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41337735/"
+      }
+    },
+    {
+      "id": "83a37a29-9ccc-4157-b2b4-df3e8f8b405d",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Neurology",
+      "difficulty": 2,
+      "title": "TB meningitis kills or disables about half of patients",
+      "body": "Tuberculous meningitis is the most severe form of tuberculosis, causing death or disability in around half of those affected. A new international guideline, built on a systematic review with GRADE methods, covers diagnosis, anti-tuberculosis therapy, adjunctive anti-inflammatory treatment and neurocritical and neurosurgical care, and highlights major evidence gaps.",
+      "takeaway": "TB meningitis is the deadliest form of TB; suspect it early in subacute meningitis.",
+      "tags": [
+        "tuberculosis",
+        "meningitis",
+        "guideline",
+        "cns infection"
+      ],
+      "source": {
+        "pmid": "40840485",
+        "title": "A clinical practice guideline for tuberculous meningitis.",
+        "journal": "The Lancet. Infectious diseases",
+        "year": "2026",
+        "doi": "10.1016/S1473-3099(25)00364-0",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40840485/"
+      }
+    },
+    {
+      "id": "6917aec0-8666-4b54-9d2d-b4dfc36970a2",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Endocrinology",
+      "difficulty": 2,
+      "title": "A triple hormone agonist cut weight 15% in type 2 diabetes",
+      "body": "Retatrutide activates GIP, GLP-1 and glucagon receptors. In a 40-week phase 3 trial of 537 adults with type 2 diabetes on diet and exercise alone, it lowered HbA1c by about 1 percentage point more than placebo and reduced body weight by up to 15.3% versus 2.6% with placebo. Side effects were mainly gastrointestinal, with no severe hypoglycaemia.",
+      "takeaway": "Retatrutide adds glucagon agonism to incretin effects for large weight loss.",
+      "tags": [
+        "retatrutide",
+        "type 2 diabetes",
+        "glp-1",
+        "obesity"
+      ],
+      "source": {
+        "pmid": "42250575",
+        "title": "Efficacy and safety of retatrutide, a GIP, GLP-1, and glucagon receptor agonist, in people with type 2 diabetes and inadequate glycaemic control with diet and exercise (TRANSCEND-T2D-1): a double-blind, randomised, phase 3 trial.",
+        "journal": "Lancet (London, England)",
+        "year": "2026",
+        "doi": "10.1016/S0140-6736(26)00967-0",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250575/"
+      }
+    },
+    {
+      "id": "b992ee7e-a42d-4e48-b8a2-f456013b4067",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Gastroenterology",
+      "difficulty": 1,
+      "title": "H. pylori is linked to 90% of distal gastric cancers",
+      "body": "Globally, Helicobacter pylori infection is associated with 90% of cancers of the gastric body and antrum, which make up 85% of gastric cancers. It is a treatable risk factor, alongside smoking, alcohol, obesity and salt intake. More than 90% of gastric cancers are adenocarcinomas, and diagnosis is by endoscopic biopsy.",
+      "takeaway": "Treating H. pylori targets the main modifiable cause of distal gastric cancer.",
+      "tags": [
+        "gastric cancer",
+        "helicobacter pylori",
+        "adenocarcinoma",
+        "risk factors"
+      ],
+      "source": {
+        "pmid": "41499132",
+        "title": "Gastric Cancer: A Review.",
+        "journal": "JAMA",
+        "year": "2026",
+        "doi": "10.1001/jama.2025.20034",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41499132/"
+      }
+    },
+    {
+      "id": "7ebb526d-aab7-4459-b240-33b7f4a45b60",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Gastroenterology",
+      "difficulty": 2,
+      "title": "Most gastric cancers are found late, after symptoms start",
+      "body": "In the US, over 90% of people with gastric cancer present with symptoms such as weight loss and abdominal pain, and only about 13% have disease limited to the stomach. Localized cancer treated with resection has a 5-year relative survival of 75%, while fewer than 10% of patients with metastatic disease survive 5 years.",
+      "takeaway": "Weight loss with abdominal pain warrants endoscopy; stage drives gastric cancer survival.",
+      "tags": [
+        "gastric cancer",
+        "staging",
+        "survival",
+        "endoscopy"
+      ],
+      "source": {
+        "pmid": "41499132",
+        "title": "Gastric Cancer: A Review.",
+        "journal": "JAMA",
+        "year": "2026",
+        "doi": "10.1001/jama.2025.20034",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41499132/"
+      }
+    },
+    {
+      "id": "684bfad2-02e7-4d35-94ff-b7ece977a06a",
+      "kind": "fact",
+      "created": "2026-10-10T12:14:45+00:00",
+      "specialty": "Hematology & Oncology",
+      "difficulty": 3,
+      "title": "Adding teclistamab to daratumumab nearly tripled 3-year PFS",
+      "body": "Teclistamab is a bispecific antibody linking CD3 on T cells to BCMA on myeloma cells. In a phase 3 trial in relapsed or refractory myeloma after 1 to 3 prior lines, adding it to daratumumab gave 83.4% progression-free survival at 36 months versus 29.7% with standard daratumumab triplets. Serious adverse events were somewhat more common.",
+      "takeaway": "BCMA x CD3 bispecifics are moving earlier in relapsed myeloma treatment.",
+      "tags": [
+        "multiple myeloma",
+        "bispecific antibody",
+        "bcma",
+        "daratumumab"
+      ],
+      "source": {
+        "pmid": "41363801",
+        "title": "Teclistamab plus Daratumumab in Relapsed or Refractory Multiple Myeloma.",
+        "journal": "The New England journal of medicine",
+        "year": "2026",
+        "doi": "10.1056/NEJMoa2514663",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41363801/"
+      }
+    },
+    {
       "id": "2ae3c0f9-4509-44bf-a572-18a8b85e699c",
       "kind": "fact",
       "created": "2026-10-10T03:36:42+00:00",
@@ -81,5 +489,5 @@
       }
     }
   ],
-  "updated": "2026-10-10T12:16:11+00:00"
+  "updated": "2026-10-10T12:16:29+00:00"
 }
