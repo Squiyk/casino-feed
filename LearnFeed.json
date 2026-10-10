@@ -2,6 +2,565 @@
   "version": 1,
   "items": [
     {
+      "id": "3a2badb9-a032-491d-b8f4-25e0e19680f0",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Most people with BPD have another psychiatric disorder",
+      "body": "Borderline personality disorder affects about 0.7% to 2.7% of US adults. Comorbidity is the rule: about 83% have a mood disorder, 85% an anxiety disorder and 78% a substance use disorder. Its causes involve both genetic factors and adverse childhood experiences such as sexual and physical abuse.",
+      "takeaway": "BPD rarely occurs alone; expect comorbid mood, anxiety or substance use disorders.",
+      "tags": [
+        "borderline personality disorder",
+        "comorbidity",
+        "epidemiology"
+      ],
+      "source": {
+        "pmid": "36853245",
+        "title": "Borderline Personality Disorder: A Review.",
+        "journal": "JAMA",
+        "year": "2023",
+        "doi": "10.1001/jama.2023.0589",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36853245/"
+      }
+    },
+    {
+      "id": "0ee16323-e58e-411c-8319-e8466a63e167",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "No medication reliably treats the core symptoms of BPD",
+      "body": "Psychotherapy is the treatment of choice for borderline personality disorder. Dialectical behavior therapy and psychodynamic therapy reduce symptom severity more than usual care, with medium effect sizes. No psychoactive drug consistently improves core BPD symptoms; medication may be used for distinct comorbid disorders such as major depression, or short-term crisis management.",
+      "takeaway": "BPD is treated with psychotherapy; drugs target comorbidities and crises.",
+      "tags": [
+        "borderline personality disorder",
+        "dbt",
+        "psychotherapy",
+        "pharmacotherapy"
+      ],
+      "source": {
+        "pmid": "36853245",
+        "title": "Borderline Personality Disorder: A Review.",
+        "journal": "JAMA",
+        "year": "2023",
+        "doi": "10.1001/jama.2023.0589",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36853245/"
+      }
+    },
+    {
+      "id": "babe557f-c5cb-4bbb-8509-d592e73585ed",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 3,
+      "title": "Only DBT and psychodynamic therapy beat controls in BPD",
+      "body": "A meta-analysis of 33 randomized trials (2256 adults) found psychotherapies for borderline personality disorder moderately better than controls for borderline symptoms, self-harm and suicide. Only dialectical behavior therapy and psychodynamic approaches outperformed controls. Effects were small, inflated by risk of bias and publication bias, and unstable at follow-up.",
+      "takeaway": "DBT and psychodynamic therapy have the best BPD evidence, but effects are modest.",
+      "tags": [
+        "borderline personality disorder",
+        "dbt",
+        "psychodynamic therapy",
+        "meta-analysis"
+      ],
+      "source": {
+        "pmid": "28249086",
+        "title": "Efficacy of Psychotherapies for Borderline Personality Disorder: A Systematic Review and Meta-analysis.",
+        "journal": "JAMA psychiatry",
+        "year": "2017",
+        "doi": "10.1001/jamapsychiatry.2016.4287",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28249086/"
+      }
+    },
+    {
+      "id": "4bd8639d-2d0b-45e8-94c5-f1ec94ff3f67",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "title": "About 1 in 8 Western adults has a personality disorder",
+      "body": "A meta-analysis of 10 community studies with nearly 114,000 adults in Western countries estimated the prevalence of any personality disorder at about 12%. Obsessive-compulsive personality disorder was the most common single type, at about 4.3%, and dependent personality disorder the least common, at under 1%. Rates varied widely with assessment method.",
+      "takeaway": "Personality disorders are common; OCPD is the most prevalent single type.",
+      "tags": [
+        "personality disorders",
+        "prevalence",
+        "ocpd",
+        "epidemiology"
+      ],
+      "source": {
+        "pmid": "30261937",
+        "title": "Prevalence of personality disorders in the general adult population in Western countries: systematic review and meta-analysis.",
+        "journal": "The British journal of psychiatry : the journal of mental science",
+        "year": "2018",
+        "doi": "10.1192/bjp.2018.202",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30261937/"
+      }
+    },
+    {
+      "id": "32871a22-bfa3-47bd-af3e-0e46e55cfec1",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Attachment anxiety tracks BPD traits more than avoidance",
+      "body": "A meta-analysis of 27 effect sizes found that borderline personality traits correlate most strongly with attachment anxiety (r = 0.48), the fear of rejection and abandonment in close relationships. Attachment avoidance was also linked, more weakly (r = 0.30). The two interacted, suggesting an especially strong link between BPD traits and disorganized attachment.",
+      "takeaway": "BPD traits correlate most with attachment anxiety, then with avoidance.",
+      "tags": [
+        "attachment",
+        "borderline personality disorder",
+        "relationships"
+      ],
+      "source": {
+        "pmid": "31918217",
+        "title": "Romantic attachment style and borderline personality pathology: A meta-analysis.",
+        "journal": "Clinical psychology review",
+        "year": "2020",
+        "doi": "10.1016/j.cpr.2019.101781",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31918217/"
+      }
+    },
+    {
+      "id": "89c921c6-0a21-40f2-9eaf-50bcdfd0898d",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "title": "Attachment anxiety tracks worse mental health than avoidance",
+      "body": "A meta-analysis of 224 studies with nearly 80,000 participants found that both attachment anxiety and attachment avoidance correlate with more depression, anxiety and loneliness and with lower life satisfaction and self-esteem. Attachment anxiety showed the stronger link with negative mental health (r = 0.42 versus 0.28 for avoidance).",
+      "takeaway": "Insecure adult attachment, especially the anxious kind, tracks poorer mental health.",
+      "tags": [
+        "attachment",
+        "mental health",
+        "meta-analysis"
+      ],
+      "source": {
+        "pmid": "36201836",
+        "title": "The relationship between adult attachment and mental health: A meta-analysis.",
+        "journal": "Journal of personality and social psychology",
+        "year": "2022",
+        "doi": "10.1037/pspp0000437",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36201836/"
+      }
+    },
+    {
+      "id": "ee1f5bea-16c8-4d89-bd71-d6a5438c27f5",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "title": "Personality disorder is common in every medical setting",
+      "body": "Personality disorders are common across all of medicine, so every clinician will meet them often. Affected people have interpersonal problems but often wrongly attribute them to others. Many cases go undetected and may receive ineffective or harmful treatment. Personality disorder worsens the course of other mental disorders and is linked to premature death and suicide.",
+      "takeaway": "Personality disorder is everywhere in medicine and often missed; look for it.",
+      "tags": [
+        "personality disorders",
+        "diagnosis",
+        "suicide",
+        "comorbidity"
+      ],
+      "source": {
+        "pmid": "25706217",
+        "title": "Classification, assessment, prevalence, and effect of personality disorder.",
+        "journal": "Lancet (London, England)",
+        "year": "2015",
+        "doi": "10.1016/S0140-6736(14)61995-4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25706217/"
+      }
+    },
+    {
+      "id": "11b27a84-ec7e-47d2-ba2e-4c446b7efe11",
+      "kind": "case",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "clues": [
+        "A postpartum woman in her late 20s presents to the emergency department with chest pain, palpitations and a fear of dying.",
+        "This is her fifth emergency visit with the same symptoms in two months. She has a remote history of self-injury.",
+        "Each episode follows an emotionally distressing interaction with her estranged spouse.",
+        "Repeated cardiac and medical workups are normal, and the pattern does not meet criteria for panic disorder.",
+        "Structured interview finds abandonment fears, affective instability, identity disturbance, impulsivity and unstable relationships."
+      ],
+      "answer": "Borderline personality disorder",
+      "accepted_answers": [
+        "borderline personality disorder",
+        "bpd",
+        "emotionally unstable personality disorder",
+        "eupd",
+        "borderline personality"
+      ],
+      "explanation": "Recurrent panic-like chest pain with normal cardiac workups points away from a cardiac cause. The episodes are tied to interpersonal stress with her estranged spouse and do not fit panic disorder. Postpartum depression was initially suspected, but the structured assessment found five core DSM-5 criteria for borderline personality disorder: abandonment fears, affective instability, identity disturbance, impulsivity and unstable relationships.",
+      "teaching_point": "Recurrent unexplained somatic crises tied to relationship stress should prompt assessment for a personality disorder.",
+      "source": {
+        "pmid": "40877801",
+        "title": "Recurrent postpartum chest pain unmasking undiagnosed borderline personality disorder: a diagnostic case report.",
+        "journal": "BMC psychiatry",
+        "year": "2025",
+        "doi": "10.1186/s12888-025-07307-z",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40877801/"
+      }
+    },
+    {
+      "id": "2f7270fb-d117-4213-904e-6f43a4698209",
+      "kind": "case",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 3,
+      "clues": [
+        "A middle-aged man has long-standing problems with impulsivity and aggressive behavior.",
+        "He was diagnosed with bipolar disorder but has responded poorly to treatment, with progressive functional decline.",
+        "He shows disinhibition, affective lability and cognitive deficits, and recently attempted suicide.",
+        "Neuropsychological testing confirms frontal lobe dysfunction.",
+        "Brain MRI shows a right frontal cavernoma with an associated developmental venous angioma."
+      ],
+      "answer": "Organic personality disorder",
+      "accepted_answers": [
+        "organic personality disorder",
+        "personality change due to another medical condition",
+        "personality change due to a medical condition",
+        "secondary personality change",
+        "frontal lobe syndrome"
+      ],
+      "explanation": "Impulsivity, aggression and disinhibition were labeled bipolar disorder, but the poor treatment response and progressive decline were red flags. Cognitive deficits and frontal lobe dysfunction on testing point to a brain cause, and imaging found a right frontal cavernoma with a developmental venous angioma. Persistent personality change caused directly by a medical condition is organic personality disorder.",
+      "teaching_point": "When a psychiatric diagnosis fails to respond to treatment, look for an organic brain cause and image the brain.",
+      "source": {
+        "pmid": "41257628",
+        "title": "Combined frontal cavernoma and developmental venous angioma presenting as organic personality disorder: a case report.",
+        "journal": "BMC psychiatry",
+        "year": "2025",
+        "doi": "10.1186/s12888-025-07596-4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41257628/"
+      }
+    },
+    {
+      "id": "9eb4d313-150d-4269-a0b2-1cf8efd9e11f",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "title": "Mental disorders top the world's disability rankings",
+      "body": "The Global Burden of Disease 2023 study estimated 1.17 billion people with a mental disorder. Mental disorders caused 17.3% of all years lived with disability, the leading cause, and became the fifth leading cause of disability-adjusted life-years, up from 12th in 1990. The burden peaked at ages 15 to 19 and was higher in females.",
+      "takeaway": "Mental disorders are the world's leading cause of disability, peaking in teenagers.",
+      "tags": [
+        "global burden of disease",
+        "mental disorders",
+        "epidemiology",
+        "disability"
+      ],
+      "source": {
+        "pmid": "42167272",
+        "title": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+        "journal": "Lancet (London, England)",
+        "year": "2026",
+        "doi": "10.1016/S0140-6736(26)00519-2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42167272/"
+      }
+    },
+    {
+      "id": "de5144ac-5182-40b0-940c-eff161c1a5ac",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 3,
+      "title": "Monthly islatravir PrEP was stopped over falling lymphocytes",
+      "body": "Islatravir, a nucleoside reverse transcriptase translocation inhibitor with a long half-life, was tested as once-monthly oral HIV pre-exposure prophylaxis against daily emtricitabine-tenofovir. Blinded dosing stopped after about 9 months because lymphocyte counts fell, though mean counts stayed within the normal range and tended to recover. No HIV infections occurred during the blinded phase.",
+      "takeaway": "Efficacy was never tested: falling lymphocytes ended this PrEP trial early.",
+      "tags": [
+        "hiv",
+        "prep",
+        "islatravir",
+        "drug safety"
+      ],
+      "source": {
+        "pmid": "41830344",
+        "title": "Safety and Tolerability of Oral Islatravir Once Monthly as Pre-exposure Prophylaxis in Cisgender Men and Transgender Women Who Have an Elevated Likelihood of HIV-1 Exposure: Results From the IMPOWER-24 Randomized Phase 3 Study.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2026",
+        "doi": "10.1093/cid/ciag171",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830344/"
+      }
+    },
+    {
+      "id": "3954515d-3a68-48c1-ac8c-5c4f83f2e46f",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Neurology",
+      "difficulty": 1,
+      "title": "Peripheral neuropathy starts in the toes and climbs",
+      "body": "Peripheral neuropathy is usually length-dependent: symptoms begin in the longest axons, in the toes, and move proximally. It is typically symmetric and affects sensory more than motor fibers. Diabetes is the most common cause, accounting for over half of cases in Western populations, and up to 27% of patients have no cause found after testing.",
+      "takeaway": "Symmetric stocking numbness starting in the toes: think diabetes first.",
+      "tags": [
+        "peripheral neuropathy",
+        "diabetes",
+        "length-dependent"
+      ],
+      "source": {
+        "pmid": "41247746",
+        "title": "Peripheral Neuropathy: A Review.",
+        "journal": "JAMA",
+        "year": "2026",
+        "doi": "10.1001/jama.2025.19400",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41247746/"
+      }
+    },
+    {
+      "id": "07722f20-1661-4978-b6fa-003f8859ad46",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Neurology",
+      "difficulty": 2,
+      "title": "Recommended first tests for neuropathy: glucose, B12, SPEP",
+      "body": "Recommended initial testing for peripheral neuropathy is blood glucose for diabetes, serum B12 with metabolites such as methylmalonic acid, and serum protein electrophoresis with immunofixation for a monoclonal gammopathy. Other causes include hereditary neuropathy, alcohol and drugs such as chemotherapy and amiodarone. Complete reversal of nerve damage is uncommon.",
+      "takeaway": "Neuropathy screen: glucose, B12 with MMA, and SPEP with immunofixation.",
+      "tags": [
+        "peripheral neuropathy",
+        "vitamin b12",
+        "monoclonal gammopathy",
+        "workup"
+      ],
+      "source": {
+        "pmid": "41247746",
+        "title": "Peripheral Neuropathy: A Review.",
+        "journal": "JAMA",
+        "year": "2026",
+        "doi": "10.1001/jama.2025.19400",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41247746/"
+      }
+    },
+    {
+      "id": "1f41c927-6aea-4a08-ab87-0349192373b1",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Hematology & Oncology",
+      "difficulty": 2,
+      "title": "Ovarian cancer is advanced at diagnosis in about 80%",
+      "body": "About 95% of people with ovarian cancer have nonspecific symptoms at diagnosis, such as abdominal pain, bloating and urinary urgency or frequency, and about 80% already have stage III to IV disease. Around 90% are epithelial, most of them high-grade serous, and hereditary factors, mainly BRCA1/2 variants, account for about 25% of cases.",
+      "takeaway": "Bloating, pelvic pain or urinary frequency that persists: consider ovarian cancer.",
+      "tags": [
+        "ovarian cancer",
+        "brca",
+        "diagnosis",
+        "staging"
+      ],
+      "source": {
+        "pmid": "40690248",
+        "title": "Ovarian Cancer: A Review.",
+        "journal": "JAMA",
+        "year": "2025",
+        "doi": "10.1001/jama.2025.9495",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40690248/"
+      }
+    },
+    {
+      "id": "b6dba426-e953-4f9d-9dc5-07d5fd9701aa",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Hematology & Oncology",
+      "difficulty": 3,
+      "title": "Most advanced ovarian cancers relapse within 2 years",
+      "body": "Advanced ovarian cancer is treated with cytoreductive surgery and platinum-based chemotherapy, and most patients then receive maintenance bevacizumab and/or a PARP inhibitor. About 80% go into initial remission, yet about 75% relapse within 2 years. Five-year survival is 10% to 40% overall, but about 70% in those with BRCA-related variants treated with PARP inhibitors.",
+      "takeaway": "Advanced ovarian cancer usually relapses; BRCA carriers on PARP inhibitors fare best.",
+      "tags": [
+        "ovarian cancer",
+        "parp inhibitors",
+        "brca",
+        "relapse"
+      ],
+      "source": {
+        "pmid": "40690248",
+        "title": "Ovarian Cancer: A Review.",
+        "journal": "JAMA",
+        "year": "2025",
+        "doi": "10.1001/jama.2025.9495",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40690248/"
+      }
+    },
+    {
+      "id": "eedb9d70-3257-424e-9d25-08540e46c740",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Pulmonology",
+      "difficulty": 2,
+      "title": "Pneumonia's complications reach the heart, lungs and brain",
+      "body": "Community-acquired pneumonia is no longer seen as a purely acute illness. It carries long-term complications including cardiovascular events, respiratory impairment and cognitive decline. Comprehensive care therefore includes rehabilitation after the acute episode, routine cardiovascular screening and prevention such as vaccination.",
+      "takeaway": "After pneumonia, look beyond the lungs: screen for cardiovascular risk.",
+      "tags": [
+        "pneumonia",
+        "cardiovascular risk",
+        "cognitive decline"
+      ],
+      "source": {
+        "pmid": "41110447",
+        "title": "Community-acquired pneumonia.",
+        "journal": "Lancet (London, England)",
+        "year": "2025",
+        "doi": "10.1016/S0140-6736(25)01493-X",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41110447/"
+      }
+    },
+    {
+      "id": "fdc2012f-f393-46d8-8014-149d946797cd",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Endocrinology",
+      "difficulty": 1,
+      "title": "GLP-1 agonists work on the gut, pancreas and brain",
+      "body": "GLP-1 receptor agonists promote glucose-dependent insulin release, slow gastric emptying, suppress glucagon and act on hypothalamic nuclei to increase satiety. Large trials show they reduce cardiovascular risk and slow progression to kidney failure in high-risk people and those with type 2 diabetes. Side effects are mainly gastrointestinal, but loss of muscle and bone mass is a concern.",
+      "takeaway": "GLP-1 agonists protect heart and kidneys, but watch muscle and bone mass.",
+      "tags": [
+        "glp-1 receptor agonists",
+        "type 2 diabetes",
+        "obesity",
+        "mechanism"
+      ],
+      "source": {
+        "pmid": "41931049",
+        "title": "GLP-1 Receptor Agonists.",
+        "journal": "The New England journal of medicine",
+        "year": "2026",
+        "doi": "10.1056/NEJMra2500106",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931049/"
+      }
+    },
+    {
+      "id": "a820ccd7-c3eb-4eef-a28a-2c2bded153eb",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Hematology & Oncology",
+      "difficulty": 3,
+      "title": "Stop antibiotics if afebrile and stable, whatever the count",
+      "body": "European guidance for febrile neutropenia in haematological malignancy or after stem cell transplant tailors empirical therapy to local resistance and patient risk: carbapenem-sparing monotherapy if stable without resistant Gram-negative bacteria in low-resistance settings, broader cover otherwise. Stop antibiotics once afebrile and stable after the intended course, regardless of neutrophil count.",
+      "takeaway": "Febrile neutropenia: afebrile and stable after the course? Stop, whatever the count.",
+      "tags": [
+        "febrile neutropenia",
+        "antimicrobial stewardship",
+        "leukaemia"
+      ],
+      "source": {
+        "pmid": "41314221",
+        "title": "Empirical and targeted antimicrobial therapy in patients with febrile neutropenia and haematological malignancy or after haematopoietic cell transplantation: recommendations from the 10th European Conference on Infections in Leukaemia.",
+        "journal": "The Lancet. Infectious diseases",
+        "year": "2026",
+        "doi": "10.1016/S1473-3099(25)00619-X",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41314221/"
+      }
+    },
+    {
+      "id": "985c2a2e-824e-41ee-8387-180110cb6724",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 3,
+      "title": "An antisense drug gave functional HBV cure in about 1 in 5",
+      "body": "Bepirovirsen is an antisense oligonucleotide targeting hepatitis B virus transcripts. In two phase 3 trials in noncirrhotic chronic HBV on nucleos(t)ide therapy with HBsAg of 100 to 3000 IU/mL, about 20% of treated patients reached functional cure (HBsAg loss and HBV DNA below the quantification limit off therapy) versus none on placebo. ALT rises were the most common severe event.",
+      "takeaway": "Functional HBV cure means HBsAg loss and suppressed DNA off therapy.",
+      "tags": [
+        "hepatitis b",
+        "functional cure",
+        "antisense",
+        "hbsag"
+      ],
+      "source": {
+        "pmid": "42206582",
+        "title": "Phase 3 Results of Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection.",
+        "journal": "The New England journal of medicine",
+        "year": "2026",
+        "doi": "10.1056/NEJMoa2515131",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206582/"
+      }
+    },
+    {
+      "id": "f68d8aff-f52f-4309-81cc-b949273a4ac1",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Endocrinology",
+      "difficulty": 1,
+      "title": "Hashimoto causes up to 85% of primary hypothyroidism",
+      "body": "In iodine-sufficient regions, autoimmune Hashimoto thyroiditis causes up to 85% of primary hypothyroidism. Overt primary hypothyroidism is diagnosed with high TSH and low free T4. Screening asymptomatic people is not recommended, but targeted testing is advised in high-risk groups such as type 1 diabetes. Other risks include neck surgery or radiation, amiodarone and immune checkpoint inhibitors.",
+      "takeaway": "High TSH plus low free T4 means overt primary hypothyroidism.",
+      "tags": [
+        "hypothyroidism",
+        "hashimoto thyroiditis",
+        "tsh"
+      ],
+      "source": {
+        "pmid": "40900603",
+        "title": "Hypothyroidism: A Review.",
+        "journal": "JAMA",
+        "year": "2025",
+        "doi": "10.1001/jama.2025.13559",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40900603/"
+      }
+    },
+    {
+      "id": "3ba1d65c-cfbc-47ca-91a8-16f386caab6c",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Endocrinology",
+      "difficulty": 2,
+      "title": "Myxedema coma carries mortality of up to 30%",
+      "body": "Untreated hypothyroidism can progress to myxedema coma, with hypothermia, hypotension and altered mental status. It needs intensive care and has a mortality of up to 30%. In routine care, TSH is rechecked 6 to 8 weeks after starting or changing levothyroxine, then yearly once at goal, since both over- and undertreatment carry cardiovascular risks.",
+      "takeaway": "Hypothermia, hypotension and confusion in hypothyroidism: myxedema coma, ICU.",
+      "tags": [
+        "myxedema coma",
+        "hypothyroidism",
+        "levothyroxine",
+        "tsh monitoring"
+      ],
+      "source": {
+        "pmid": "40900603",
+        "title": "Hypothyroidism: A Review.",
+        "journal": "JAMA",
+        "year": "2025",
+        "doi": "10.1001/jama.2025.13559",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40900603/"
+      }
+    },
+    {
+      "id": "20caf04c-6df2-47a0-a1a4-e050aa2c599e",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Nephrology",
+      "difficulty": 1,
+      "title": "In CKD, heart disease usually strikes before kidney failure",
+      "body": "Chronic kidney disease affects about 850 million people worldwide and is projected to be the fifth leading underlying cause of death by 2050. Most patients become disabled or die from cardiovascular disease before ever reaching kidney failure. It can be screened, diagnosed and staged with simple laboratory tests, and treatments now exist that slow decline and cut cardiovascular risk.",
+      "takeaway": "In CKD, cardiovascular disease usually outpaces kidney failure.",
+      "tags": [
+        "chronic kidney disease",
+        "cardiovascular risk",
+        "epidemiology"
+      ],
+      "source": {
+        "pmid": "41314225",
+        "title": "Chronic kidney disease.",
+        "journal": "Lancet (London, England)",
+        "year": "2026",
+        "doi": "10.1016/S0140-6736(25)01942-7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41314225/"
+      }
+    },
+    {
+      "id": "78357815-34c5-447f-a5a1-61fce65ff3f9",
+      "kind": "fact",
+      "created": "2026-10-10T12:37:49+00:00",
+      "specialty": "Hematology & Oncology",
+      "difficulty": 2,
+      "title": "dMMR colorectal cancer responds well to checkpoint blockade",
+      "body": "Metastatic colorectal cancer still has a 5-year survival of around 10% to 25%, and most patients eventually progress despite chemotherapy and targeted therapy. A small subset with mismatch repair-deficient or microsatellite unstable tumors responds exceptionally well to immune checkpoint inhibitors, with long-term control even when metastatic. Most microsatellite stable tumors do not respond.",
+      "takeaway": "Test colorectal cancer for MMR/MSI status; dMMR tumors respond to checkpoint inhibitors.",
+      "tags": [
+        "colorectal cancer",
+        "microsatellite instability",
+        "immunotherapy"
+      ],
+      "source": {
+        "pmid": "41047178",
+        "title": "Current and emerging concepts for systemic treatment of metastatic colorectal cancer.",
+        "journal": "Gut",
+        "year": "2025",
+        "doi": "10.1136/gutjnl-2025-335412",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41047178/"
+      }
+    },
+    {
       "id": "a82f643b-1a56-4ddb-8221-bc3b197d2a9e",
       "kind": "fact",
       "created": "2026-10-10T12:14:45+00:00",
@@ -489,5 +1048,5 @@
       }
     }
   ],
-  "updated": "2026-10-10T12:16:29+00:00"
+  "updated": "2026-10-10T12:38:55+00:00"
 }
