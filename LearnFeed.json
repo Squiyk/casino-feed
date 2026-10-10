@@ -1,4 +1,85 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "2ae3c0f9-4509-44bf-a572-18a8b85e699c",
+      "kind": "fact",
+      "created": "2026-10-10T03:36:42+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "title": "Pregnant patients are screened for syphilis three times",
+      "body": "Screening is recommended at the first prenatal visit, in the third trimester, and at delivery. The stakes are high: up to 40% of fetuses exposed in utero are stillborn or die from the infection in infancy, and US congenital syphilis cases rose 106% between 2019 and 2023.",
+      "takeaway": "First visit, third trimester, delivery: three syphilis screens.",
+      "tags": [
+        "syphilis",
+        "pregnancy",
+        "screening",
+        "congenital infection"
+      ],
+      "source": {
+        "pmid": "41100079",
+        "title": "Syphilis: A Review.",
+        "journal": "JAMA",
+        "year": "2025",
+        "doi": "10.1001/jama.2025.17362",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41100079/"
+      }
+    },
+    {
+      "id": "3327b603-b710-4266-b1d7-c810a7570cb6",
+      "kind": "fact",
+      "created": "2026-10-10T03:36:42+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "title": "Neurosyphilis can occur at any stage of syphilis",
+      "body": "Neurosyphilis is not only a late complication. It can appear at any stage and present as meningitis, uveitis, hearing loss or stroke, so new eye, ear or neurological symptoms in a patient with syphilis should prompt evaluation for nervous system involvement.",
+      "takeaway": "Syphilis plus eye, ear or neuro symptoms: think neurosyphilis.",
+      "tags": [
+        "syphilis",
+        "neurosyphilis",
+        "uveitis"
+      ],
+      "source": {
+        "pmid": "41100079",
+        "title": "Syphilis: A Review.",
+        "journal": "JAMA",
+        "year": "2025",
+        "doi": "10.1001/jama.2025.17362",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41100079/"
+      }
+    },
+    {
+      "id": "9549695e-e8bc-4150-8d32-3e3e48063466",
+      "kind": "case",
+      "created": "2026-10-10T03:36:42+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "clues": [
+        "A man in his late 20s presents with loss of appetite.",
+        "He has no typical rash. A full sexual history was not taken at his first assessments.",
+        "Examination finds bilateral painless lymphadenopathy and hepatosplenomegaly.",
+        "Initial tests raise concern for a lymphoproliferative disorder; a node biopsy shows dermatopathic lymphadenopathy.",
+        "A detailed sexual history finally prompts serology, which is reactive for Treponema pallidum."
+      ],
+      "answer": "Secondary syphilis",
+      "accepted_answers": [
+        "secondary syphilis",
+        "syphilis",
+        "luetic lymphadenitis",
+        "syphilitic lymphadenitis",
+        "treponema pallidum infection"
+      ],
+      "explanation": "Painless bilateral lymphadenopathy with hepatosplenomegaly in a young adult points first toward lymphoma, which is where the work-up went. But dermatopathic changes on biopsy are nonspecific, and secondary syphilis can mimic a lymphoproliferative disorder even without its typical rash. The sexual history was the missing piece; syphilis was confirmed and treatment with benzathine penicillin resolved the lymphadenopathy.",
+      "teaching_point": "Take a full sexual history early, alongside the lymphoma work-up, in unexplained lymphadenopathy.",
+      "source": {
+        "pmid": "41475872",
+        "title": "Luetic lymphadenitis: solving the secretive swell.",
+        "journal": "BMJ case reports",
+        "year": "2025",
+        "doi": "10.1136/bcr-2025-267799",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41475872/"
+      }
+    }
+  ],
+  "updated": "2026-10-10T12:16:11+00:00"
 }
