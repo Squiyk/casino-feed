@@ -22,6 +22,17 @@
         "year": "2023",
         "doi": "10.1001/jama.2023.0589",
         "url": "https://pubmed.ncbi.nlm.nih.gov/36853245/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La plupart des personnes avec un TPL ont un autre trouble psychiatrique",
+        "body": "Le trouble de personnalité limite touche environ 0,7 % à 2,7 % des adultes américains. La comorbidité est la règle : environ 83 % ont un trouble de l'humeur, 85 % un trouble anxieux et 78 % un trouble lié à l'usage de substances. Ses causes combinent des facteurs génétiques et des expériences négatives de l'enfance, comme les abus sexuels et physiques.",
+        "takeaway": "Le TPL est rarement seul : attendez-vous à un trouble de l'humeur, anxieux ou lié aux substances.",
+        "tags": [
+          "trouble de personnalité limite",
+          "comorbidité",
+          "épidémiologie"
+        ]
       }
     },
     {
@@ -46,6 +57,18 @@
         "year": "2023",
         "doi": "10.1001/jama.2023.0589",
         "url": "https://pubmed.ncbi.nlm.nih.gov/36853245/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Aucun médicament ne traite de façon fiable le cœur du TPL",
+        "body": "La psychothérapie est le traitement de choix du trouble de personnalité limite. La thérapie comportementale dialectique et la thérapie psychodynamique réduisent la gravité des symptômes plus que les soins usuels, avec des effets de taille moyenne. Aucun psychotrope n'améliore de façon constante les symptômes centraux; un médicament peut traiter un trouble comorbide distinct, comme une dépression majeure, ou une crise à court terme.",
+        "takeaway": "Le TPL se traite par psychothérapie; les médicaments visent les comorbidités et les crises.",
+        "tags": [
+          "trouble de personnalité limite",
+          "tcd",
+          "psychothérapie",
+          "pharmacothérapie"
+        ]
       }
     },
     {
@@ -70,6 +93,18 @@
         "year": "2017",
         "doi": "10.1001/jamapsychiatry.2016.4287",
         "url": "https://pubmed.ncbi.nlm.nih.gov/28249086/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Seules la TCD et la psychodynamique battent les témoins dans le TPL",
+        "body": "Une méta-analyse de 33 essais randomisés (2 256 adultes) a trouvé les psychothérapies du trouble de personnalité limite modérément supérieures aux témoins pour les symptômes limites, l'automutilation et le suicide. Seules la thérapie comportementale dialectique et les approches psychodynamiques surpassaient les témoins. Les effets étaient faibles, gonflés par le risque de biais et le biais de publication, et instables au suivi.",
+        "takeaway": "La TCD et la thérapie psychodynamique ont les meilleures données dans le TPL, mais les effets sont modestes.",
+        "tags": [
+          "trouble de personnalité limite",
+          "tcd",
+          "thérapie psychodynamique",
+          "méta-analyse"
+        ]
       }
     },
     {
@@ -94,6 +129,18 @@
         "year": "2018",
         "doi": "10.1192/bjp.2018.202",
         "url": "https://pubmed.ncbi.nlm.nih.gov/30261937/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Environ 1 adulte occidental sur 8 a un trouble de la personnalité",
+        "body": "Une méta-analyse de 10 études populationnelles portant sur près de 114 000 adultes de pays occidentaux a estimé la prévalence de tout trouble de la personnalité à environ 12 %. La personnalité obsessionnelle-compulsive était le type le plus fréquent, à environ 4,3 %, et la personnalité dépendante le moins fréquent, à moins de 1 %. Les taux variaient beaucoup selon la méthode d'évaluation.",
+        "takeaway": "Les troubles de la personnalité sont fréquents; l'obsessionnelle-compulsive est le type le plus répandu.",
+        "tags": [
+          "troubles de la personnalité",
+          "prévalence",
+          "personnalité obsessionnelle-compulsive",
+          "épidémiologie"
+        ]
       }
     },
     {
@@ -117,6 +164,17 @@
         "year": "2020",
         "doi": "10.1016/j.cpr.2019.101781",
         "url": "https://pubmed.ncbi.nlm.nih.gov/31918217/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "L'anxiété d'attachement suit les traits limites plus que l'évitement",
+        "body": "Une méta-analyse de 27 tailles d'effet a montré que les traits de personnalité limite sont le plus fortement corrélés à l'anxiété d'attachement (r = 0,48), soit la peur du rejet et de l'abandon dans les relations proches. L'évitement de l'attachement y était aussi lié, plus faiblement (r = 0,30). Les deux interagissaient, ce qui suggère un lien particulièrement fort entre les traits limites et l'attachement désorganisé.",
+        "takeaway": "Les traits limites sont surtout corrélés à l'anxiété d'attachement, puis à l'évitement.",
+        "tags": [
+          "attachement",
+          "trouble de personnalité limite",
+          "relations"
+        ]
       }
     },
     {
@@ -140,6 +198,17 @@
         "year": "2022",
         "doi": "10.1037/pspp0000437",
         "url": "https://pubmed.ncbi.nlm.nih.gov/36201836/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "L'anxiété d'attachement nuit plus à la santé mentale que l'évitement",
+        "body": "Une méta-analyse de 224 études portant sur près de 80 000 participants a montré que l'anxiété et l'évitement d'attachement sont tous deux corrélés à plus de dépression, d'anxiété et de solitude, et à une moindre satisfaction de vie et estime de soi. L'anxiété d'attachement avait le lien le plus fort avec une santé mentale négative (r = 0,42 contre 0,28 pour l'évitement).",
+        "takeaway": "L'attachement insécure à l'âge adulte, surtout anxieux, va de pair avec une moins bonne santé mentale.",
+        "tags": [
+          "attachement",
+          "santé mentale",
+          "méta-analyse"
+        ]
       }
     },
     {
@@ -164,6 +233,18 @@
         "year": "2015",
         "doi": "10.1016/S0140-6736(14)61995-4",
         "url": "https://pubmed.ncbi.nlm.nih.gov/25706217/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Les troubles de la personnalité sont fréquents partout en médecine",
+        "body": "Les troubles de la personnalité sont fréquents dans toute la médecine, alors chaque clinicien en rencontrera souvent. Les personnes atteintes ont des difficultés interpersonnelles, mais les attribuent souvent à tort aux autres. Beaucoup de cas passent inaperçus et peuvent recevoir un traitement inefficace ou nuisible. Le trouble aggrave l'évolution des autres troubles mentaux et est associé à une mort prématurée et au suicide.",
+        "takeaway": "Les troubles de la personnalité sont partout en médecine et souvent manqués : cherchez-les.",
+        "tags": [
+          "troubles de la personnalité",
+          "diagnostic",
+          "suicide",
+          "comorbidité"
+        ]
       }
     },
     {
@@ -196,6 +277,27 @@
         "year": "2025",
         "doi": "10.1186/s12888-025-07307-z",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40877801/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "clues": [
+          "Une femme en post-partum, à la fin de la vingtaine, consulte à l'urgence pour douleur thoracique, palpitations et peur de mourir.",
+          "C'est sa cinquième visite à l'urgence pour les mêmes symptômes en deux mois. Elle a des antécédents lointains d'automutilation.",
+          "Chaque épisode suit une interaction émotionnellement éprouvante avec son conjoint dont elle est séparée.",
+          "Les bilans cardiaques et médicaux répétés sont normaux, et le tableau ne remplit pas les critères du trouble panique.",
+          "Une entrevue structurée révèle peur de l'abandon, instabilité affective, perturbation de l'identité, impulsivité et relations instables."
+        ],
+        "answer": "Trouble de personnalité limite",
+        "accepted_answers": [
+          "trouble de personnalité limite",
+          "trouble de la personnalité limite",
+          "tpl",
+          "personnalité limite",
+          "trouble de personnalité borderline",
+          "personnalité émotionnellement labile"
+        ],
+        "explanation": "Une douleur thoracique récurrente de type panique avec bilans cardiaques normaux éloigne d'une cause cardiaque. Les épisodes sont liés au stress interpersonnel avec son conjoint et ne correspondent pas au trouble panique. On soupçonnait d'abord une dépression post-partum, mais l'évaluation structurée a trouvé cinq critères centraux du DSM-5 pour le trouble de personnalité limite : peur de l'abandon, instabilité affective, perturbation de l'identité, impulsivité et relations instables.",
+        "teaching_point": "Des crises somatiques inexpliquées et répétées, liées au stress relationnel, doivent faire chercher un trouble de la personnalité."
       }
     },
     {
@@ -228,6 +330,26 @@
         "year": "2025",
         "doi": "10.1186/s12888-025-07596-4",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41257628/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "clues": [
+          "Un homme d'âge moyen a des problèmes de longue date d'impulsivité et de comportements agressifs.",
+          "On lui a diagnostiqué un trouble bipolaire, mais il répond mal au traitement et son fonctionnement décline progressivement.",
+          "Il présente désinhibition, labilité affective et déficits cognitifs, et a récemment fait une tentative de suicide.",
+          "Le bilan neuropsychologique confirme une dysfonction du lobe frontal.",
+          "L'IRM cérébrale montre un cavernome frontal droit associé à une anomalie veineuse de développement."
+        ],
+        "answer": "Trouble organique de la personnalité",
+        "accepted_answers": [
+          "trouble organique de la personnalité",
+          "modification de la personnalité due à une autre affection médicale",
+          "modification de la personnalité due à une affection médicale",
+          "changement de personnalité secondaire",
+          "syndrome frontal"
+        ],
+        "explanation": "Impulsivité, agressivité et désinhibition avaient été étiquetées trouble bipolaire, mais la mauvaise réponse au traitement et le déclin progressif étaient des signaux d'alarme. Les déficits cognitifs et la dysfonction frontale au bilan évoquent une cause cérébrale, et l'imagerie a trouvé un cavernome frontal droit avec une anomalie veineuse de développement. Un changement de personnalité persistant causé directement par une affection médicale est un trouble organique de la personnalité.",
+        "teaching_point": "Quand un diagnostic psychiatrique ne répond pas au traitement, cherchez une cause cérébrale organique et faites une imagerie."
       }
     },
     {
@@ -252,6 +374,18 @@
         "year": "2026",
         "doi": "10.1016/S0140-6736(26)00519-2",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42167272/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Les troubles mentaux sont la première cause d'incapacité au monde",
+        "body": "L'étude Global Burden of Disease 2023 a estimé à 1,17 milliard le nombre de personnes ayant un trouble mental. Les troubles mentaux causaient 17,3 % de toutes les années vécues avec une incapacité, au premier rang, et sont devenus la cinquième cause d'années de vie ajustées sur l'incapacité, contre le 12e rang en 1990. Le fardeau culminait de 15 à 19 ans et était plus élevé chez les femmes.",
+        "takeaway": "Les troubles mentaux sont la première cause d'incapacité au monde, avec un sommet à l'adolescence.",
+        "tags": [
+          "fardeau mondial de la maladie",
+          "troubles mentaux",
+          "épidémiologie",
+          "incapacité"
+        ]
       }
     },
     {
@@ -276,6 +410,18 @@
         "year": "2026",
         "doi": "10.1093/cid/ciag171",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41830344/"
+      },
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "La PrEP mensuelle à l'islatravir arrêtée pour une baisse des lymphocytes",
+        "body": "L'islatravir, un inhibiteur nucléosidique de la translocation de la transcriptase inverse à longue demi-vie, a été testé en PrEP orale mensuelle contre le VIH, face à l'emtricitabine-ténofovir quotidien. L'administration à l'insu a été arrêtée après environ 9 mois en raison d'une baisse des lymphocytes, bien que les moyennes soient restées normales et aient eu tendance à se rétablir. Aucune infection au VIH n'est survenue pendant la phase à l'insu.",
+        "takeaway": "L'efficacité n'a jamais été évaluée : la baisse des lymphocytes a mis fin à cet essai de PrEP.",
+        "tags": [
+          "vih",
+          "prep",
+          "islatravir",
+          "innocuité des médicaments"
+        ]
       }
     },
     {
@@ -299,6 +445,17 @@
         "year": "2026",
         "doi": "10.1001/jama.2025.19400",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41247746/"
+      },
+      "fr": {
+        "specialty": "Neurologie",
+        "title": "La neuropathie périphérique commence aux orteils et remonte",
+        "body": "La neuropathie périphérique est habituellement longueur-dépendante : les symptômes commencent dans les axones les plus longs, aux orteils, et progressent vers le haut. Elle est typiquement symétrique et touche les fibres sensitives plus que motrices. Le diabète en est la cause la plus fréquente, avec plus de la moitié des cas dans les populations occidentales, et jusqu'à 27 % des patients n'ont aucune cause trouvée après le bilan.",
+        "takeaway": "Engourdissement symétrique en chaussettes qui part des orteils : pensez d'abord au diabète.",
+        "tags": [
+          "neuropathie périphérique",
+          "diabète",
+          "longueur-dépendante"
+        ]
       }
     },
     {
@@ -323,6 +480,18 @@
         "year": "2026",
         "doi": "10.1001/jama.2025.19400",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41247746/"
+      },
+      "fr": {
+        "specialty": "Neurologie",
+        "title": "Premiers tests recommandés en neuropathie : glycémie, B12, EPS",
+        "body": "Le bilan initial recommandé d'une neuropathie périphérique comprend la glycémie pour le diabète, la vitamine B12 sérique avec des métabolites comme l'acide méthylmalonique, et l'électrophorèse des protéines sériques avec immunofixation pour une gammapathie monoclonale. Les autres causes incluent les neuropathies héréditaires, l'alcool et des médicaments comme la chimiothérapie et l'amiodarone. La récupération complète des nerfs est rare.",
+        "takeaway": "Bilan de neuropathie : glycémie, B12 avec AMM, et EPS avec immunofixation.",
+        "tags": [
+          "neuropathie périphérique",
+          "vitamine b12",
+          "gammapathie monoclonale",
+          "bilan"
+        ]
       }
     },
     {
@@ -347,6 +516,18 @@
         "year": "2025",
         "doi": "10.1001/jama.2025.9495",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40690248/"
+      },
+      "fr": {
+        "specialty": "Hématologie et oncologie",
+        "title": "Le cancer de l'ovaire est avancé au diagnostic dans environ 80 % des cas",
+        "body": "Environ 95 % des personnes atteintes d'un cancer de l'ovaire ont des symptômes non spécifiques au diagnostic, comme des douleurs abdominales, des ballonnements et une urgence ou une fréquence urinaire, et environ 80 % ont déjà un stade III à IV. Environ 90 % sont épithéliaux, surtout séreux de haut grade, et les facteurs héréditaires, surtout des variants de BRCA1/2, expliquent environ 25 % des cas.",
+        "takeaway": "Ballonnements, douleur pelvienne ou pollakiurie qui persistent : pensez au cancer de l'ovaire.",
+        "tags": [
+          "cancer de l'ovaire",
+          "brca",
+          "diagnostic",
+          "stadification"
+        ]
       }
     },
     {
@@ -371,6 +552,18 @@
         "year": "2025",
         "doi": "10.1001/jama.2025.9495",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40690248/"
+      },
+      "fr": {
+        "specialty": "Hématologie et oncologie",
+        "title": "La plupart des cancers de l'ovaire avancés récidivent en 2 ans",
+        "body": "Le cancer de l'ovaire avancé se traite par chirurgie de cytoréduction et chimiothérapie à base de platine, et la plupart des patientes reçoivent ensuite un entretien par bévacizumab ou un inhibiteur de PARP, ou les deux. Environ 80 % entrent en rémission initiale, mais environ 75 % récidivent en 2 ans. La survie à 5 ans est de 10 % à 40 % au total, mais d'environ 70 % chez celles porteuses d'un variant BRCA traitées par inhibiteur de PARP.",
+        "takeaway": "Le cancer de l'ovaire avancé récidive souvent; mutées BRCA sous inhibiteur de PARP : meilleur pronostic.",
+        "tags": [
+          "cancer de l'ovaire",
+          "inhibiteurs de parp",
+          "brca",
+          "récidive"
+        ]
       }
     },
     {
@@ -394,6 +587,17 @@
         "year": "2025",
         "doi": "10.1016/S0140-6736(25)01493-X",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41110447/"
+      },
+      "fr": {
+        "specialty": "Pneumologie",
+        "title": "La pneumonie a des séquelles au cœur, aux poumons et au cerveau",
+        "body": "La pneumonie acquise en communauté n'est plus vue comme une maladie purement aiguë. Elle entraîne des complications à long terme, dont des événements cardiovasculaires, une atteinte respiratoire et un déclin cognitif. Des soins complets incluent donc une réadaptation après l'épisode aigu, un dépistage cardiovasculaire systématique et de la prévention comme la vaccination.",
+        "takeaway": "Après une pneumonie, regardez au-delà des poumons : dépistez le risque cardiovasculaire.",
+        "tags": [
+          "pneumonie",
+          "risque cardiovasculaire",
+          "déclin cognitif"
+        ]
       }
     },
     {
@@ -418,6 +622,18 @@
         "year": "2026",
         "doi": "10.1056/NEJMra2500106",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41931049/"
+      },
+      "fr": {
+        "specialty": "Endocrinologie",
+        "title": "Les agonistes du GLP-1 agissent sur l'intestin, le pancréas, le cerveau",
+        "body": "Les agonistes du GLP-1 favorisent la sécrétion d'insuline glucodépendante, ralentissent la vidange gastrique, freinent le glucagon et agissent sur l'hypothalamus pour accroître la satiété. De grands essais montrent qu'ils réduisent le risque cardiovasculaire et ralentissent l'évolution vers l'insuffisance rénale chez les personnes à haut risque et diabétiques de type 2. Effets indésirables surtout digestifs; la perte de masse musculaire et osseuse inquiète.",
+        "takeaway": "Les agonistes du GLP-1 protègent le cœur et les reins, mais surveillez la masse musculaire et osseuse.",
+        "tags": [
+          "agonistes du glp-1",
+          "diabète de type 2",
+          "obésité",
+          "mécanisme"
+        ]
       }
     },
     {
@@ -441,6 +657,17 @@
         "year": "2026",
         "doi": "10.1016/S1473-3099(25)00619-X",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41314221/"
+      },
+      "fr": {
+        "specialty": "Hématologie et oncologie",
+        "title": "Apyrétique et stable? Cessez les antibiotiques, quel que soit le compte",
+        "body": "Les recommandations européennes sur la neutropénie fébrile en hémopathie maligne ou après greffe de cellules souches adaptent l'antibiothérapie empirique à la résistance locale et au risque : monothérapie épargnant les carbapénèmes si stable, sans Gram négatif résistant, en milieu peu résistant; couverture plus large sinon. Cessez les antibiotiques une fois apyrétique et stable après la durée prévue, quel que soit le compte de neutrophiles.",
+        "takeaway": "Neutropénie fébrile : apyrétique et stable après la durée prévue? Cessez, quel que soit le compte.",
+        "tags": [
+          "neutropénie fébrile",
+          "gestion des antimicrobiens",
+          "leucémie"
+        ]
       }
     },
     {
@@ -465,6 +692,18 @@
         "year": "2026",
         "doi": "10.1056/NEJMoa2515131",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42206582/"
+      },
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "Un antisens a guéri fonctionnellement le VHB chez environ 1 sur 5",
+        "body": "Le bépirovirsen est un oligonucléotide antisens ciblant les transcrits du virus de l'hépatite B. Dans deux essais de phase 3 chez des patients non cirrhotiques avec VHB chronique sous analogue nucléos(t)idique et AgHBs de 100 à 3000 UI/mL, environ 20 % des traités ont atteint une guérison fonctionnelle (perte de l'AgHBs et ADN du VHB indosable sans traitement), contre aucun sous placebo. Les hausses d'ALT étaient l'événement grave le plus fréquent.",
+        "takeaway": "Guérison fonctionnelle du VHB : perte de l'AgHBs et ADN supprimé sans traitement.",
+        "tags": [
+          "hépatite b",
+          "guérison fonctionnelle",
+          "antisens",
+          "aghbs"
+        ]
       }
     },
     {
@@ -488,6 +727,17 @@
         "year": "2025",
         "doi": "10.1001/jama.2025.13559",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40900603/"
+      },
+      "fr": {
+        "specialty": "Endocrinologie",
+        "title": "Hashimoto cause jusqu'à 85 % des hypothyroïdies primaires",
+        "body": "Dans les régions sans carence en iode, la thyroïdite auto-immune d'Hashimoto cause jusqu'à 85 % des hypothyroïdies primaires. L'hypothyroïdie primaire franche se diagnostique par une TSH élevée et une T4 libre basse. Le dépistage des personnes asymptomatiques n'est pas recommandé, mais un test ciblé l'est chez les groupes à risque, comme le diabète de type 1. Autres risques : chirurgie ou radiothérapie du cou, amiodarone et inhibiteurs de points de contrôle immunitaire.",
+        "takeaway": "TSH élevée et T4 libre basse : hypothyroïdie primaire franche.",
+        "tags": [
+          "hypothyroïdie",
+          "thyroïdite d'hashimoto",
+          "tsh"
+        ]
       }
     },
     {
@@ -512,6 +762,18 @@
         "year": "2025",
         "doi": "10.1001/jama.2025.13559",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40900603/"
+      },
+      "fr": {
+        "specialty": "Endocrinologie",
+        "title": "Le coma myxœdémateux a une mortalité allant jusqu'à 30 %",
+        "body": "Une hypothyroïdie non traitée peut évoluer vers un coma myxœdémateux, avec hypothermie, hypotension et altération de l'état de conscience. Il exige des soins intensifs et sa mortalité atteint 30 %. En suivi courant, on recontrôle la TSH 6 à 8 semaines après le début ou un changement de lévothyroxine, puis chaque année une fois la cible atteinte, car le surtraitement comme le sous-traitement comportent des risques cardiovasculaires.",
+        "takeaway": "Hypothermie, hypotension et confusion chez un hypothyroïdien : coma myxœdémateux, soins intensifs.",
+        "tags": [
+          "coma myxœdémateux",
+          "hypothyroïdie",
+          "lévothyroxine",
+          "suivi de la tsh"
+        ]
       }
     },
     {
@@ -535,6 +797,17 @@
         "year": "2026",
         "doi": "10.1016/S0140-6736(25)01942-7",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41314225/"
+      },
+      "fr": {
+        "specialty": "Néphrologie",
+        "title": "Dans la MRC, le cœur flanche souvent avant les reins",
+        "body": "La maladie rénale chronique touche environ 850 millions de personnes dans le monde et devrait être la cinquième cause sous-jacente de décès d'ici 2050. La plupart des patients deviennent invalides ou meurent d'une maladie cardiovasculaire avant d'atteindre l'insuffisance rénale. Elle peut être dépistée, diagnostiquée et classée par des analyses simples, et des traitements ralentissent maintenant le déclin et réduisent le risque cardiovasculaire.",
+        "takeaway": "Dans la MRC, la maladie cardiovasculaire devance habituellement l'insuffisance rénale.",
+        "tags": [
+          "maladie rénale chronique",
+          "risque cardiovasculaire",
+          "épidémiologie"
+        ]
       }
     },
     {
@@ -558,6 +831,17 @@
         "year": "2025",
         "doi": "10.1136/gutjnl-2025-335412",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41047178/"
+      },
+      "fr": {
+        "specialty": "Hématologie et oncologie",
+        "title": "Le cancer colorectal dMMR répond bien à l'immunothérapie",
+        "body": "Le cancer colorectal métastatique a encore une survie à 5 ans d'environ 10 % à 25 %, et la plupart des patients progressent malgré la chimiothérapie et les thérapies ciblées. Un petit sous-groupe de tumeurs dMMR (déficience de la réparation des mésappariements) ou MSI répond exceptionnellement bien aux inhibiteurs de points de contrôle immunitaire, avec un contrôle prolongé même au stade métastatique. La plupart des tumeurs stables ne répondent pas.",
+        "takeaway": "Testez le statut MMR/MSI du cancer colorectal; les tumeurs dMMR répondent à l'immunothérapie.",
+        "tags": [
+          "cancer colorectal",
+          "instabilité microsatellitaire",
+          "immunothérapie"
+        ]
       }
     },
     {
@@ -582,6 +866,18 @@
         "year": "2025",
         "doi": "10.1093/eurheartj/ehaf479",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40878995/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Peu de lignes directrices cardiaques traitent de la dépression",
+        "body": "La dépression est plus fréquente chez les personnes atteintes de maladie cardiovasculaire et est liée à une moins bonne qualité de vie, à de pires issues et à une mortalité plus élevée. Pourtant, dans une revue de 65 lignes directrices cardiovasculaires, 71 % nommaient la dépression comme facteur de risque, mais seulement 23 % donnaient des conseils de dépistage et de traitement, et à peine 3 % abordaient les interactions médicament-maladie des antidépresseurs.",
+        "takeaway": "Dépistez la dépression chez vos patients cardiaques; les lignes directrices vous le rappellent rarement.",
+        "tags": [
+          "dépression",
+          "maladie cardiovasculaire",
+          "lignes directrices",
+          "dépistage"
+        ]
       }
     },
     {
@@ -606,6 +902,18 @@
         "year": "2026",
         "doi": "10.7326/ANNALS-25-00469",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41248499/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Le coaching, pas la pleine conscience, atténue l'épuisement des médecins",
+        "body": "Une méta-analyse de 99 essais randomisés d'interventions individuelles contre l'épuisement professionnel a trouvé que le coaching professionnel réduit probablement la dépersonnalisation et l'épuisement émotionnel chez les médecins. La pleine conscience n'a pas montré de bénéfice clair chez les médecins, mais pourrait réduire l'épuisement chez les infirmières et les sages-femmes. Les programmes efficaces duraient habituellement plus de 4 semaines.",
+        "takeaway": "Contre l'épuisement des médecins, un coaching professionnel soutenu a les meilleures données.",
+        "tags": [
+          "épuisement professionnel",
+          "coaching",
+          "pleine conscience",
+          "médecins"
+        ]
       }
     },
     {
@@ -630,6 +938,18 @@
         "year": "2025",
         "doi": "10.7326/ANNALS-24-03520",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41183344/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La TCC et la TIP traitent toutes deux la dépression périnatale",
+        "body": "Une méta-analyse de 44 essais randomisés a trouvé que la thérapie cognitivo-comportementale et la thérapie interpersonnelle réduisent probablement les symptômes dépressifs pendant la grossesse et jusqu'à un an après l'accouchement par rapport aux soins usuels, et l'activation comportementale pourrait aussi aider. Les gains moyens étaient modestes, moins de 2 points sur l'échelle de dépression postnatale d'Édimbourg, notée sur 30.",
+        "takeaway": "Dépression périnatale : TCC, TIP ou activation comportementale sont des options fondées sur les données.",
+        "tags": [
+          "dépression périnatale",
+          "tcc",
+          "thérapie interpersonnelle",
+          "post-partum"
+        ]
       }
     },
     {
@@ -654,6 +974,18 @@
         "year": "2026",
         "doi": "10.1001/jama.2026.5663",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42126852/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Un soutien parental a freiné l'épuisement post-partum des résidentes",
+        "body": "Dans un essai randomisé auprès de 156 résidentes et fellows enceintes, un ensemble de soutien (bassinet intelligent, tire-lait portable, soutien périnatal virtuel et mentorat par un membre du corps professoral) a limité la hausse de l'épuisement jusqu'à 24 semaines post-partum. Les scores ont beaucoup moins augmenté qu'avec le soutien habituel, surtout grâce à un moindre désengagement interpersonnel; l'épuisement émotionnel ne différait pas.",
+        "takeaway": "Un soutien concret au travail réduit l'épuisement des résidentes qui ont un enfant.",
+        "tags": [
+          "épuisement professionnel",
+          "résidents",
+          "post-partum",
+          "soutien en milieu de travail"
+        ]
       }
     },
     {
@@ -678,6 +1010,18 @@
         "year": "2025",
         "doi": "10.1159/000546221",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40334656/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "TCC en ligne : un gain seulement dans le trouble de l'adaptation",
+        "body": "Dans un essai auprès de 300 adultes avec un trouble de l'adaptation ou un trouble d'épuisement, 12 semaines de TCC en ligne soutenue par un thérapeute n'étaient pas supérieures dans l'ensemble à un programme actif de promotion de la santé; les deux ont produit de grandes améliorations du stress perçu qui ont duré un an. La TCC a toutefois surpassé le témoin dans le sous-groupe avec trouble de l'adaptation, mais pas dans le trouble d'épuisement.",
+        "takeaway": "Le stress s'améliore avec du soutien; la TCC ajoute surtout dans le trouble de l'adaptation.",
+        "tags": [
+          "trouble de l'adaptation",
+          "trouble d'épuisement",
+          "tcc",
+          "stress"
+        ]
       }
     },
     {
@@ -702,6 +1046,18 @@
         "year": "2026",
         "doi": "10.1038/s41591-026-04541-0",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42562964/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Une séance de psilocybine a réduit la dépression résistante",
+        "body": "Dans un essai de faisabilité du NHS auprès de 60 personnes avec une dépression résistante au traitement, une seule séance de psilocybine avec soutien psychologique a réduit le score MADRS d'environ 10 points de plus que le placebo à la semaine 3, et l'écart persistait à la semaine 6. Les effets indésirables non graves étaient plus fréquents avec la psilocybine. L'essai était petit et visait à planifier une étude de confirmation plus grande.",
+        "takeaway": "La psilocybine dans la dépression résistante est prometteuse, mais pas encore confirmée.",
+        "tags": [
+          "psilocybine",
+          "dépression résistante",
+          "madrs",
+          "psychédéliques"
+        ]
       }
     },
     {
@@ -726,6 +1082,18 @@
         "year": "2025",
         "doi": "10.1001/jamanetworkopen.2025.24119",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40736734/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Les témoins s'améliorent moins dans les essais sur la psilocybine",
+        "body": "Une méta-analyse de 17 essais a montré que les groupes témoins des essais sur la psilocybine s'amélioraient beaucoup moins que ceux des essais sur les ISRS ou l'eskétamine, alors que l'amélioration sous traitement actif était semblable dans les trois. Comme les effets de la psilocybine sont difficiles à masquer, les patients peuvent deviner leur groupe, ce qui pourrait la faire paraître plus efficace qu'elle ne l'est face aux ISRS et à l'eskétamine.",
+        "takeaway": "Un grand écart médicament-témoin peut refléter un témoin faible, pas seulement un médicament puissant.",
+        "tags": [
+          "psilocybine",
+          "placebo",
+          "insu",
+          "devis d'essai"
+        ]
       }
     },
     {
@@ -750,6 +1118,18 @@
         "year": "2024",
         "doi": "10.1136/bmj-2023-078084",
         "url": "https://pubmed.ncbi.nlm.nih.gov/38692686/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Psilocybine : effets plus grands en autoévaluation et après usage",
+        "body": "Une méta-analyse du BMJ portant sur des essais randomisés a trouvé un bénéfice modéré de la psilocybine par rapport aux comparateurs dans la dépression (g de Hedges 0,66). Les effets étaient plus grands dans la dépression secondaire, avec les échelles autoévaluées et chez les participants ayant déjà pris des psychédéliques. Les auteurs demandent d'étudier comment les attentes influencent ces résultats.",
+        "takeaway": "Bénéfice plus grand en autoévaluation et chez ceux ayant déjà pris des psychédéliques.",
+        "tags": [
+          "psilocybine",
+          "méta-analyse",
+          "attentes",
+          "dépression"
+        ]
       }
     },
     {
@@ -774,6 +1154,18 @@
         "year": "2026",
         "doi": "10.1001/jamainternmed.2025.8215",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41801216/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Environ 3 consommateurs de cannabis sur 10 ont un trouble d'usage",
+        "body": "Parmi les personnes ayant consommé du cannabis dans la dernière année, environ 3 sur 10 répondent aux critères d'un trouble lié à l'usage du cannabis, et environ la moitié d'entre elles ont une forme modérée ou grave. Les données manquent pour dire que le cannabis à prédominance de THC aide la dépression, l'anxiété, le TSPT ou le TDAH, alors qu'il peut aggraver la manie dans le trouble bipolaire et les symptômes psychotiques dans les troubles psychotiques.",
+        "takeaway": "Parlez de cannabis avec vos patients en psychiatrie; pour certains, c'est un risque modifiable.",
+        "tags": [
+          "cannabis",
+          "usage de substances",
+          "trouble bipolaire",
+          "psychose"
+        ]
       }
     },
     {
@@ -798,6 +1190,18 @@
         "year": "2026",
         "doi": "10.1001/jamainternmed.2025.8215",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41801216/"
+      },
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "THC chez les jeunes : risque de psychose multiplié par 2 à 11",
+        "body": "L'usage régulier de produits riches en THC par les adolescents et les jeunes adultes est associé à une hausse d'environ 2 à 11 fois du risque de psychose, ainsi qu'à un risque accru de trouble lié à l'usage du cannabis et d'automutilation chez les personnes ayant un trouble de l'humeur. Les jeunes, les personnes enceintes et celles ayant un trouble bipolaire ou psychotique devraient éviter le cannabis.",
+        "takeaway": "Conseillez aux jeunes d'éviter le cannabis riche en THC; il est lié à la psychose.",
+        "tags": [
+          "cannabis",
+          "psychose",
+          "adolescents",
+          "thc"
+        ]
       }
     },
     {
@@ -822,6 +1226,18 @@
         "year": "2025",
         "doi": "10.1161/CIRCULATIONAHA.125.076575",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40884036/"
+      },
+      "fr": {
+        "specialty": "Cardiologie",
+        "title": "Les iSGLT2 débutés à l'hôpital réduisent probablement l'IC précoce",
+        "body": "Dans DAPA ACT HF-TIMI 68, débuter la dapagliflozine pendant une hospitalisation pour insuffisance cardiaque n'a pas réduit significativement le décès cardiovasculaire ou l'aggravation de l'insuffisance cardiaque à 2 mois. Mais une méta-analyse de tous les essais d'inhibiteurs du SGLT2 débutés à l'hôpital a montré un risque précoce plus faible de décès cardiovasculaire ou d'aggravation de l'IC, et de décès toutes causes.",
+        "takeaway": "Un essai neutre ne renverse pas les données regroupées en faveur des iSGLT2 débutés à l'hôpital.",
+        "tags": [
+          "insuffisance cardiaque",
+          "inhibiteurs du sglt2",
+          "dapagliflozine",
+          "hospitalisation"
+        ]
       }
     },
     {
@@ -846,6 +1262,18 @@
         "year": "2025",
         "doi": "10.1056/NEJMoa2506765",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41337735/"
+      },
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "Une dose de vaccin contre le VPH protège autant que deux",
+        "body": "Dans un essai randomisé auprès de plus de 20 000 filles de 12 à 16 ans, une dose du vaccin bivalent ou nonavalent contre le VPH n'était pas inférieure à deux doses pour prévenir l'infection persistante par le VPH16 ou le VPH18 sur environ 5 ans. L'efficacité vaccinale était d'au moins 97 % dans chaque groupe, sans enjeu d'innocuité. Les calendriers à dose unique pourraient élargir la couverture mondiale.",
+        "takeaway": "Une seule dose de vaccin contre le VPH prévient l'infection par le VPH16/18 aussi bien que deux.",
+        "tags": [
+          "vph",
+          "vaccination",
+          "cancer du col de l'utérus",
+          "prévention"
+        ]
       }
     },
     {
@@ -870,6 +1298,18 @@
         "year": "2026",
         "doi": "10.1016/S1473-3099(25)00364-0",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40840485/"
+      },
+      "fr": {
+        "specialty": "Neurologie",
+        "title": "La méningite tuberculeuse tue ou handicape la moitié des patients",
+        "body": "La méningite tuberculeuse est la forme la plus grave de la tuberculose et cause la mort ou une incapacité chez environ la moitié des personnes atteintes. Une nouvelle ligne directrice internationale, fondée sur une revue systématique avec la méthode GRADE, couvre le diagnostic, le traitement antituberculeux, le traitement anti-inflammatoire d'appoint et les soins neurocritiques et neurochirurgicaux, et souligne d'importantes lacunes dans les données.",
+        "takeaway": "C'est la forme la plus mortelle de la TB; soupçonnez-la tôt devant une méningite subaiguë.",
+        "tags": [
+          "tuberculose",
+          "méningite",
+          "ligne directrice",
+          "infection du snc"
+        ]
       }
     },
     {
@@ -894,6 +1334,18 @@
         "year": "2026",
         "doi": "10.1016/S0140-6736(26)00967-0",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42250575/"
+      },
+      "fr": {
+        "specialty": "Endocrinologie",
+        "title": "Un triple agoniste a réduit le poids de 15 % dans le diabète de type 2",
+        "body": "Le rétatrutide active les récepteurs du GIP, du GLP-1 et du glucagon. Dans un essai de phase 3 de 40 semaines auprès de 537 adultes avec un diabète de type 2 traités par alimentation et exercice seulement, il a abaissé l'HbA1c d'environ 1 point de pourcentage de plus que le placebo et réduit le poids jusqu'à 15,3 %, contre 2,6 % sous placebo. Les effets indésirables étaient surtout digestifs, sans hypoglycémie grave.",
+        "takeaway": "Le rétatrutide ajoute l'agonisme du glucagon aux effets incrétines pour une perte de poids importante.",
+        "tags": [
+          "rétatrutide",
+          "diabète de type 2",
+          "glp-1",
+          "obésité"
+        ]
       }
     },
     {
@@ -918,6 +1370,18 @@
         "year": "2026",
         "doi": "10.1001/jama.2025.20034",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41499132/"
+      },
+      "fr": {
+        "specialty": "Gastroentérologie",
+        "title": "H. pylori est lié à 90 % des cancers gastriques distaux",
+        "body": "À l'échelle mondiale, l'infection à Helicobacter pylori est associée à 90 % des cancers du corps et de l'antre gastriques, qui représentent 85 % des cancers gastriques. C'est un facteur de risque traitable, avec le tabagisme, l'alcool, l'obésité et l'apport en sel. Plus de 90 % des cancers gastriques sont des adénocarcinomes, et le diagnostic se fait par biopsie endoscopique.",
+        "takeaway": "Traiter H. pylori vise la principale cause modifiable du cancer gastrique distal.",
+        "tags": [
+          "cancer gastrique",
+          "helicobacter pylori",
+          "adénocarcinome",
+          "facteurs de risque"
+        ]
       }
     },
     {
@@ -942,6 +1406,18 @@
         "year": "2026",
         "doi": "10.1001/jama.2025.20034",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41499132/"
+      },
+      "fr": {
+        "specialty": "Gastroentérologie",
+        "title": "La plupart des cancers gastriques sont trouvés tard, après les symptômes",
+        "body": "Aux États-Unis, plus de 90 % des personnes atteintes d'un cancer gastrique consultent pour des symptômes comme une perte de poids et des douleurs abdominales, et seulement environ 13 % ont une maladie limitée à l'estomac. Le cancer localisé traité par résection a une survie relative à 5 ans de 75 %, alors que moins de 10 % des patients au stade métastatique survivent 5 ans.",
+        "takeaway": "Perte de poids et douleur abdominale : endoscopie; le stade dicte la survie au cancer gastrique.",
+        "tags": [
+          "cancer gastrique",
+          "stadification",
+          "survie",
+          "endoscopie"
+        ]
       }
     },
     {
@@ -966,6 +1442,18 @@
         "year": "2026",
         "doi": "10.1056/NEJMoa2514663",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41363801/"
+      },
+      "fr": {
+        "specialty": "Hématologie et oncologie",
+        "title": "Ajouter le téclistamab au daratumumab a presque triplé la SSP à 3 ans",
+        "body": "Le téclistamab est un anticorps bispécifique qui relie le CD3 des lymphocytes T au BCMA des cellules de myélome. Dans un essai de phase 3 dans le myélome récidivant ou réfractaire après 1 à 3 lignes antérieures, l'ajouter au daratumumab a donné une survie sans progression de 83,4 % à 36 mois, contre 29,7 % avec les trithérapies standards au daratumumab. Les événements indésirables graves étaient un peu plus fréquents.",
+        "takeaway": "Les bispécifiques BCMA × CD3 arrivent plus tôt dans le traitement du myélome récidivant.",
+        "tags": [
+          "myélome multiple",
+          "anticorps bispécifique",
+          "bcma",
+          "daratumumab"
+        ]
       }
     },
     {
@@ -990,6 +1478,18 @@
         "year": "2025",
         "doi": "10.1001/jama.2025.17362",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41100079/"
+      },
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "Les patientes enceintes sont dépistées trois fois pour la syphilis",
+        "body": "Le dépistage est recommandé à la première visite prénatale, au troisième trimestre et à l'accouchement. L'enjeu est grand : jusqu'à 40 % des fœtus exposés in utero sont mort-nés ou meurent de l'infection dans la petite enfance, et les cas de syphilis congénitale aux États-Unis ont augmenté de 106 % entre 2019 et 2023.",
+        "takeaway": "Première visite, troisième trimestre, accouchement : trois dépistages de la syphilis.",
+        "tags": [
+          "syphilis",
+          "grossesse",
+          "dépistage",
+          "infection congénitale"
+        ]
       }
     },
     {
@@ -1013,6 +1513,17 @@
         "year": "2025",
         "doi": "10.1001/jama.2025.17362",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41100079/"
+      },
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "La neurosyphilis peut survenir à tout stade de la syphilis",
+        "body": "La neurosyphilis n'est pas seulement une complication tardive. Elle peut apparaître à tout stade et se présenter comme une méningite, une uvéite, une perte auditive ou un AVC; de nouveaux symptômes oculaires, auditifs ou neurologiques chez un patient atteint de syphilis doivent donc faire chercher une atteinte du système nerveux.",
+        "takeaway": "Syphilis et symptômes oculaires, auditifs ou neurologiques : pensez neurosyphilis.",
+        "tags": [
+          "syphilis",
+          "neurosyphilis",
+          "uvéite"
+        ]
       }
     },
     {
@@ -1045,8 +1556,28 @@
         "year": "2025",
         "doi": "10.1136/bcr-2025-267799",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41475872/"
+      },
+      "fr": {
+        "specialty": "Infectiologie",
+        "clues": [
+          "Un homme à la fin de la vingtaine consulte pour une perte d'appétit.",
+          "Il n'a pas d'éruption typique. Une anamnèse sexuelle complète n'a pas été faite lors des premières évaluations.",
+          "L'examen trouve des adénopathies bilatérales indolores et une hépatosplénomégalie.",
+          "Les premiers tests font craindre un syndrome lymphoprolifératif; la biopsie ganglionnaire montre une lymphadénopathie dermatopathique.",
+          "Une anamnèse sexuelle détaillée mène enfin à une sérologie, réactive pour Treponema pallidum."
+        ],
+        "answer": "Syphilis secondaire",
+        "accepted_answers": [
+          "syphilis secondaire",
+          "syphilis",
+          "lymphadénite syphilitique",
+          "adénite syphilitique",
+          "infection à treponema pallidum"
+        ],
+        "explanation": "Des adénopathies bilatérales indolores avec hépatosplénomégalie chez un jeune adulte évoquent d'abord un lymphome, et c'est là qu'est allé le bilan. Mais les changements dermatopathiques à la biopsie ne sont pas spécifiques, et la syphilis secondaire peut imiter un syndrome lymphoprolifératif même sans son éruption typique. L'anamnèse sexuelle était la pièce manquante; la syphilis a été confirmée et le traitement par pénicilline benzathine a résolu les adénopathies.",
+        "teaching_point": "Devant des adénopathies inexpliquées, faites une anamnèse sexuelle complète tôt, en parallèle du bilan de lymphome."
       }
     }
   ],
-  "updated": "2026-10-10T12:38:55+00:00"
+  "updated": "2026-10-10T13:02:32+00:00"
 }
