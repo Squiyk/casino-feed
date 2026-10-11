@@ -2,6 +2,775 @@
   "version": 1,
   "items": [
     {
+      "id": "2c860909-480b-4e89-b21e-04d9c03feabb",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Teen opioid deaths are rising, yet few get buprenorphine",
+      "body": "Fentanyl has driven a rise in opioid morbidity and mortality among US adolescents from 2018 through 2023. Naloxone reverses overdose and buprenorphine treats opioid use disorder; both are safe and highly effective, and US access rules have eased. Yet adolescents still have low access to either.",
+      "takeaway": "Teens who use opioids need naloxone on hand and access to buprenorphine.",
+      "tags": [
+        "opioid use disorder",
+        "adolescents",
+        "buprenorphine",
+        "naloxone"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Plus de décès par opioïdes chez les ados, mais peu de buprénorphine",
+        "body": "Le fentanyl a entraîné une hausse de la morbidité et de la mortalité liées aux opioïdes chez les adolescents américains de 2018 à 2023. La naloxone renverse la surdose et la buprénorphine traite le trouble lié à l'utilisation d'opioïdes; les deux sont sûres et très efficaces, et l'accès a été assoupli aux États-Unis. Pourtant, les adolescents y ont encore peu accès.",
+        "takeaway": "Un ado qui consomme des opioïdes doit avoir de la naloxone et accès à la buprénorphine.",
+        "tags": [
+          "trouble lié aux opioïdes",
+          "adolescents",
+          "buprénorphine",
+          "naloxone"
+        ]
+      },
+      "source": {
+        "pmid": "41661628",
+        "title": "Naloxone and Buprenorphine Treatment for Adolescent Opioid Overdose and Opioid Use Disorder: A Review.",
+        "journal": "JAMA pediatrics",
+        "year": "2026",
+        "doi": "10.1001/jamapediatrics.2025.6113",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41661628/"
+      }
+    },
+    {
+      "id": "b490ccc0-a505-4eab-913a-c6fcffe359d7",
+      "kind": "flashcard",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "front": "How does buprenorphine work in opioid use disorder?",
+      "back": "It is a high-affinity partial agonist at the mu-opioid receptor: it relieves withdrawal and craving, blocks the effect of other opioids, and has a ceiling effect on respiratory depression. Started too soon after a full agonist, it displaces it and can precipitate withdrawal.",
+      "tags": [
+        "buprenorphine",
+        "pharmacology",
+        "opioid use disorder"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "front": "Comment agit la buprénorphine dans le trouble lié à l'utilisation d'opioïdes?",
+        "back": "C'est un agoniste partiel du récepteur opioïde mu, de forte affinité : elle soulage le sevrage et l'état de manque, bloque l'effet des autres opioïdes et a un effet plafond sur la dépression respiratoire. Commencée trop tôt après un agoniste complet, elle le déplace et peut précipiter un sevrage.",
+        "tags": [
+          "buprénorphine",
+          "pharmacologie",
+          "trouble lié aux opioïdes"
+        ]
+      },
+      "source": {
+        "pmid": "41661628",
+        "title": "Naloxone and Buprenorphine Treatment for Adolescent Opioid Overdose and Opioid Use Disorder: A Review.",
+        "journal": "JAMA pediatrics",
+        "year": "2026",
+        "doi": "10.1001/jamapediatrics.2025.6113",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41661628/"
+      }
+    },
+    {
+      "id": "0299c04a-c4fa-44d6-a83d-f59f6635d137",
+      "kind": "mcq",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "stem": "A man who uses heroin daily takes his first sublingual buprenorphine-naloxone dose 2 hours after his last use. Within an hour he has sweating, yawning, rhinorrhea, abdominal cramps and agitation. What best explains this?",
+      "options": [
+        "Opioid overdose from combined heroin and buprenorphine",
+        "Serotonin syndrome",
+        "Withdrawal precipitated by a partial agonist displacing heroin",
+        "Absorption of the naloxone in the combination tablet",
+        "Acute anxiety reaction to starting treatment"
+      ],
+      "explanation": "Buprenorphine binds the mu receptor with higher affinity than heroin but activates it less, so given while a full agonist is still on board it displaces it and causes abrupt withdrawal. Naloxone, the strongest distractor, is poorly absorbed sublingually and is in the tablet to deter injection. Overdose would cause sedation and miosis, not these signs.",
+      "teaching_point": "Start buprenorphine once withdrawal has begun to avoid precipitated withdrawal.",
+      "answer_index": 2,
+      "fr": {
+        "specialty": "Psychiatrie",
+        "stem": "Un homme qui consomme de l'héroïne tous les jours prend sa première dose sublinguale de buprénorphine-naloxone 2 heures après sa dernière consommation. En moins d'une heure, il présente sudation, bâillements, rhinorrhée, crampes abdominales et agitation. Quelle est la meilleure explication?",
+        "options": [
+          "Surdose d'opioïdes par l'association héroïne-buprénorphine",
+          "Syndrome sérotoninergique",
+          "Sevrage précipité par un agoniste partiel qui déplace l'héroïne",
+          "Absorption de la naloxone du comprimé combiné",
+          "Réaction anxieuse aiguë au début du traitement"
+        ],
+        "explanation": "La buprénorphine se lie au récepteur mu avec une affinité supérieure à celle de l'héroïne, mais l'active moins : donnée alors qu'un agoniste complet est encore présent, elle le déplace et provoque un sevrage brutal. La naloxone, le meilleur distracteur, est mal absorbée par voie sublinguale et sert à dissuader l'injection. Une surdose causerait sédation et myosis, pas ces signes.",
+        "teaching_point": "Commencez la buprénorphine une fois le sevrage amorcé pour éviter un sevrage précipité."
+      },
+      "source": {
+        "pmid": "41661628",
+        "title": "Naloxone and Buprenorphine Treatment for Adolescent Opioid Overdose and Opioid Use Disorder: A Review.",
+        "journal": "JAMA pediatrics",
+        "year": "2026",
+        "doi": "10.1001/jamapediatrics.2025.6113",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41661628/"
+      }
+    },
+    {
+      "id": "b3912ecc-91b2-4b9e-bb34-c4b9624e8d13",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Safety planning alone didn't reduce teen suicide outcomes",
+      "body": "A meta-analysis of 5 studies (619 adolescents) found no significant association between standalone safety planning and suicidal ideation, suicide-related behavior, attempts or re-presentation to care. Most studies had moderate to high risk of bias, and the authors call for well-powered trials of this common intervention.",
+      "takeaway": "Evidence doesn't yet support safety planning as a standalone treatment for suicidal teens.",
+      "tags": [
+        "suicide prevention",
+        "adolescents",
+        "safety planning"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Le plan de sécurité seul n'a pas réduit les issues suicidaires des ados",
+        "body": "Une méta-analyse de 5 études (619 adolescents) n'a trouvé aucune association significative entre le plan de sécurité utilisé seul et les idées suicidaires, les comportements suicidaires, les tentatives ou les nouvelles consultations. La plupart des études avaient un risque de biais modéré à élevé, et les auteurs réclament des essais de bonne puissance sur cette intervention courante.",
+        "takeaway": "Les données n'appuient pas encore le plan de sécurité seul chez l'ado suicidaire.",
+        "tags": [
+          "prévention du suicide",
+          "adolescents",
+          "plan de sécurité"
+        ]
+      },
+      "source": {
+        "pmid": "40388177",
+        "title": "Safety Planning Interventions for Suicide Prevention in Children and Adolescents: A Systematic Review and Meta-Analysis.",
+        "journal": "JAMA pediatrics",
+        "year": "2025",
+        "doi": "10.1001/jamapediatrics.2025.1012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40388177/"
+      }
+    },
+    {
+      "id": "e3663852-a107-46f3-92b4-1f829cea288b",
+      "kind": "flashcard",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "front": "What are the steps of the Stanley-Brown suicide safety plan?",
+      "back": "Recognize personal warning signs; use internal coping strategies; turn to people and social settings that provide distraction; contact people who can help; contact professionals and crisis services; make the environment safe by limiting access to lethal means.",
+      "tags": [
+        "suicide prevention",
+        "safety planning",
+        "crisis intervention"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "front": "Quelles sont les étapes du plan de sécurité de Stanley et Brown en prévention du suicide?",
+        "back": "Reconnaître ses signes avant-coureurs; utiliser ses stratégies d'adaptation personnelles; se tourner vers des personnes et des lieux sociaux qui changent les idées; contacter des personnes qui peuvent aider; joindre des professionnels et des services de crise; sécuriser l'environnement en limitant l'accès aux moyens létaux.",
+        "tags": [
+          "prévention du suicide",
+          "plan de sécurité",
+          "intervention de crise"
+        ]
+      },
+      "source": {
+        "pmid": "40388177",
+        "title": "Safety Planning Interventions for Suicide Prevention in Children and Adolescents: A Systematic Review and Meta-Analysis.",
+        "journal": "JAMA pediatrics",
+        "year": "2025",
+        "doi": "10.1001/jamapediatrics.2025.1012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40388177/"
+      }
+    },
+    {
+      "id": "8e3a041c-50c3-4479-9223-cc4ddb044209",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Brief contacts after a suicide attempt cut reattempts",
+      "body": "Only a third of people receive outpatient care after a suicide attempt. A meta-analysis of 36 trials (9552 adults) found that brief interventions and contacts, even a single session, reduced suicide reattempts (OR 0.72, moderate certainty) and may reduce suicidal ideation. Effects on self-harm and linkage to care were uncertain.",
+      "takeaway": "After a suicide attempt, even one brief intervention or contact lowers reattempts.",
+      "tags": [
+        "suicide prevention",
+        "suicide attempt",
+        "brief intervention"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Des contacts brefs après une tentative de suicide réduisent la récidive",
+        "body": "Seul un tiers des personnes reçoit des soins ambulatoires après une tentative de suicide. Une méta-analyse de 36 essais (9552 adultes) montre que les interventions et contacts brefs, même en une seule séance, réduisent les récidives de tentative (RC 0,72, certitude modérée) et pourraient réduire les idées suicidaires. Les effets sur l'automutilation et l'arrimage aux soins restaient incertains.",
+        "takeaway": "Après une tentative de suicide, même une brève intervention ou un contact réduit les récidives.",
+        "tags": [
+          "prévention du suicide",
+          "tentative de suicide",
+          "intervention brève"
+        ]
+      },
+      "source": {
+        "pmid": "41859679",
+        "title": "Effectiveness of brief interventions and contacts after suicide attempt: a systematic review and meta-analysis.",
+        "journal": "EClinicalMedicine",
+        "year": "2026",
+        "doi": "10.1016/j.eclinm.2026.103824",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41859679/"
+      }
+    },
+    {
+      "id": "506b4531-4ca5-470a-8525-7ba214f7cb98",
+      "kind": "mcq",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "stem": "A meta-analysis of randomized trials examined brief interventions and contacts for adults after a suicide attempt. Which outcome showed a significant benefit with moderate-certainty evidence?",
+      "options": [
+        "Fewer repeat episodes of self-harm",
+        "Fewer episodes of non-suicidal self-injury",
+        "Better linkage to mental health services",
+        "Fewer suicide reattempts"
+      ],
+      "explanation": "Brief interventions and contacts reduced suicide reattempts (OR 0.72) with moderate-certainty evidence. Linkage to mental health services, the strongest distractor, showed only a non-significant trend (OR 2.25, CI crossing 1) with very low certainty; self-harm recurrence was also non-significant, and too few trials studied non-suicidal self-injury.",
+      "teaching_point": "Brief follow-up contacts after a suicide attempt are an evidence-based, low-threshold way to prevent reattempts.",
+      "answer_index": 3,
+      "fr": {
+        "specialty": "Psychiatrie",
+        "stem": "Une méta-analyse d'essais randomisés a étudié les interventions et contacts brefs chez l'adulte après une tentative de suicide. Quelle issue montrait un bénéfice significatif avec des données de certitude modérée?",
+        "options": [
+          "Moins de récidives d'automutilation",
+          "Moins d'épisodes d'automutilation non suicidaire",
+          "Meilleur arrimage aux services de santé mentale",
+          "Moins de récidives de tentative de suicide"
+        ],
+        "explanation": "Les interventions et contacts brefs ont réduit les récidives de tentative de suicide (RC 0,72) avec des données de certitude modérée. L'arrimage aux services de santé mentale, le meilleur distracteur, ne montrait qu'une tendance non significative (RC 2,25, IC incluant 1) de très faible certitude; la récidive d'automutilation n'était pas significative non plus, et trop peu d'essais portaient sur l'automutilation non suicidaire.",
+        "teaching_point": "Les contacts de suivi brefs après une tentative de suicide sont un moyen fondé sur les données et accessible de prévenir les récidives."
+      },
+      "source": {
+        "pmid": "41859679",
+        "title": "Effectiveness of brief interventions and contacts after suicide attempt: a systematic review and meta-analysis.",
+        "journal": "EClinicalMedicine",
+        "year": "2026",
+        "doi": "10.1016/j.eclinm.2026.103824",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41859679/"
+      }
+    },
+    {
+      "id": "0bd467da-794b-4aa3-8991-bbea4402f06f",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 3,
+      "title": "Ketamine eases suicidal ideation within a day",
+      "body": "A network meta-analysis of 14 studies (1380 participants with depression, 10 randomized trials) found ketamine significantly reduced suicidal ideation within the first day after treatment. With repeated treatment, improvement after the last dose exceeded that after the first, and benefit over placebo persisted at the end of treatment.",
+      "takeaway": "Ketamine acts on suicidal ideation within a day, unlike conventional antidepressants.",
+      "tags": [
+        "ketamine",
+        "suicidal ideation",
+        "depression"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La kétamine atténue les idées suicidaires en moins d'un jour",
+        "body": "Une méta-analyse en réseau de 14 études, dont 10 essais randomisés (1380 participants déprimés) montre que la kétamine réduit significativement les idées suicidaires dès le premier jour après le traitement. Avec un traitement répété, l'amélioration après la dernière dose dépassait celle après la première, et l'avantage sur le placebo persistait à la fin du traitement.",
+        "takeaway": "La kétamine agit sur les idées suicidaires en moins d'un jour, contrairement aux antidépresseurs classiques.",
+        "tags": [
+          "kétamine",
+          "idées suicidaires",
+          "dépression"
+        ]
+      },
+      "source": {
+        "pmid": "38858391",
+        "title": "A meta-analysis of the effects of ketamine on suicidal ideation in depression patients.",
+        "journal": "Translational psychiatry",
+        "year": "2024",
+        "doi": "10.1038/s41398-024-02973-1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38858391/"
+      }
+    },
+    {
+      "id": "50ad83dd-4292-4d89-a73c-421092459b15",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Adding medication to therapy means fewer heavy drinkers",
+      "body": "A Cochrane review of 21 trials (4746 adults with alcohol use disorder) found that combining medication, mostly naltrexone, with psychosocial treatment, mostly CBT, probably reduces the number of heavy drinkers versus psychosocial treatment alone (RR 0.86) and may increase continuous abstinence. The authors consider the combination safe.",
+      "takeaway": "In alcohol use disorder, offer medication alongside psychosocial treatment.",
+      "tags": [
+        "alcohol use disorder",
+        "naltrexone",
+        "psychotherapy"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "Médicament ajouté à la thérapie : moins de buveurs excessifs",
+        "body": "Une revue Cochrane de 21 essais (4746 adultes avec un trouble lié à l'utilisation d'alcool [TUA]) montre qu'associer un médicament, surtout la naltrexone, à une intervention psychosociale, surtout la TCC, réduit probablement le nombre de buveurs excessifs par rapport à l'intervention psychosociale seule (RR 0,86) et pourrait augmenter l'abstinence continue. Les auteurs jugent l'association sûre.",
+        "takeaway": "TUA : offrez un médicament en plus de l'intervention psychosociale.",
+        "tags": [
+          "trouble lié à l'alcool",
+          "naltrexone",
+          "psychothérapie"
+        ]
+      },
+      "source": {
+        "pmid": "40110869",
+        "title": "Combined pharmacological and psychosocial interventions for alcohol use disorder.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2025",
+        "doi": "10.1002/14651858.CD015673.pub2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40110869/"
+      }
+    },
+    {
+      "id": "0b71c11e-3f43-45fb-a66c-d9f71b79cba8",
+      "kind": "mcq",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "stem": "A 45-year-old man with alcohol use disorder takes oxycodone daily for chronic back pain. He wants a medication to help him cut down on drinking. Which drug is contraindicated?",
+      "options": [
+        "Naltrexone",
+        "Acamprosate",
+        "Disulfiram",
+        "Topiramate"
+      ],
+      "explanation": "Naltrexone is a mu-opioid receptor antagonist: it would block his oxycodone analgesia and can precipitate opioid withdrawal, so it is contraindicated with ongoing opioid use. Acamprosate, the strongest alternative, acts on glutamate signalling, has no opioid interaction and is a reasonable choice if kidney function allows.",
+      "teaching_point": "Check for opioid use before prescribing naltrexone for alcohol use disorder.",
+      "answer_index": 0,
+      "fr": {
+        "specialty": "Psychiatrie",
+        "stem": "Un homme de 45 ans avec un trouble lié à l'utilisation d'alcool prend de l'oxycodone tous les jours pour une lombalgie chronique. Il souhaite un médicament pour l'aider à réduire sa consommation. Quel médicament est contre-indiqué?",
+        "options": [
+          "Naltrexone",
+          "Acamprosate",
+          "Disulfirame",
+          "Topiramate"
+        ],
+        "explanation": "La naltrexone est un antagoniste des récepteurs opioïdes mu : elle bloquerait l'analgésie de l'oxycodone et peut précipiter un sevrage aux opioïdes, d'où sa contre-indication en cas d'usage continu d'opioïdes. L'acamprosate, la meilleure option parmi les autres, agit sur la signalisation glutamatergique, n'interagit pas avec les opioïdes et convient si la fonction rénale le permet.",
+        "teaching_point": "Vérifiez la prise d'opioïdes avant de prescrire la naltrexone pour un trouble lié à l'alcool."
+      },
+      "source": {
+        "pmid": "40110869",
+        "title": "Combined pharmacological and psychosocial interventions for alcohol use disorder.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2025",
+        "doi": "10.1002/14651858.CD015673.pub2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40110869/"
+      }
+    },
+    {
+      "id": "789e00a0-187f-45af-a2e3-cd57593196f6",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Placebo halves drinking in AUD trials, but drugs do more",
+      "body": "A meta-analysis of 79 trials (11,737 participants) found that placebo halved, or cut to a third, baseline drinks per drinking day, drinking days and heavy drinking days. Approved and recommended AUD medications reduced these further, with moderate to high certainty, at the cost of more adverse events.",
+      "takeaway": "Despite large placebo effects, AUD medications do reduce drinking.",
+      "tags": [
+        "alcohol use disorder",
+        "pharmacotherapy",
+        "placebo"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "TUA : le placebo réduit la consommation de moitié, les médicaments plus",
+        "body": "Une méta-analyse de 79 essais (11 737 participants) montre que le placebo réduisait de moitié, ou au tiers, le nombre de consommations par jour de consommation, les jours de consommation et les jours de forte consommation. Les médicaments approuvés et recommandés pour le trouble lié à l'utilisation d'alcool (TUA) les réduisaient davantage (certitude modérée à élevée), au prix de plus d'effets indésirables.",
+        "takeaway": "Malgré un fort effet placebo, les médicaments du TUA réduisent bel et bien la consommation.",
+        "tags": [
+          "trouble lié à l'alcool",
+          "pharmacothérapie",
+          "placebo"
+        ]
+      },
+      "source": {
+        "pmid": "39396764",
+        "title": "Efficacy of medications for the treatment of alcohol use disorder (AUD): A systematic review and meta-analysis considering baseline AUD severity.",
+        "journal": "Pharmacological research",
+        "year": "2024",
+        "doi": "10.1016/j.phrs.2024.107454",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39396764/"
+      }
+    },
+    {
+      "id": "333439e4-e06a-47ca-add4-37dda7523229",
+      "kind": "flashcard",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "front": "How do naltrexone, acamprosate and disulfiram work in alcohol use disorder?",
+      "back": "Naltrexone: mu-opioid receptor antagonist that blunts the reward from alcohol; acamprosate: modulates glutamate (NMDA) neurotransmission to reduce craving during abstinence; disulfiram: inhibits aldehyde dehydrogenase, so acetaldehyde builds up after drinking and causes flushing, nausea and palpitations.",
+      "tags": [
+        "alcohol use disorder",
+        "pharmacology",
+        "mechanism of action"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "front": "Comment agissent la naltrexone, l'acamprosate et le disulfirame dans le trouble lié à l'utilisation d'alcool?",
+        "back": "Naltrexone : antagoniste des récepteurs opioïdes mu qui atténue la récompense liée à l'alcool; acamprosate : module la neurotransmission glutamatergique (NMDA) pour réduire l'envie de boire pendant l'abstinence; disulfirame : inhibe l'aldéhyde déshydrogénase, si bien que l'acétaldéhyde s'accumule après la consommation et cause bouffées vasomotrices, nausées et palpitations.",
+        "tags": [
+          "trouble lié à l'alcool",
+          "pharmacologie",
+          "mécanisme d'action"
+        ]
+      },
+      "source": {
+        "pmid": "39396764",
+        "title": "Efficacy of medications for the treatment of alcohol use disorder (AUD): A systematic review and meta-analysis considering baseline AUD severity.",
+        "journal": "Pharmacological research",
+        "year": "2024",
+        "doi": "10.1016/j.phrs.2024.107454",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39396764/"
+      }
+    },
+    {
+      "id": "d584cc9e-fdc2-4a13-a02b-ca32ae116022",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Mindfulness therapy reduced self-injury in depressed teens",
+      "body": "Non-suicidal self-injury in adolescents with depression predicts later suicidal behavior. In a randomized trial of 94 hospitalized adolescents, adding mindfulness-based cognitive therapy to usual care reduced self-injury severity at 4 weeks, with the effect maintained at 1-month follow-up, and improved depressive symptoms and emotion regulation.",
+      "takeaway": "Self-injury without suicidal intent is still a warning sign for future suicidal behavior.",
+      "tags": [
+        "self-harm",
+        "adolescents",
+        "mindfulness"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La pleine conscience réduit l'automutilation chez l'ado déprimé",
+        "body": "L'automutilation non suicidaire chez l'adolescent déprimé prédit des comportements suicidaires ultérieurs. Dans un essai randomisé de 94 adolescents hospitalisés, ajouter la thérapie cognitive basée sur la pleine conscience aux soins usuels a réduit la sévérité de l'automutilation à 4 semaines, avec un effet maintenu au suivi d'un mois, et amélioré les symptômes dépressifs et la régulation émotionnelle.",
+        "takeaway": "L'automutilation sans intention suicidaire reste un signal d'alarme de comportements suicidaires futurs.",
+        "tags": [
+          "automutilation",
+          "adolescents",
+          "pleine conscience"
+        ]
+      },
+      "source": {
+        "pmid": "42533822",
+        "title": "The effect of mindfulness-based cognitive therapy on non-suicidal self-injury in hospitalized adolescents with depressive disorders: a randomized controlled trial.",
+        "journal": "Psychological medicine",
+        "year": "2026",
+        "doi": "10.1017/S0033291726104735",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533822/"
+      }
+    },
+    {
+      "id": "108071f8-dc5c-4355-b77c-e092c2a6e282",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Fear often blocks tapering off opioid agonist treatment",
+      "body": "Only a minority of patients on opioid agonist treatment attempt to taper to zero, and few complete it. A mixed-methods review of 41 studies found that fear, emotional resurgence, low confidence, unstable environments and too little support hinder tapering; readiness, life stability, supportive relationships, psychological support, inpatient settings and adjunctive medications help.",
+      "takeaway": "Tapering off opioid agonist treatment goes better with stability, readiness and support.",
+      "tags": [
+        "opioid use disorder",
+        "methadone",
+        "tapering"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La peur freine l'arrêt progressif du traitement par agonistes opioïdes",
+        "body": "Seule une minorité des patients sous traitement par agonistes opioïdes (TAO) tente une diminution jusqu'à l'arrêt, et peu la terminent. Une revue à méthodes mixtes de 41 études montre que la peur, la résurgence émotionnelle, le manque de confiance, un milieu instable et un soutien insuffisant y nuisent; la préparation, la stabilité, des relations soutenantes, le soutien psychologique, l'hospitalisation et des médicaments d'appoint aident.",
+        "takeaway": "L'arrêt progressif du TAO réussit mieux avec stabilité, préparation et soutien.",
+        "tags": [
+          "trouble lié aux opioïdes",
+          "méthadone",
+          "sevrage"
+        ]
+      },
+      "source": {
+        "pmid": "42309510",
+        "title": "Barriers and facilitators to detoxification from opioid substitution treatment: A mixed-methods systematic review.",
+        "journal": "Addiction (Abingdon, England)",
+        "year": "2026",
+        "doi": "10.1111/add.70482",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42309510/"
+      }
+    },
+    {
+      "id": "ec5bf5f7-83e1-495e-b77e-5fe1a37e4e68",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "title": "The gender gap in alcohol use disorder is closing",
+      "body": "Over the past 20 years in the US, alcohol use and alcohol use disorder have risen among women, narrowing the historical gap with men. Alcohol-associated liver disease prevalence, severity and mortality have also risen significantly in women. Sex and gender shape both disorders and their treatment.",
+      "takeaway": "Alcohol use disorder and alcohol-related liver disease increasingly affect women.",
+      "tags": [
+        "alcohol use disorder",
+        "women",
+        "liver disease"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "L'écart entre hommes et femmes dans le TUA se referme",
+        "body": "Depuis 20 ans aux États-Unis, la consommation d'alcool et le trouble lié à l'utilisation d'alcool ont augmenté chez les femmes, réduisant l'écart historique avec les hommes. La prévalence, la gravité et la mortalité de la maladie hépatique liée à l'alcool ont aussi nettement augmenté chez elles. Le sexe et le genre influencent les deux troubles et leur traitement.",
+        "takeaway": "Le TUA et la maladie hépatique liée à l'alcool touchent de plus en plus les femmes.",
+        "tags": [
+          "trouble lié à l'alcool",
+          "femmes",
+          "maladie hépatique"
+        ]
+      },
+      "source": {
+        "pmid": "38683562",
+        "title": "Sex and gender in alcohol use disorder and alcohol-associated liver disease in the United States: A narrative review.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "year": "2026",
+        "doi": "10.1097/HEP.0000000000000905",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38683562/"
+      }
+    },
+    {
+      "id": "92910153-5f3f-41a0-90c9-e17f309aa8e4",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Nephrology",
+      "difficulty": 3,
+      "title": "Baclofen overdose: supportive care, not routine dialysis",
+      "body": "Baclofen, a GABA-B agonist, is cleared mainly by the kidneys, so toxicity is more likely and longer with renal impairment. Overdose can cause coma and respiratory failure. With preserved kidney function, EXTRIP recommends against routine hemodialysis; in a reported case, a patient dialysed despite normal kidney function recovered over 72 hours, which the authors attribute to spontaneous clearance.",
+      "takeaway": "Baclofen overdose: support breathing; dialysis isn't routine if the kidneys work.",
+      "tags": [
+        "toxicology",
+        "baclofen",
+        "hemodialysis"
+      ],
+      "fr": {
+        "specialty": "Néphrologie",
+        "title": "Surdose de baclofène : soins de soutien, pas de dialyse systématique",
+        "body": "Le baclofène, agoniste GABA-B, est éliminé surtout par les reins : la toxicité est plus probable et plus longue en cas d'insuffisance rénale. La surdose peut causer un coma et une insuffisance respiratoire. Si la fonction rénale est préservée, EXTRIP déconseille l'hémodialyse systématique; dans un cas rapporté, une personne dialysée malgré une fonction rénale normale a récupéré graduellement sur 72 heures, ce que les auteurs attribuent à l'élimination spontanée.",
+        "takeaway": "Surdose de baclofène : soutenez la respiration; la dialyse n'est pas systématique si les reins fonctionnent.",
+        "tags": [
+          "toxicologie",
+          "baclofène",
+          "hémodialyse"
+        ]
+      },
+      "source": {
+        "pmid": "41964010",
+        "title": "Severe baclofen intoxication managed with hemodialysis: a case report and review of the literature.",
+        "journal": "Journal of medical case reports",
+        "year": "2026",
+        "doi": "10.1186/s13256-026-06001-2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964010/"
+      }
+    },
+    {
+      "id": "51370b41-58c2-4958-b78f-6eb31b2fedf6",
+      "kind": "case",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Neurology",
+      "difficulty": 2,
+      "clues": [
+        "A woman in her 40s has had double vision and blurred vision for 3 days.",
+        "For 2 months she has had daily vomiting, diarrhea and poor oral intake.",
+        "She has bilateral abduction palsies and dysmetria on finger-to-nose testing; a day later, up- and downgaze are also restricted.",
+        "Fundoscopy shows severe bilateral optic disc edema with hemorrhages. MRI shows FLAIR hyperintensity in the periaqueductal gray matter.",
+        "Serum thiamine is low, and her eye movements, vision, gait and mentation improve after supplementation."
+      ],
+      "answer": "Wernicke encephalopathy",
+      "accepted_answers": [
+        "wernicke encephalopathy",
+        "wernicke's encephalopathy",
+        "wernicke",
+        "thiamine deficiency"
+      ],
+      "explanation": "Prolonged vomiting and poor intake deplete thiamine. Ophthalmoplegia (abduction palsies progressing to vertical gaze limits) with ataxia points to Wernicke encephalopathy, and periaqueductal FLAIR signal is a classic MRI finding. Low thiamine and response to replacement confirm it. The disc edema reflected a nutritional optic neuropathy, with possible folate deficiency too. Alcohol is not required.",
+      "teaching_point": "Think of Wernicke in any malnourished or vomiting patient with eye-movement problems; give thiamine early.",
+      "fr": {
+        "specialty": "Neurologie",
+        "clues": [
+          "Une femme dans la quarantaine a une vision double et une vision floue depuis 3 jours.",
+          "Depuis 2 mois, elle a des vomissements et de la diarrhée quotidiens et s'alimente peu.",
+          "Elle présente une paralysie bilatérale de l'abduction et une dysmétrie à l'épreuve doigt-nez; le lendemain, le regard vers le haut et vers le bas est aussi limité.",
+          "Le fond d'œil montre un œdème papillaire bilatéral sévère avec hémorragies. L'IRM montre un hypersignal FLAIR de la substance grise périaqueducale.",
+          "La thiamine sérique est basse, et ses mouvements oculaires, sa vision, sa démarche et son état mental s'améliorent après supplémentation."
+        ],
+        "answer": "Encéphalopathie de Wernicke",
+        "accepted_answers": [
+          "encéphalopathie de wernicke",
+          "wernicke",
+          "carence en thiamine",
+          "déficit en thiamine"
+        ],
+        "explanation": "Des vomissements prolongés et un faible apport épuisent les réserves de thiamine. Une ophtalmoplégie (paralysie de l'abduction, puis limitation du regard vertical) avec ataxie évoque une encéphalopathie de Wernicke, et l'hypersignal FLAIR périaqueducal est une image classique à l'IRM. La thiamine basse et la réponse à la supplémentation confirment le diagnostic. L'œdème papillaire traduisait une neuropathie optique nutritionnelle, avec une possible carence en folates. L'alcool n'est pas nécessaire.",
+        "teaching_point": "Pensez à Wernicke chez tout patient dénutri ou qui vomit avec des troubles oculomoteurs; donnez la thiamine tôt."
+      },
+      "source": {
+        "pmid": "42156102",
+        "title": "Wernicke encephalopathy presenting with severe optic neuropathy and oculomotor dysfunction.",
+        "journal": "BMJ case reports",
+        "year": "2026",
+        "doi": "10.1136/bcr-2026-273106",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42156102/"
+      }
+    },
+    {
+      "id": "9117f503-9285-4d28-b365-3c7f51ddf6db",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Cardiology",
+      "difficulty": 3,
+      "title": "Congestion left at discharge raises 6-month mortality",
+      "body": "In 1557 patients with acute heart failure from two trials, 37% still had congestion at day 7 or discharge. Residual intravascular congestion (raised jugular venous pressure) and tissue congestion (rales or edema) were each independently linked to higher 180-day mortality (HR 1.69 and 2.07) versus decongested patients.",
+      "takeaway": "Check JVP, rales and edema before discharge: residual congestion predicts death.",
+      "tags": [
+        "heart failure",
+        "congestion",
+        "prognosis"
+      ],
+      "fr": {
+        "specialty": "Cardiologie",
+        "title": "Une congestion résiduelle au congé augmente la mortalité à 6 mois",
+        "body": "Chez 1557 patients en insuffisance cardiaque aiguë issus de deux essais, 37 % avaient encore une congestion au jour 7 ou au congé. La congestion intravasculaire résiduelle (tension veineuse jugulaire [TVJ] élevée) et la congestion tissulaire (crépitants ou œdème) étaient chacune associées de façon indépendante à une mortalité accrue à 180 jours (RRI 1,69 et 2,07) par rapport aux patients décongestionnés.",
+        "takeaway": "Vérifiez TVJ, crépitants et œdème avant le congé : la congestion résiduelle prédit le décès.",
+        "tags": [
+          "insuffisance cardiaque",
+          "congestion",
+          "pronostic"
+        ]
+      },
+      "source": {
+        "pmid": "41215726",
+        "title": "Clinical profiles and prognostic impact of residual intravascular and tissue congestion in acute heart failure.",
+        "journal": "European journal of heart failure",
+        "year": "2025",
+        "doi": "10.1002/ejhf.70091",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41215726/"
+      }
+    },
+    {
+      "id": "38839f60-698b-40c4-a4de-943dfa83a34e",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Pulmonology",
+      "difficulty": 3,
+      "title": "Oxygen plus a mandibular device beat the device alone in OSA",
+      "body": "Obstructive sleep apnea reflects both a collapsible airway and unstable ventilatory control. In a crossover trial of 41 patients with moderate-to-severe OSA, combining supplemental oxygen with a mandibular advancement device lowered the AHI by 68% versus sham, more than the device alone. Gains were largest with high loop gain and collapsibility.",
+      "takeaway": "OSA has several mechanisms; treating airway and ventilation together may help more.",
+      "tags": [
+        "sleep apnea",
+        "oxygen",
+        "mandibular advancement"
+      ],
+      "fr": {
+        "specialty": "Pneumologie",
+        "title": "AOS : oxygène et orthèse mandibulaire font mieux que l'orthèse seule",
+        "body": "L'apnée obstructive du sommeil découle à la fois d'une voie aérienne collabable et d'un contrôle ventilatoire instable. Dans un essai croisé de 41 patients avec une AOS modérée à sévère, associer l'oxygène d'appoint à une orthèse d'avancement mandibulaire a réduit l'IAH de 68 % par rapport au simulacre, plus que l'orthèse seule. Les gains étaient maximaux en cas de gain de boucle et de collapsibilité élevés.",
+        "takeaway": "L'AOS a plusieurs mécanismes; traiter voie aérienne et ventilation ensemble pourrait aider davantage.",
+        "tags": [
+          "apnée du sommeil",
+          "oxygène",
+          "orthèse mandibulaire"
+        ]
+      },
+      "source": {
+        "pmid": "41038636",
+        "title": "Combined supplemental oxygen and mandibular advancement device therapy for obstructive sleep apnoea: a randomised controlled trial.",
+        "journal": "The European respiratory journal",
+        "year": "2026",
+        "doi": "10.1183/13993003.01320-2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41038636/"
+      }
+    },
+    {
+      "id": "fa84782f-3214-47ff-9bbf-b407d7585e61",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Nephrology",
+      "difficulty": 2,
+      "title": "Flu vaccine can be given 4 weeks after kidney transplant",
+      "body": "Vaccines are usually delayed until 6 months after kidney transplant, when immunosuppression eases, so seasonal vaccines are often missed. Data show influenza vaccination can be given as early as 4 weeks after transplant without added risk. Live vaccines should generally be avoided after transplant.",
+      "takeaway": "Don't skip flu season after a kidney transplant: vaccinate from 4 weeks.",
+      "tags": [
+        "kidney transplant",
+        "vaccination",
+        "influenza"
+      ],
+      "fr": {
+        "specialty": "Néphrologie",
+        "title": "Le vaccin antigrippal peut être donné 4 semaines après une greffe rénale",
+        "body": "Les vaccins sont habituellement reportés à 6 mois après une greffe rénale, quand l'immunosuppression diminue, si bien que les vaccins saisonniers sont souvent omis. Les données montrent que le vaccin contre l'influenza peut être donné dès 4 semaines après la greffe sans risque supplémentaire. Les vaccins vivants sont généralement à éviter après une greffe.",
+        "takeaway": "Greffe rénale : ne sautez pas la saison grippale, vaccinez dès 4 semaines.",
+        "tags": [
+          "greffe rénale",
+          "vaccination",
+          "influenza"
+        ]
+      },
+      "source": {
+        "pmid": "41759616",
+        "title": "Vaccinations to Prevent Infections in Adult Individuals With CKD and After Kidney Transplantation: A Review.",
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "year": "2026",
+        "doi": "10.1053/j.ajkd.2025.10.021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41759616/"
+      }
+    },
+    {
+      "id": "70f4b261-607e-4323-8324-0e4d55a7f68e",
+      "kind": "flashcard",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Nephrology",
+      "difficulty": 1,
+      "front": "Why are live vaccines generally avoided after kidney transplant?",
+      "back": "Post-transplant immunosuppression impairs control of the attenuated vaccine organism, so live vaccines risk vaccine-induced infection; ideally they are given before transplant. Inactivated vaccines are safe after transplant, though responses are weaker.",
+      "tags": [
+        "kidney transplant",
+        "vaccination",
+        "immunosuppression"
+      ],
+      "fr": {
+        "specialty": "Néphrologie",
+        "front": "Pourquoi évite-t-on généralement les vaccins vivants après une greffe rénale?",
+        "back": "L'immunosuppression après la greffe nuit au contrôle du microorganisme atténué : les vaccins vivants risquent de causer une infection vaccinale; idéalement, on les donne avant la greffe. Les vaccins inactivés sont sûrs après la greffe, mais la réponse est plus faible.",
+        "tags": [
+          "greffe rénale",
+          "vaccination",
+          "immunosuppression"
+        ]
+      },
+      "source": {
+        "pmid": "41759616",
+        "title": "Vaccinations to Prevent Infections in Adult Individuals With CKD and After Kidney Transplantation: A Review.",
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "year": "2026",
+        "doi": "10.1053/j.ajkd.2025.10.021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41759616/"
+      }
+    },
+    {
+      "id": "ab4d598d-77b2-4770-86db-03fc5bd11f33",
+      "kind": "fact",
+      "created": "2026-10-11T13:17:02+00:00",
+      "specialty": "Neurology",
+      "difficulty": 2,
+      "title": "Acetazolamide failed to improve gait in NPH",
+      "body": "Idiopathic normal pressure hydrocephalus causes gait disturbance, cognitive impairment and urinary incontinence; shunt surgery helps but has complications. In the DRAIN trial of 50 patients awaiting a shunt, acetazolamide did not improve gait versus placebo, and 36% stopped it because of adverse events (vs 8%).",
+      "takeaway": "NPH still has no proven drug treatment: shunting remains the treatment.",
+      "tags": [
+        "normal pressure hydrocephalus",
+        "acetazolamide",
+        "gait"
+      ],
+      "fr": {
+        "specialty": "Neurologie",
+        "title": "L'acétazolamide n'améliore pas la marche dans l'HPN",
+        "body": "L'hydrocéphalie à pression normale idiopathique cause troubles de la marche, troubles cognitifs et incontinence urinaire; la dérivation aide, mais entraîne des complications. Dans l'essai DRAIN (50 patients en attente d'une dérivation), l'acétazolamide n'a pas amélioré la marche par rapport au placebo, et 36 % l'ont cessée en raison d'effets indésirables (contre 8 %).",
+        "takeaway": "L'HPN n'a toujours aucun traitement médicamenteux éprouvé : la dérivation reste le traitement.",
+        "tags": [
+          "hydrocéphalie à pression normale",
+          "acétazolamide",
+          "marche"
+        ]
+      },
+      "source": {
+        "pmid": "42127932",
+        "title": "Safety, tolerability, and efficacy of acetazolamide in idiopathic normal pressure hydrocephalus (DRAIN) in Sweden: a randomised, double-blind, placebo-controlled, phase 2 trial.",
+        "journal": "The Lancet. Neurology",
+        "year": "2026",
+        "doi": "10.1016/S1474-4422(26)00126-2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127932/"
+      }
+    },
+    {
       "id": "de98f89c-c0b1-4c70-9ca9-e02c526f5fe0",
       "kind": "fact",
       "created": "2026-10-11T12:53:36+00:00",
@@ -3094,5 +3863,5 @@
       }
     }
   ],
-  "updated": "2026-10-11T12:59:55+00:00"
+  "updated": "2026-10-11T13:17:32+00:00"
 }
