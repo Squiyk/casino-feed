@@ -2,6 +2,792 @@
   "version": 1,
   "items": [
     {
+      "id": "de98f89c-c0b1-4c70-9ca9-e02c526f5fe0",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "title": "Seven days of antibiotics suffice for most bacteremias",
+      "body": "In the BALANCE trial of 3608 hospitalized patients with bloodstream infection, 90-day mortality was 14.5% with 7 days of antibiotics versus 16.1% with 14 days, meeting noninferiority. Over half were in the ICU. The trial excluded S. aureus, severe immunosuppression and foci needing prolonged treatment.",
+      "takeaway": "Uncomplicated non-S. aureus bacteremia: 7 days is noninferior to 14.",
+      "tags": [
+        "bacteremia",
+        "antibiotic duration",
+        "stewardship"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "Sept jours d'antibiotiques suffisent pour la plupart des bactériémies",
+        "body": "Dans l'essai BALANCE (3608 patients hospitalisés avec une bactériémie), la mortalité à 90 jours était de 14,5 % avec 7 jours d'antibiotiques contre 16,1 % avec 14 jours, ce qui démontre la non-infériorité. Plus de la moitié étaient aux soins intensifs. L'essai excluait S. aureus, l'immunosuppression sévère et les foyers exigeant un traitement prolongé.",
+        "takeaway": "Bactériémie non compliquée hors S. aureus : 7 jours est non inférieur à 14.",
+        "tags": [
+          "bactériémie",
+          "durée d'antibiothérapie",
+          "antibiogouvernance"
+        ]
+      },
+      "source": {
+        "pmid": "39565030",
+        "title": "Antibiotic Treatment for 7 versus 14 Days in Patients with Bloodstream Infections.",
+        "journal": "The New England journal of medicine",
+        "year": "2025",
+        "doi": "10.1056/NEJMoa2404991",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39565030/"
+      }
+    },
+    {
+      "id": "7d9283ea-aefa-4e56-a6c3-bf44aa27b4da",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 3,
+      "title": "Penicillin G caused less kidney injury in PSSA bacteremia",
+      "body": "In the SNAP trial, adults with penicillin-susceptible S. aureus bacteremia had acute kidney injury in 11% with benzylpenicillin versus 22% with flucloxacillin or cloxacillin. 90-day mortality was 14% versus 22%; noninferiority was likely (96.1%) but its prespecified criterion was not met. The authors favor benzylpenicillin.",
+      "takeaway": "For penicillin-susceptible S. aureus, prefer benzylpenicillin over flucloxacillin.",
+      "tags": [
+        "staphylococcus aureus",
+        "penicillin",
+        "acute kidney injury"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "S. aureus sensible à la pénicilline : moins d'IRA avec la pénicilline G",
+        "body": "Dans l'essai SNAP, chez les adultes avec une bactériémie à S. aureus sensible à la pénicilline, l'insuffisance rénale aiguë est survenue chez 11 % des patients sous benzylpénicilline contre 22 % sous flucloxacilline ou cloxacilline. La mortalité à 90 jours était de 14 % contre 22 %; la non-infériorité était probable (96,1 %), mais le critère prédéfini n'a pas été atteint. Les auteurs privilégient la benzylpénicilline.",
+        "takeaway": "S. aureus sensible à la pénicilline : privilégiez la benzylpénicilline à la flucloxacilline.",
+        "tags": [
+          "staphylococcus aureus",
+          "pénicilline",
+          "insuffisance rénale aiguë"
+        ]
+      },
+      "source": {
+        "pmid": "42309115",
+        "title": "Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial.",
+        "journal": "Lancet (London, England)",
+        "year": "2026",
+        "doi": "10.1016/S0140-6736(26)00761-0",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42309115/"
+      }
+    },
+    {
+      "id": "f68a17e9-a14b-4cad-a499-28d1009fbe56",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "title": "Cefazolin matches antistaphylococcal penicillins for MSSA",
+      "body": "In the SNAP platform trial of adults with methicillin-susceptible S. aureus (MSSA) bacteremia, 90-day mortality was 15.0% with cefazolin versus 17.0% with flucloxacillin or cloxacillin, meeting noninferiority. Acute kidney injury was less frequent with cefazolin (13.9% vs 19.6%).",
+      "takeaway": "For MSSA bacteremia, cefazolin is noninferior and causes less kidney injury.",
+      "tags": [
+        "staphylococcus aureus",
+        "cefazolin",
+        "bacteremia"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "SASM : céfazoline non inférieure aux pénicillines antistaphylococciques",
+        "body": "Dans l'essai de plateforme SNAP chez des adultes avec une bactériémie à S. aureus sensible à la méthicilline (SASM), la mortalité à 90 jours était de 15,0 % sous céfazoline contre 17,0 % sous flucloxacilline ou cloxacilline, ce qui satisfait le critère de non-infériorité. L'insuffisance rénale aiguë était moins fréquente sous céfazoline (13,9 % c. 19,6 %).",
+        "takeaway": "Bactériémie à SASM : céfazoline non inférieure et moins d'atteinte rénale.",
+        "tags": [
+          "staphylococcus aureus",
+          "céfazoline",
+          "bactériémie"
+        ]
+      },
+      "source": {
+        "pmid": "42308484",
+        "title": "Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia.",
+        "journal": "The New England journal of medicine",
+        "year": "2026",
+        "doi": "10.1056/NEJMoa2506905",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42308484/"
+      }
+    },
+    {
+      "id": "b6849fb1-5de3-470e-9a77-e597aba0a2c1",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 3,
+      "title": "Two dalbavancin doses were noninferior to weeks of IV drugs",
+      "body": "In the DOTS trial, adults with complicated S. aureus bacteremia whose blood cultures had cleared got 2 doses of dalbavancin or 4 to 8 weeks of standard IV therapy. Dalbavancin was not superior on the primary ranked outcome, but clinical efficacy at day 70 was noninferior (73% vs 72%). Left-sided endocarditis was excluded.",
+      "takeaway": "Dalbavancin may spare some patients with cleared S. aureus bacteremia a long IV line.",
+      "tags": [
+        "staphylococcus aureus",
+        "dalbavancin",
+        "bacteremia"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "Deux doses de dalbavancine non inférieures à des semaines d'IV",
+        "body": "Dans l'essai DOTS, des adultes avec une bactériémie compliquée à S. aureus et des hémocultures négativées ont reçu 2 doses de dalbavancine ou 4 à 8 semaines de traitement IV standard. La dalbavancine n'a pas été supérieure selon le critère principal (classement des issues), mais l'efficacité clinique au jour 70 était non inférieure (73 % c. 72 %). L'endocardite gauche était exclue.",
+        "takeaway": "La dalbavancine pourrait éviter un long accès IV si la bactériémie à S. aureus est négativée.",
+        "tags": [
+          "staphylococcus aureus",
+          "dalbavancine",
+          "bactériémie"
+        ]
+      },
+      "source": {
+        "pmid": "40802264",
+        "title": "Dalbavancin for Treatment of Staphylococcus aureus Bacteremia: The DOTS Randomized Clinical Trial.",
+        "journal": "JAMA",
+        "year": "2025",
+        "doi": "10.1001/jama.2025.12543",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40802264/"
+      }
+    },
+    {
+      "id": "4ef2df9b-9ea9-4d4b-8729-4757e566c699",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "title": "RSV vaccines cut hospitalization odds by 77% after age 60",
+      "body": "A meta-analysis of 8 observational studies in adults aged 60 or older found that RSVpreF or RSVpreF3 vaccination lowered the odds of RSV-related hospitalization (OR 0.23) and emergency visits (OR 0.23). Protection was lower in immunocompromised adults (OR 0.31) and similar across age groups and both vaccines.",
+      "takeaway": "RSV vaccines strongly protect older adults, though less so if immunocompromised.",
+      "tags": [
+        "rsv",
+        "vaccination",
+        "older adults"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "Vaccins anti-VRS : cote d'hospitalisation réduite de 77 % après 60 ans",
+        "body": "Une méta-analyse de 8 études observationnelles chez des adultes de 60 ans ou plus montre que la vaccination par RSVpreF ou RSVpreF3 réduit la cote d'hospitalisation liée au VRS (RC 0,23) et de visite à l'urgence (RC 0,23). La protection était moindre chez les immunodéprimés (RC 0,31) et semblable selon l'âge et le vaccin.",
+        "takeaway": "Les vaccins anti-VRS protègent fortement les aînés, mais moins les immunodéprimés.",
+        "tags": [
+          "vrs",
+          "vaccination",
+          "personnes âgées"
+        ]
+      },
+      "source": {
+        "pmid": "41705791",
+        "title": "Real-World Effectiveness of RSVpreF and RSVpreF3 Vaccines in Preventing Hospitalization and Emergency Department Visits Associated With Respiratory Syncytial Virus in Older Adults: A Meta-analysis.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2026",
+        "doi": "10.1093/cid/ciag107",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41705791/"
+      }
+    },
+    {
+      "id": "3dece95b-de9c-4bb3-8fc6-29c743b672f9",
+      "kind": "flashcard",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 1,
+      "front": "What antigen do the RSV vaccines licensed for older adults target?",
+      "back": "The RSV fusion (F) glycoprotein stabilized in its prefusion conformation (RSVpreF, RSVpreF3); prefusion F elicits more potent neutralizing antibodies than postfusion F.",
+      "tags": [
+        "rsv",
+        "vaccines",
+        "immunology"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "front": "Quel antigène ciblent les vaccins contre le VRS homologués pour les personnes âgées?",
+        "back": "La glycoprotéine de fusion (F) du VRS stabilisée dans sa conformation préfusion (RSVpreF, RSVpreF3); la forme préfusion induit des anticorps neutralisants plus puissants que la forme postfusion.",
+        "tags": [
+          "vrs",
+          "vaccins",
+          "immunologie"
+        ]
+      },
+      "source": {
+        "pmid": "41705791",
+        "title": "Real-World Effectiveness of RSVpreF and RSVpreF3 Vaccines in Preventing Hospitalization and Emergency Department Visits Associated With Respiratory Syncytial Virus in Older Adults: A Meta-analysis.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2026",
+        "doi": "10.1093/cid/ciag107",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41705791/"
+      }
+    },
+    {
+      "id": "e2b5b31b-ff9a-47a9-9ba5-f64f817b5f49",
+      "kind": "mcq",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "stem": "A meta-analysis pooled real-world RSV vaccine effectiveness against RSV-related hospitalization in adults aged 60 or older. In which group was protection lowest?",
+      "options": [
+        "Adults aged 75 years or older",
+        "Immunocompromised adults",
+        "Recipients of RSVpreF3 rather than RSVpreF",
+        "Adults aged 60 to 74 years",
+        "Recipients of RSVpreF rather than RSVpreF3"
+      ],
+      "explanation": "The pooled odds ratio for hospitalization was 0.31 in immunocompromised adults versus 0.20 in immunocompetent adults, so protection was weaker with immune compromise. Age 75 or older, the strongest distractor, made no difference: effectiveness was similar in the 60-74 and 75+ groups, and between the two vaccines.",
+      "teaching_point": "RSV vaccines protect seniors of all ages, but immunocompromised adults less.",
+      "answer_index": 1,
+      "fr": {
+        "specialty": "Infectiologie",
+        "stem": "Une méta-analyse a regroupé l'efficacité en vie réelle des vaccins contre le VRS pour prévenir l'hospitalisation chez les adultes de 60 ans ou plus. Dans quel groupe la protection était-elle la plus faible?",
+        "options": [
+          "Adultes de 75 ans ou plus",
+          "Adultes immunodéprimés",
+          "Personnes ayant reçu RSVpreF3 plutôt que RSVpreF",
+          "Adultes de 60 à 74 ans",
+          "Personnes ayant reçu RSVpreF plutôt que RSVpreF3"
+        ],
+        "explanation": "Le rapport de cotes regroupé pour l'hospitalisation était de 0,31 chez les adultes immunodéprimés contre 0,20 chez les immunocompétents : la protection était donc plus faible en cas d'immunodépression. L'âge de 75 ans ou plus, le meilleur distracteur, ne changeait rien : l'efficacité était semblable chez les 60-74 ans et les 75 ans et plus, et entre les deux vaccins.",
+        "teaching_point": "Les vaccins anti-VRS protègent les aînés de tout âge, mais moins les immunodéprimés."
+      },
+      "source": {
+        "pmid": "41705791",
+        "title": "Real-World Effectiveness of RSVpreF and RSVpreF3 Vaccines in Preventing Hospitalization and Emergency Department Visits Associated With Respiratory Syncytial Virus in Older Adults: A Meta-analysis.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2026",
+        "doi": "10.1093/cid/ciag107",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41705791/"
+      }
+    },
+    {
+      "id": "e72b1ef1-d10d-4642-b3c2-9bfe85e5d40d",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 3,
+      "title": "Four-days-a-week dual HIV therapy failed noninferiority",
+      "body": "In ANRS-177 DUETTO, virologically suppressed adults on two-drug antiretroviral therapy were randomized to take it 4 consecutive days a week or daily. Virological failure at week 48 occurred in 4% on the 4-day schedule versus none on daily dosing, so noninferiority was not shown and the strategy is not recommended for routine use.",
+      "takeaway": "Two-drug HIV regimens should be taken daily, not in short cycles.",
+      "tags": [
+        "hiv",
+        "antiretroviral therapy",
+        "adherence"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "La bithérapie anti-VIH 4 jours sur 7 n'est pas non inférieure",
+        "body": "Dans l'essai ANRS-177 DUETTO, des adultes en suppression virologique sous bithérapie antirétrovirale ont été randomisés pour la prendre 4 jours consécutifs par semaine ou tous les jours. L'échec virologique à 48 semaines est survenu chez 4 % du groupe 4 jours sur 7 contre aucun du groupe quotidien : la non-infériorité n'a pas été démontrée et la stratégie n'est pas recommandée en pratique courante.",
+        "takeaway": "Les bithérapies anti-VIH se prennent tous les jours, pas en cycles courts.",
+        "tags": [
+          "vih",
+          "traitement antirétroviral",
+          "observance"
+        ]
+      },
+      "source": {
+        "pmid": "42140217",
+        "title": "Short-cycle 4-days-per-week maintenance two-drug therapy in people living with HIV (ANRS-177 DUETTO): a randomised, open-label, multicentre, non-inferiority trial.",
+        "journal": "The lancet. HIV",
+        "year": "2026",
+        "doi": "10.1016/S2352-3018(26)00012-3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42140217/"
+      }
+    },
+    {
+      "id": "e474ba08-cd3b-490f-a289-d7e1c6bc3c1f",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "title": "Pregnancy quadruples HIV risk per sex act; PrEP looks safe",
+      "body": "Pregnant women have about four times the risk of HIV per coital act. In MTN-042/DELIVER, women starting the dapivirine vaginal ring or oral tenofovir-emtricitabine PrEP in the second trimester had no product-related serious events, no HIV seroconversions, and 94% of births at term.",
+      "takeaway": "Pregnancy is a high-risk window for HIV; PrEP can be started in the second trimester.",
+      "tags": [
+        "hiv",
+        "prep",
+        "pregnancy"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "Grossesse : risque de VIH quadruplé par relation; la PrEP semble sûre",
+        "body": "Le risque de VIH par relation sexuelle est environ quatre fois plus élevé chez la femme enceinte. Dans l'essai MTN-042/DELIVER, chez les femmes ayant commencé l'anneau vaginal à la dapivirine ou la PrEP orale ténofovir-emtricitabine au deuxième trimestre, aucun événement grave n'était lié au produit, aucune séroconversion n'est survenue et 94 % des naissances étaient à terme.",
+        "takeaway": "La grossesse est une période à risque élevé de VIH; la PrEP peut débuter au deuxième trimestre.",
+        "tags": [
+          "vih",
+          "prep",
+          "grossesse"
+        ]
+      },
+      "source": {
+        "pmid": "41687672",
+        "title": "Safety, acceptability, and adherence to dapivirine vaginal ring and oral pre-exposure prophylaxis for HIV prevention in the second trimester of pregnancy: a multicountry, open-label, phase 3b randomised trial.",
+        "journal": "The lancet. HIV",
+        "year": "2026",
+        "doi": "10.1016/S2352-3018(25)00307-8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41687672/"
+      }
+    },
+    {
+      "id": "f44fe80f-85ad-4935-8e2f-aac5fc9dcfbe",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "title": "8 weeks of glecaprevir/pibrentasvir cures acute HCV",
+      "body": "In a single-arm phase IIIb study of 286 adults with acute HCV, half coinfected with HIV, 96.2% reached sustained virologic response 12 weeks after treatment, and 100% after excluding non-virologic failures. No hepatic decompensation or treatment-related serious events occurred.",
+      "takeaway": "Treat acute HCV promptly; waiting for chronicity loses patients and spreads infection.",
+      "tags": [
+        "hepatitis c",
+        "direct-acting antivirals",
+        "acute infection"
+      ],
+      "fr": {
+        "specialty": "Infectiologie",
+        "title": "8 semaines de glécaprévir/pibrentasvir guérissent l'hépatite C aiguë",
+        "body": "Dans une étude de phase IIIb à un seul groupe de 286 adultes avec une hépatite C aiguë, dont la moitié coinfectés par le VIH, 96,2 % ont obtenu une réponse virologique soutenue 12 semaines après le traitement, et 100 % après exclusion des échecs non virologiques. Aucune décompensation hépatique ni événement grave lié au traitement n'est survenu.",
+        "takeaway": "Traitez l'hépatite C aiguë sans tarder : attendre la chronicité perd des patients et propage l'infection.",
+        "tags": [
+          "hépatite c",
+          "antiviraux à action directe",
+          "infection aiguë"
+        ]
+      },
+      "source": {
+        "pmid": "41297677",
+        "title": "A single-arm phase IIIb study of 8-week glecaprevir/pibrentasvir treatment in adults with acute hepatitis C.",
+        "journal": "Journal of hepatology",
+        "year": "2026",
+        "doi": "10.1016/j.jhep.2025.11.009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41297677/"
+      }
+    },
+    {
+      "id": "4945df9a-b8c3-4714-8cfd-89dfa4f9fff5",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Nephrology",
+      "difficulty": 3,
+      "title": "Kidney disease in HIV can be ANCA vasculitis, not just HIVAN",
+      "body": "Kidney disease in people with HIV is not only HIV-associated nephropathy. A report of two MPO-ANCA-positive pauci-immune crescentic glomerulonephritis cases suggests that outcome depended on the histological stage at biopsy: early cellular crescents remitted with treatment, while late sclerosis left dialysis dependence.",
+      "takeaway": "In HIV with unexplained renal decline and an active sediment, biopsy early.",
+      "tags": [
+        "hiv",
+        "glomerulonephritis",
+        "anca vasculitis"
+      ],
+      "fr": {
+        "specialty": "Néphrologie",
+        "title": "VIH et reins : pensez aussi à la vascularite à ANCA",
+        "body": "L'atteinte rénale chez les personnes vivant avec le VIH ne se limite pas à la néphropathie associée au VIH. Deux cas de glomérulonéphrite extracapillaire pauci-immune avec ANCA anti-MPO suggèrent que l'évolution dépendait du stade histologique à la biopsie : des croissants cellulaires précoces ont répondu au traitement, alors qu'une sclérose avancée a mené à la dialyse.",
+        "takeaway": "VIH, déclin rénal inexpliqué et sédiment urinaire actif : biopsiez tôt.",
+        "tags": [
+          "vih",
+          "glomérulonéphrite",
+          "vascularite à anca"
+        ]
+      },
+      "source": {
+        "pmid": "42608064",
+        "title": "Pauci-immune crescentic glomerulonephritis in human immunodeficiency virus infection: clinical and therapeutic challenges.",
+        "journal": "BMJ case reports",
+        "year": "2026",
+        "doi": "10.1136/bcr-2025-270865",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608064/"
+      }
+    },
+    {
+      "id": "3f8473a8-6e0a-41cc-a429-b4e541ce7d22",
+      "kind": "case",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "clues": [
+        "A 52-year-old man reports progressively worsening vision loss in both eyes over 1 month.",
+        "His sexual history includes multiple partners.",
+        "Vision is light perception in the right eye and 20/630 in the left; there is bilateral non-granulomatous panuveitis with vitritis.",
+        "Fundus examination shows chorioretinitis, retinal vasculitis and optic disc inflammation (papillitis). HIV testing is negative.",
+        "Serology is positive for Treponema pallidum."
+      ],
+      "answer": "Ocular syphilis (syphilitic panuveitis)",
+      "accepted_answers": [
+        "ocular syphilis",
+        "syphilitic uveitis",
+        "syphilitic panuveitis",
+        "syphilitic chorioretinitis",
+        "syphilis"
+      ],
+      "explanation": "Bilateral panuveitis in a sexually active adult, with chorioretinitis, retinal vasculitis and papillitis, should prompt syphilis testing: syphilis is a great imitator in the eye. Positive Treponema pallidum serology confirms it, and HIV testing is part of the workup. He received IV aqueous penicillin G with corticosteroids, then intramuscular benzathine penicillin, and vision recovered to 20/25 and 20/20.",
+      "teaching_point": "Test for syphilis in any unexplained uveitis, and treat ocular syphilis like neurosyphilis.",
+      "fr": {
+        "specialty": "Infectiologie",
+        "clues": [
+          "Un homme de 52 ans consulte pour une baisse de vision progressive des deux yeux depuis 1 mois.",
+          "Ses antécédents sexuels comprennent de multiples partenaires.",
+          "L'acuité visuelle est à perception lumineuse à droite et à 20/630 à gauche; on note une panuvéite non granulomateuse bilatérale avec hyalite.",
+          "Le fond d'œil montre une choriorétinite, une vascularite rétinienne et une inflammation de la papille optique (papillite). La sérologie VIH est négative.",
+          "La sérologie est positive pour Treponema pallidum."
+        ],
+        "answer": "Syphilis oculaire (panuvéite syphilitique)",
+        "accepted_answers": [
+          "syphilis oculaire",
+          "uvéite syphilitique",
+          "panuvéite syphilitique",
+          "choriorétinite syphilitique",
+          "syphilis"
+        ],
+        "explanation": "Une panuvéite bilatérale chez un adulte sexuellement actif, avec choriorétinite, vascularite rétinienne et papillite, doit faire rechercher la syphilis, grande imitatrice en ophtalmologie. Une sérologie positive pour Treponema pallidum confirme le diagnostic, et le dépistage du VIH fait partie du bilan. Il a reçu de la pénicilline G aqueuse IV avec des corticostéroïdes, puis de la pénicilline G benzathine IM, et sa vision est revenue à 20/25 et 20/20.",
+        "teaching_point": "Recherchez la syphilis devant toute uvéite inexpliquée et traitez la syphilis oculaire comme une neurosyphilis."
+      },
+      "source": {
+        "pmid": "41273732",
+        "title": "Syphilitic Uveitis: Clinical Features, Treatment, and Outcome.",
+        "journal": "The American journal of case reports",
+        "year": "2025",
+        "doi": "10.12659/AJCR.950678",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41273732/"
+      }
+    },
+    {
+      "id": "e3592a92-85aa-4b87-8a69-8138db3d855c",
+      "kind": "case",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Infectious Disease",
+      "difficulty": 2,
+      "clues": [
+        "A man in his 30s presents with isolated rectal bleeding.",
+        "He reports unprotected sexual intercourse.",
+        "Sigmoidoscopy shows multiple superficial ulcers over the folds of the anal canal, with erythematous rectal mucosa and focal erosions.",
+        "Given his sexual history, serology is sent; the VDRL test is positive.",
+        "Histopathology of the rectal ulcers confirms Treponema pallidum infection."
+      ],
+      "answer": "Syphilitic proctitis",
+      "accepted_answers": [
+        "syphilitic proctitis",
+        "anorectal syphilis",
+        "rectal syphilis",
+        "syphilis proctitis",
+        "syphilis"
+      ],
+      "explanation": "Rectal bleeding with anal canal ulcers and proctitis after unprotected sex raises a sexually transmitted proctitis, which can mimic other anorectal conditions such as inflammatory bowel disease. A reactive VDRL and histopathology of the ulcers confirm syphilis. Intramuscular benzathine penicillin led to complete resolution.",
+      "teaching_point": "Consider syphilis in unexplained rectal bleeding or proctitis after unprotected sex.",
+      "fr": {
+        "specialty": "Infectiologie",
+        "clues": [
+          "Un homme dans la trentaine consulte pour des rectorragies isolées.",
+          "Il rapporte des relations sexuelles non protégées.",
+          "La sigmoïdoscopie montre de multiples ulcères superficiels sur les plis du canal anal, une muqueuse rectale érythémateuse et des érosions focales.",
+          "Compte tenu de son histoire sexuelle, une sérologie est demandée; le VDRL est positif.",
+          "L'histopathologie des ulcères rectaux confirme l'infection à Treponema pallidum."
+        ],
+        "answer": "Rectite syphilitique",
+        "accepted_answers": [
+          "rectite syphilitique",
+          "proctite syphilitique",
+          "syphilis anorectale",
+          "syphilis rectale",
+          "syphilis"
+        ],
+        "explanation": "Des rectorragies avec ulcères du canal anal et rectite après des relations non protégées évoquent une rectite transmise sexuellement, qui peut imiter d'autres affections anorectales comme une maladie inflammatoire de l'intestin. Un VDRL réactif et l'histopathologie des ulcères confirment la syphilis. La pénicilline G benzathine IM a entraîné une résolution complète.",
+        "teaching_point": "Pensez à la syphilis devant des rectorragies ou une rectite inexpliquées après des relations non protégées."
+      },
+      "source": {
+        "pmid": "42225321",
+        "title": "Syphilitic proctitis presenting as rectal bleeding.",
+        "journal": "BMJ case reports",
+        "year": "2026",
+        "doi": "10.1136/bcr-2026-273720",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42225321/"
+      }
+    },
+    {
+      "id": "455e2c70-f54a-4230-91b5-6283599fee0b",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Cardiology",
+      "difficulty": 3,
+      "title": "An early eGFR dip on spironolactone is no reason to stop it",
+      "body": "In TOPCAT Americas (HFpEF), an eGFR fall of 15% or more within 4 weeks occurred in 33% on spironolactone versus 20% on placebo. A dip predicted worse outcomes in both arms, yet the effect of spironolactone on cardiovascular outcomes was similar whether or not a dip occurred.",
+      "takeaway": "An early eGFR dip after starting an MRA in HFpEF shouldn't automatically stop it.",
+      "tags": [
+        "heart failure",
+        "spironolactone",
+        "egfr"
+      ],
+      "fr": {
+        "specialty": "Cardiologie",
+        "title": "Une baisse précoce du DFGe sous spironolactone ne justifie pas l'arrêt",
+        "body": "Dans TOPCAT (Amériques, ICFEP), une baisse d'au moins 15 % du DFGe en 4 semaines est survenue chez 33 % des patients sous spironolactone contre 20 % sous placebo. Cette baisse prédisait un pronostic plus sombre dans les deux groupes, mais l'effet de la spironolactone sur les issues cardiovasculaires était semblable avec ou sans baisse.",
+        "takeaway": "ICFEP : une baisse précoce du DFGe sous ARM ne doit pas entraîner un arrêt automatique.",
+        "tags": [
+          "insuffisance cardiaque",
+          "spironolactone",
+          "dfge"
+        ]
+      },
+      "source": {
+        "pmid": "41961632",
+        "title": "Spironolactone, early acute eGFR changes, and clinical outcomes in patients with heart failure with preserved ejection fraction: insights from TOPCAT Americas.",
+        "journal": "European journal of heart failure",
+        "year": "2026",
+        "doi": "10.1093/ejhf/xuag099",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961632/"
+      }
+    },
+    {
+      "id": "f27bb666-2c8c-4da8-93c8-24d56fb592a6",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Neurology",
+      "difficulty": 2,
+      "title": "Blood NfL after stroke predicts later cognitive trouble",
+      "body": "A systematic review found higher acute neurofilament light (NfL) after stroke was associated with worse cognition at 1 to 6 months (meta-analysis of 4 studies, n = 2020), and baseline GFAP with worse cognition over time. Results for amyloid and tau were inconsistent, and risk of bias was high.",
+      "takeaway": "NfL and GFAP are the most consistent blood markers of post-stroke cognition.",
+      "tags": [
+        "stroke",
+        "biomarkers",
+        "cognitive impairment"
+      ],
+      "fr": {
+        "specialty": "Neurologie",
+        "title": "Après un AVC, les NfL sanguins prédisent les troubles cognitifs",
+        "body": "Une revue systématique montre que des neurofilaments légers (NfL) plus élevés en phase aiguë d'un AVC sont associés à une moins bonne cognition à 1 à 6 mois (méta-analyse de 4 études, n = 2020), et que la GFAP initiale est associée à une moins bonne cognition au fil du suivi. Les résultats pour l'amyloïde et la tau étaient discordants, et le risque de biais était élevé.",
+        "takeaway": "Les NfL et la GFAP sont les marqueurs sanguins les plus constants de la cognition post-AVC.",
+        "tags": [
+          "avc",
+          "biomarqueurs",
+          "trouble cognitif"
+        ]
+      },
+      "source": {
+        "pmid": "42410677",
+        "title": "Dementia blood biomarkers in the context of post-stroke cognitive outcomes: Systematic review and evidence synthesis.",
+        "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+        "year": "2026",
+        "doi": "10.1002/alz.71653",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42410677/"
+      }
+    },
+    {
+      "id": "c86be23d-7d9f-44fa-b184-b536d09072d2",
+      "kind": "flashcard",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Neurology",
+      "difficulty": 1,
+      "front": "What do blood neurofilament light (NfL) and GFAP levels reflect?",
+      "back": "NfL: a structural protein of neuronal axons, released into blood with neuroaxonal injury; GFAP: an intermediate filament protein of astrocytes, released with astrocytic injury or activation. Neither is specific to a cause.",
+      "tags": [
+        "biomarkers",
+        "neurofilament",
+        "neuropathology"
+      ],
+      "fr": {
+        "specialty": "Neurologie",
+        "front": "Que reflètent les taux sanguins de neurofilaments légers (NfL) et de GFAP?",
+        "back": "NfL : protéine structurale des axones, libérée dans le sang lors d'une atteinte neuroaxonale; GFAP : protéine des filaments intermédiaires des astrocytes, libérée lors d'une atteinte ou d'une activation astrocytaire. Aucun des deux n'est spécifique d'une cause.",
+        "tags": [
+          "biomarqueurs",
+          "neurofilaments",
+          "neuropathologie"
+        ]
+      },
+      "source": {
+        "pmid": "42410677",
+        "title": "Dementia blood biomarkers in the context of post-stroke cognitive outcomes: Systematic review and evidence synthesis.",
+        "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+        "year": "2026",
+        "doi": "10.1002/alz.71653",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42410677/"
+      }
+    },
+    {
+      "id": "f6a465d6-3c95-4412-b450-651e49420ce3",
+      "kind": "mcq",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Neurology",
+      "difficulty": 2,
+      "stem": "A systematic review examined blood biomarkers measured after stroke. Which one showed the most consistent association with worse cognition at 1 to 6 months?",
+      "options": [
+        "Amyloid beta",
+        "Tau",
+        "Placental growth factor",
+        "Neurofilament light"
+      ],
+      "explanation": "A meta-analysis of 4 studies (n = 2020) linked higher acute neurofilament light to worse cognition at 1 to 6 months. Amyloid beta and tau, the tempting Alzheimer markers, gave inconsistent results between studies, and placental growth factor has not been studied in this setting.",
+      "teaching_point": "After stroke, NfL reflects axonal injury and tracks with later cognitive impairment.",
+      "answer_index": 3,
+      "fr": {
+        "specialty": "Neurologie",
+        "stem": "Une revue systématique a examiné des biomarqueurs sanguins mesurés après un AVC. Lequel montrait l'association la plus constante avec une moins bonne cognition à 1 à 6 mois?",
+        "options": [
+          "Bêta-amyloïde",
+          "Tau",
+          "Facteur de croissance placentaire",
+          "Neurofilaments légers"
+        ],
+        "explanation": "Une méta-analyse de 4 études (n = 2020) a associé des neurofilaments légers élevés en phase aiguë à une moins bonne cognition à 1 à 6 mois. La bêta-amyloïde et la tau, marqueurs tentants de la maladie d'Alzheimer, donnaient des résultats discordants, et le facteur de croissance placentaire n'a pas été étudié dans ce contexte.",
+        "teaching_point": "Après un AVC, les NfL reflètent l'atteinte axonale et suivent les troubles cognitifs ultérieurs."
+      },
+      "source": {
+        "pmid": "42410677",
+        "title": "Dementia blood biomarkers in the context of post-stroke cognitive outcomes: Systematic review and evidence synthesis.",
+        "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+        "year": "2026",
+        "doi": "10.1002/alz.71653",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42410677/"
+      }
+    },
+    {
+      "id": "e188a66c-eb95-44ef-87a2-ddd102c5fcee",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Endocrinology",
+      "difficulty": 2,
+      "title": "AID lowers HbA1c in type 2 diabetes regardless of C-peptide",
+      "body": "In a trial of adults with insulin-treated type 2 diabetes, an automated insulin delivery (AID) system lowered HbA1c by a mean 0.8% from baseline, significantly more than control in both high and low C-peptide groups, with similar results at 65 or older. US Medicare rules requiring low C-peptide for pump coverage exclude patients who benefit.",
+      "takeaway": "C-peptide shouldn't gate access to automated insulin delivery in type 2 diabetes.",
+      "tags": [
+        "type 2 diabetes",
+        "insulin pump",
+        "c-peptide"
+      ],
+      "fr": {
+        "specialty": "Endocrinologie",
+        "title": "DT2 : l'administration automatisée d'insuline réduit l'HbA1c",
+        "body": "Dans un essai chez des adultes avec un diabète de type 2 traité par insuline, un système d'administration automatisée d'insuline a réduit l'HbA1c de 0,8 % en moyenne, significativement plus que le groupe témoin, autant avec un peptide C élevé que bas, avec des résultats semblables à 65 ans ou plus. Exiger un peptide C bas pour couvrir une pompe, comme Medicare aux États-Unis, exclut des patients qui en bénéficient.",
+        "takeaway": "Le peptide C ne devrait pas conditionner l'accès à l'administration automatisée d'insuline.",
+        "tags": [
+          "diabète de type 2",
+          "pompe à insuline",
+          "peptide c"
+        ]
+      },
+      "source": {
+        "pmid": "40953318",
+        "title": "Adults With Type 2 Diabetes Benefit From Automated Insulin Delivery Irrespective of C-Peptide Level.",
+        "journal": "Diabetes care",
+        "year": "2025",
+        "doi": "10.2337/dc25-1125",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40953318/"
+      }
+    },
+    {
+      "id": "10db2f3a-19c2-4208-b805-ac44bd0bb1c3",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Nephrology",
+      "difficulty": 3,
+      "title": "Potassium loading doesn't cause natriuresis in advanced CKD",
+      "body": "In a crossover trial, an acute oral potassium load increased urinary sodium excretion at 2 hours in healthy people but not in patients with CKD stage G3b-G4, with or without lisinopril. Plasma potassium also rose more in CKD, so oral potassium loading carries a higher risk of hyperkalemia there.",
+      "takeaway": "In advanced CKD, oral potassium raises plasma K without the natriuretic effect.",
+      "tags": [
+        "chronic kidney disease",
+        "potassium",
+        "natriuresis"
+      ],
+      "fr": {
+        "specialty": "Néphrologie",
+        "title": "Pas de natriurèse après une charge en potassium dans la MRC avancée",
+        "body": "Dans un essai croisé, une charge orale aiguë de potassium a augmenté l'excrétion urinaire de sodium à 2 heures chez des personnes en santé, mais pas chez des patients avec une MRC de stade G3b-G4, avec ou sans lisinopril. La kaliémie augmentait aussi davantage en MRC : la charge orale en potassium y comporte donc un risque accru d'hyperkaliémie.",
+        "takeaway": "MRC avancée : le potassium oral élève la kaliémie sans effet natriurétique.",
+        "tags": [
+          "maladie rénale chronique",
+          "potassium",
+          "natriurèse"
+        ]
+      },
+      "source": {
+        "pmid": "41288308",
+        "title": "Natriuretic response to an acute oral potassium load in healthy individuals and patients with chronic kidney disease: a randomized controlled trial.",
+        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+        "year": "2026",
+        "doi": "10.1093/ndt/gfaf238",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41288308/"
+      }
+    },
+    {
+      "id": "5454617f-305e-453b-82ed-b3eb3fb04bde",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 2,
+      "title": "Loneliness may erode cognition via depression and poor sleep",
+      "body": "A systematic review of 38 studies found that depressive symptoms, neuroticism, a lower sense of control, sleep disturbance and less social or leisure activity mediated the link between loneliness or isolation and cognitive decline in older adults. Physiological pathways, such as Alzheimer pathology, inflammation and HPA-axis function, had mixed evidence.",
+      "takeaway": "Mood, sleep and social activity sit on the path from loneliness to cognitive decline.",
+      "tags": [
+        "loneliness",
+        "cognitive decline",
+        "geriatric psychiatry"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "title": "La solitude nuirait à la cognition par la dépression et le sommeil",
+        "body": "Une revue systématique de 38 études montre que les symptômes dépressifs, le névrosisme, un faible sentiment de contrôle, les troubles du sommeil et une moindre participation aux activités sociales ou de loisirs jouaient un rôle médiateur dans le lien entre solitude ou isolement et déclin cognitif chez les aînés. Les voies physiologiques (pathologie d'Alzheimer, inflammation, axe HHS) avaient des données mitigées.",
+        "takeaway": "Humeur, sommeil et activité sociale se situent entre la solitude et le déclin cognitif.",
+        "tags": [
+          "solitude",
+          "déclin cognitif",
+          "gérontopsychiatrie"
+        ]
+      },
+      "source": {
+        "pmid": "42337961",
+        "title": "How loneliness and social isolation are linked to cognitive decline among older adults? A systematic review of underlying physiological and psychobehavioral mechanisms.",
+        "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+        "year": "2026",
+        "doi": "10.1002/alz.71585",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337961/"
+      }
+    },
+    {
+      "id": "3bd4b2ee-e946-4935-bc74-40836e4a94c7",
+      "kind": "flashcard",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Psychiatry",
+      "difficulty": 1,
+      "front": "What is the difference between loneliness and social isolation?",
+      "back": "Loneliness is the subjective distress of feeling that one's social relationships are inadequate; social isolation is the objective lack of social contacts or a social network. They often coexist but can occur independently.",
+      "tags": [
+        "loneliness",
+        "social isolation",
+        "definitions"
+      ],
+      "fr": {
+        "specialty": "Psychiatrie",
+        "front": "Quelle est la différence entre la solitude et l'isolement social?",
+        "back": "La solitude est la détresse subjective de percevoir ses relations sociales comme insuffisantes; l'isolement social est le manque objectif de contacts ou de réseau social. Ils coexistent souvent, mais peuvent survenir l'un sans l'autre.",
+        "tags": [
+          "solitude",
+          "isolement social",
+          "définitions"
+        ]
+      },
+      "source": {
+        "pmid": "42337961",
+        "title": "How loneliness and social isolation are linked to cognitive decline among older adults? A systematic review of underlying physiological and psychobehavioral mechanisms.",
+        "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+        "year": "2026",
+        "doi": "10.1002/alz.71585",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337961/"
+      }
+    },
+    {
+      "id": "34b2fbaf-eb31-4192-b425-57f7eb30bd2b",
+      "kind": "fact",
+      "created": "2026-10-11T12:53:36+00:00",
+      "specialty": "Hematology & Oncology",
+      "difficulty": 3,
+      "title": "Anemia marks higher risk in HFmrEF and HFpEF",
+      "body": "In FINEARTS-HF, 28.0% of patients with HFmrEF or HFpEF had anemia (Hb below 12 g/dL in women, 13 g/dL in men). They had a higher rate of heart failure events and cardiovascular death (rate ratio 1.67). Finerenone's benefit did not differ by anemia status, but it did not increase anemia resolution or prevent new-onset anemia.",
+      "takeaway": "Anemia flags higher risk in HFmrEF/HFpEF; finerenone helps regardless.",
+      "tags": [
+        "anemia",
+        "heart failure",
+        "finerenone"
+      ],
+      "fr": {
+        "specialty": "Hématologie et oncologie",
+        "title": "Anémie : risque accru dans l'IC à FE légèrement réduite ou préservée",
+        "body": "Dans FINEARTS-HF, 28,0 % des patients avec une IC à FE légèrement réduite ou préservée avaient une anémie (Hb inférieure à 12 g/dL chez la femme, 13 g/dL chez l'homme). Ils avaient un taux plus élevé d'événements d'insuffisance cardiaque et de décès cardiovasculaire (rapport des taux 1,67). L'effet de la finérénone ne différait pas selon l'anémie, mais elle n'a ni favorisé la résolution de l'anémie ni prévenu son apparition.",
+        "takeaway": "L'anémie signale un risque accru dans ces IC; la finérénone aide malgré tout.",
+        "tags": [
+          "anémie",
+          "insuffisance cardiaque",
+          "finérénone"
+        ]
+      },
+      "source": {
+        "pmid": "40377177",
+        "title": "Anaemia in patients with heart failure and mildly reduced or preserved ejection fraction: A prespecified analysis of the FINEARTS-HF trial.",
+        "journal": "European journal of heart failure",
+        "year": "2025",
+        "doi": "10.1002/ejhf.3682",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40377177/"
+      }
+    },
+    {
       "id": "42ab11a2-c426-4663-9a17-e0584aabea50",
       "kind": "fact",
       "created": "2026-10-10T13:25:39+00:00",
@@ -2308,5 +3094,5 @@
       }
     }
   ],
-  "updated": "2026-10-10T13:27:28+00:00"
+  "updated": "2026-10-11T12:59:55+00:00"
 }
